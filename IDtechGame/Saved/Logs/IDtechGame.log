@@ -3493,3 +3493,767 @@ Make sure 'ZOMBIE_C' has been compiled for  Zomb Attack
 [2018.07.10-17.37.18:450][346]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.07.10-17.37.18:450][346]SourceControl:  rewrite IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset (92%)
 [2018.07.10-17.37.18:457][346]SourceControl: Commited [master 082f2e9] This is the playable character. It goes with the zombie. The two are able to attack eachother. Do not change it unless I verbosley express you can..
+[2018.07.10-17.52.27:071][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.10-17.52.33:904][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.10-17.52.38:832][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.10-17.52.44:745][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.10-17.52.44:788][167]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.07.10-17.52.44:824][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0432f9300, Size=568
+[2018.07.10-17.52.44:824][167]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fdcbdf380, Size=568, ThirdPersonCharacter_C_4113 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_892:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.10-17.52.44:832][167]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a08840b380, Size=568, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.10-17.52.45:235][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a05f6a8300, Size=4
+[2018.07.10-17.52.45:236][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a06c123148, Size=4
+[2018.07.10-17.52.45:236][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a06c122d00, Size=4
+[2018.07.10-17.52.45:236][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a06c122078, Size=4
+[2018.07.10-17.52.45:236][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a042665c20, Size=224
+[2018.07.10-17.52.45:236][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fdd512400, Size=432
+[2018.07.10-17.52.45:236][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a046679e40, Size=296
+[2018.07.10-17.52.45:236][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0769d0900, Size=560
+[2018.07.10-17.52.45:236][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a003887600, Size=600
+[2018.07.10-17.52.45:236][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a06295ac00, Size=576
+[2018.07.10-17.52.45:236][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a005721800, Size=608
+[2018.07.10-17.52.45:236][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fbe6b7600, Size=488
+[2018.07.10-17.52.45:236][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a06c121668, Size=4
+[2018.07.10-17.52.45:236][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fdf6d74f8, Size=4
+[2018.07.10-17.52.45:236][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a04d315800, Size=576
+[2018.07.10-17.52.45:236][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a05f6ab9f8, Size=4
+[2018.07.10-17.52.45:237][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a08a776f40, Size=4
+[2018.07.10-17.52.45:237][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a05bdc5300, Size=576
+[2018.07.10-17.52.45:237][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a07b017f48, Size=4
+[2018.07.10-17.52.45:237][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a04aa97e10, Size=4
+[2018.07.10-17.52.45:237][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0b4c19d00, Size=568
+[2018.07.10-17.52.45:237][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fdf6d4f70, Size=4
+[2018.07.10-17.52.45:237][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0bdc56a00, Size=488
+[2018.07.10-17.52.45:246][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a04a138430, Size=4
+[2018.07.10-17.52.45:259][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a05f6aa7c0, Size=4
+[2018.07.10-17.52.45:259][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a04bdcba00, Size=488
+[2018.07.10-17.52.45:259][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a06c1220a0, Size=4
+[2018.07.10-17.52.45:259][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a05f6ab5e0, Size=4
+[2018.07.10-17.52.45:259][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a062218c00, Size=488
+[2018.07.10-17.52.45:259][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a096674200, Size=488
+[2018.07.10-17.52.45:259][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a05f6aac50, Size=4
+[2018.07.10-17.52.45:259][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a08ad7b800, Size=488
+[2018.07.10-17.52.45:260][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0b6430180, Size=592
+[2018.07.10-17.52.45:260][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a062219800, Size=488
+[2018.07.10-17.52.45:260][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a080754f00, Size=448
+[2018.07.10-17.52.45:260][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0a4a0e940, Size=448
+[2018.07.10-17.52.45:260][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0a9d29080, Size=568
+[2018.07.10-17.52.45:260][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fe5829440, Size=448
+[2018.07.10-17.52.45:260][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0aa63d200, Size=488
+[2018.07.10-17.52.45:260][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a09ec76480, Size=592
+[2018.07.10-17.52.45:260][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0470e4400, Size=4
+[2018.07.10-17.52.45:260][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a06c037740, Size=4
+[2018.07.10-17.52.45:260][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0616b3a60, Size=4
+[2018.07.10-17.52.45:260][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fa3749c00, Size=456
+[2018.07.10-17.52.45:260][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0479b7390, Size=4
+[2018.07.10-17.52.45:260][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0470e46a0, Size=4
+[2018.07.10-17.52.45:260][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a06b8d5180, Size=4
+[2018.07.10-17.52.45:260][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a08a7750a0, Size=4
+[2018.07.10-17.52.45:261][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0470e62a0, Size=4
+[2018.07.10-17.52.45:261][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a06b8d61d8, Size=4
+[2018.07.10-17.52.45:261][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a095f33e88, Size=4
+[2018.07.10-17.52.45:261][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a04a0967f0, Size=4
+[2018.07.10-17.52.45:261][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0470e4c08, Size=4
+[2018.07.10-17.52.45:261][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a04a097968, Size=4
+[2018.07.10-17.52.45:261][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a095f30720, Size=4
+[2018.07.10-17.52.45:261][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a001c76800, Size=456
+[2018.07.10-17.52.45:261][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0abc84b20, Size=4
+[2018.07.10-17.52.45:261][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a01d998300, Size=4
+[2018.07.10-17.52.45:261][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0479b6850, Size=4
+[2018.07.10-17.52.45:261][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a05f6aa120, Size=4
+[2018.07.10-17.52.45:261][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0b2c4c3f8, Size=4
+[2018.07.10-17.52.45:261][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a09f5c2648, Size=4
+[2018.07.10-17.52.45:261][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0b2c4d9c0, Size=4
+[2018.07.10-17.52.45:261][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a04a0e0400, Size=600
+[2018.07.10-17.52.45:267][167]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fcbcb8400, Size=672
+[2018.07.10-17.52.49:680][347]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.10-17.52.49:709][347]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-17.52.49:709][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.10-17.52.49:710][347]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 10, 2018, 3:52:49 AM)
+[2018.07.10-17.52.49:710][347]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.10-17.52.49:730][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019946s)
+[2018.07.10-17.52.49:731][347]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.10-17.52.49:731][347]LogPlayLevel: PIE: World Init took: (0.001364s)
+[2018.07.10-17.52.49:731][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021653s)
+[2018.07.10-17.52.49:757][347]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.10-17.52.49:824][347]LogInit: FAudioDevice initialized.
+[2018.07.10-17.52.49:859][347]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.10-17.52.49:864][347]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.07.10-10.52.49
+[2018.07.10-17.52.49:866][347]LogWorld: Bringing up level for play took: 0.005764
+[2018.07.10-17.52.49:867][347]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.273
+[2018.07.10-17.52.49:868][347]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-17.52.51:425][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.10-17.52.53:247][504]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.10-17.52.53:504][517]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.10-17.52.54:489][567]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.10-17.52.54:658][576]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.10-17.52.56:353][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.10-17.53.00:301][810]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.10-17.53.00:549][825]LogBlueprintUserMessages: [ZOMBIE6_721] 75
+[2018.07.10-17.53.02:447][939]LogBlueprintUserMessages: [ZOMBIE3_542] 50
+[2018.07.10-17.53.02:481][941]LogBlueprintUserMessages: [ZOMBIE3_542] 50
+[2018.07.10-17.53.02:630][950]LogBlueprintUserMessages: [ZOMBIE3_542] 0
+[2018.07.10-17.53.05:498][122]LogBlueprintUserMessages: [ZOMBIE4_649] 25
+[2018.07.10-17.53.05:566][126]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.10-17.53.06:081][157]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.10-17.53.08:736][316]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-17.53.08:779][316]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-17.53.09:538][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.10-17.53.09:604][357]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.10-17.53.09:629][357]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-17.53.09:630][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.10-17.53.09:630][357]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 10, 2018, 3:53:09 AM)
+[2018.07.10-17.53.09:630][357]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.10-17.53.09:648][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018386s)
+[2018.07.10-17.53.09:650][357]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.10-17.53.09:650][357]LogPlayLevel: PIE: World Init took: (0.001676s)
+[2018.07.10-17.53.09:650][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020444s)
+[2018.07.10-17.53.09:675][357]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.10-17.53.09:742][357]LogInit: FAudioDevice initialized.
+[2018.07.10-17.53.09:774][357]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.10-17.53.09:780][357]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.07.10-10.53.09
+[2018.07.10-17.53.09:781][357]LogWorld: Bringing up level for play took: 0.005744
+[2018.07.10-17.53.09:782][357]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.358
+[2018.07.10-17.53.09:783][357]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-17.53.12:251][499]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.10-17.53.12:437][510]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.10-17.53.13:920][599]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.10-17.53.14:103][610]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.10-17.53.16:736][768]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.10-17.53.16:936][780]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.10-17.53.18:085][849]LogBlueprintUserMessages: [ZOMBIE5_676] 75
+[2018.07.10-17.53.18:420][869]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.10-17.53.18:420][869]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.10-17.53.18:802][892]LogBlueprintUserMessages: [ZOMBIE5_676] 25
+[2018.07.10-17.53.18:921][899]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.10-17.53.20:670][  4]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.10-17.53.20:719][  7]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.10-17.53.21:604][ 60]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-17.53.21:651][ 60]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-17.53.23:974][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.10-17.53.29:524][401]LogUObjectArray: Warning: Invalid object index 8126585
+[2018.07.10-17.53.29:829][401]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.305 s
+[2018.07.10-17.53.29:829][401]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.10-17.53.29:829][401]LogOutputDevice: Error: 
+[2018.07.10-17.53.29:829][401]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.07.10-17.53.29:829][401]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.07.10-17.53.29:829][401]LogOutputDevice: Error: Stack: 
+[2018.07.10-17.53.29:829][401]LogOutputDevice: Error: [Callstack] 0x00000000CC7BB706 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.10-17.53.29:829][401]LogOutputDevice: Error: [Callstack] 0x00000000CC51AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.07.10-17.53.29:829][401]LogOutputDevice: Error: [Callstack] 0x00000000CC52ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.10-17.53.29:829][401]LogOutputDevice: Error: [Callstack] 0x00000000C1643DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.10-17.53.29:829][401]LogOutputDevice: Error: [Callstack] 0x00000000C032B2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.07.10-17.53.29:829][401]LogOutputDevice: Error: [Callstack] 0x00000000B57FC22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.10-17.53.29:829][401]LogOutputDevice: Error: [Callstack] 0x00000000B56877AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.10-17.53.29:829][401]LogOutputDevice: Error: [Callstack] 0x00000000B568AEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.10-17.53.29:829][401]LogOutputDevice: Error: [Callstack] 0x00000000B57C6E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.10-17.53.29:829][401]LogOutputDevice: Error: [Callstack] 0x00000000D4486057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.10-17.53.29:829][401]LogOutputDevice: Error: [Callstack] 0x00000000D448BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.10-17.53.29:829][401]LogOutputDevice: Error: [Callstack] 0x00000000D46BC253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.10-17.53.29:829][401]LogOutputDevice: Error: [Callstack] 0x00000000D44E0475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.10-17.53.29:830][401]LogOutputDevice: Error: [Callstack] 0x00000000D44B8360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.10-17.53.29:830][401]LogOutputDevice: Error: [Callstack] 0x00000000D44AB197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.10-17.53.29:830][401]LogOutputDevice: Error: [Callstack] 0x00000000EF7CE4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.10-17.53.29:830][401]LogOutputDevice: Error: [Callstack] 0x00000000EF7C1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.10-17.53.29:830][401]LogOutputDevice: Error: [Callstack] 0x00000000EF7D052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.10-17.53.29:830][401]LogOutputDevice: Error: [Callstack] 0x00000000EF7BD679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.10-17.53.29:830][401]LogOutputDevice: Error: [Callstack] 0x000000000A44B85D USER32.dll!UnknownFunction []
+[2018.07.10-17.53.29:830][401]LogOutputDevice: Error: [Callstack] 0x000000000A44B1EF USER32.dll!UnknownFunction []
+[2018.07.10-17.53.29:830][401]LogOutputDevice: Error: [Callstack] 0x00000000EF7D1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.10-17.53.29:830][401]LogOutputDevice: Error: [Callstack] 0x0000000094E65475 UE4Editor.exe!UnknownFunction []
+[2018.07.10-17.53.29:830][401]LogOutputDevice: Error: [Callstack] 0x0000000094E76BD0 UE4Editor.exe!UnknownFunction []
+[2018.07.10-17.53.29:830][401]LogOutputDevice: Error: [Callstack] 0x0000000094E76C4A UE4Editor.exe!UnknownFunction []
+[2018.07.10-17.53.29:830][401]LogOutputDevice: Error: [Callstack] 0x0000000094E84177 UE4Editor.exe!UnknownFunction []
+[2018.07.10-17.53.29:830][401]LogOutputDevice: Error: [Callstack] 0x0000000094E85B87 UE4Editor.exe!UnknownFunction []
+[2018.07.10-17.53.29:830][401]LogOutputDevice: Error: [Callstack] 0x0000000007F41FE4 KERNEL32.DLL!UnknownFunction []
+[2018.07.10-17.53.29:830][401]LogOutputDevice: Error: [Callstack] 0x000000000AACCB31 ntdll.dll!UnknownFunction []
+[2018.07.10-17.53.29:830][401]LogOutputDevice: Error: 
+[2018.07.10-17.53.29:834][401]LogStats:                SubmitErrorReport -  0.000 s
+[2018.07.10-17.53.30:265][401]LogStats:                    SendNewReport -  0.430 s
+[2018.07.10-17.53.30:265][401]LogStats:             FDebug::EnsureFailed -  0.740 s
+[2018.07.10-17.53.30:265][401]LogUObjectArray: Warning: Invalid object index 8126585
+[2018.07.10-17.53.43:722][984]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.10-17.53.43:747][984]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-17.53.43:748][984]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.10-17.53.43:783][984]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.07.10-17.53.43:799][984]LogPlayLevel: [PlayLevel]   Compiling ZOMBIE as a dependent...
+[2018.07.10-17.53.43:811][984]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a08840b380, Size=568
+[2018.07.10-17.53.43:812][984]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fdc4c5a80, Size=568, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_898:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.10-17.53.43:812][984]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0ae3c8e00, Size=488
+[2018.07.10-17.53.43:812][984]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a08ab0e000, Size=488, Default__ZOMBIE_C Function /Engine/Transient.REINST_ZOMBIE_C_899:ExecuteUbergraph_ZOMBIE
+[2018.07.10-17.53.43:825][984]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0ada8e980, Size=568, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.10-17.53.43:828][984]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0621ae400, Size=488, Default__ZOMBIE_C Function /Game/ThirdPersonBP/Blueprints/ZOMBIE.ZOMBIE_C:ExecuteUbergraph_ZOMBIE
+[2018.07.10-17.53.44:868][984]LogPlayLevel: PlayLevel: Blueprint regeneration took 1120 ms (2 blueprints)
+[2018.07.10-17.53.44:868][984]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 10, 2018, 3:53:44 AM)
+[2018.07.10-17.53.44:868][984]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.10-17.53.44:887][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018293s)
+[2018.07.10-17.53.44:888][984]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.10-17.53.44:888][984]LogPlayLevel: PIE: World Init took: (0.001451s)
+[2018.07.10-17.53.44:888][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020169s)
+[2018.07.10-17.53.44:915][984]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.10-17.53.44:981][984]LogInit: FAudioDevice initialized.
+[2018.07.10-17.53.45:011][984]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.10-17.53.45:018][984]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.07.10-10.53.45
+[2018.07.10-17.53.45:019][984]LogWorld: Bringing up level for play took: 0.006397
+[2018.07.10-17.53.45:021][984]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.88
+[2018.07.10-17.53.45:021][984]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-17.53.48:239][122]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.10-17.53.48:302][125]LogBlueprintUserMessages: [ZOMBIE4_649] 95
+[2018.07.10-17.53.48:409][130]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.10-17.53.54:984][433]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.10-17.53.55:049][436]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.10-17.53.58:025][575]LogBlueprintUserMessages: [ZOMBIE6_721] 90
+[2018.07.10-17.53.58:052][576]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.10-17.53.58:138][580]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.10-17.54.03:227][819]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.10-17.54.05:319][917]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.10-17.54.13:722][317]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.10-17.54.16:955][467]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.10-17.54.19:286][577]LogBlueprintUserMessages: [ZOMBIE3_542] 50
+[2018.07.10-17.54.19:439][584]LogBlueprintUserMessages: [ZOMBIE3_542] 0
+[2018.07.10-17.54.22:755][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-17.54.22:796][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-17.54.49:974][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.10-17.54.50:203][ 25]LogSavePackage: Save=145.76ms
+[2018.07.10-17.54.50:203][ 25]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ThirdPersonExampleMap_Auto96D1B9BFA4491CE8FD862F99032FE6B37.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto9.umap'
+[2018.07.10-17.54.50:206][ 25]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto9.umap
+[2018.07.10-17.54.50:209][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.197
+[2018.07.10-17.54.50:209][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.197
+[2018.07.10-17.54.50:213][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.07.10-17.54.50:256][ 25]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.07.10-17.54.50:256][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.07.10-17.54.50:320][ 25]LogSavePackage: Save=53.31ms
+[2018.07.10-17.54.50:320][ 25]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ThirdPersonCharacter_Auto96E53908D4DCE4643103E9D9DF501636E.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto9.uasset'
+[2018.07.10-17.54.50:322][ 25]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto9.uasset
+[2018.07.10-17.54.50:323][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ZOMBIE] ([1] browsable assets)...
+[2018.07.10-17.54.50:356][ 25]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ZOMBIE.ZOMBIE]
+[2018.07.10-17.54.50:356][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ZOMBIE]
+[2018.07.10-17.54.50:420][ 25]LogSavePackage: Save=53.65ms
+[2018.07.10-17.54.50:420][ 25]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ZOMBIE_Auto9A8418BD04997083525596BAC98A0B014.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ZOMBIE_Auto9.uasset'
+[2018.07.10-17.54.50:422][ 25]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ZOMBIE_Auto9.uasset
+[2018.07.10-17.54.50:422][ 25]LogFileHelpers: Auto-saving content packages took 0.211
+[2018.07.10-18.00.37:638][870]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.10-18.00.37:706][870]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.00.37:706][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.10-18.00.37:706][870]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 10, 2018, 4:00:37 AM)
+[2018.07.10-18.00.37:706][870]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.10-18.00.37:727][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020396s)
+[2018.07.10-18.00.37:728][870]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.10-18.00.37:729][870]LogPlayLevel: PIE: World Init took: (0.001719s)
+[2018.07.10-18.00.37:729][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022580s)
+[2018.07.10-18.00.37:760][870]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.10-18.00.37:830][870]LogInit: FAudioDevice initialized.
+[2018.07.10-18.00.37:866][870]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.10-18.00.37:872][870]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.07.10-11.00.37
+[2018.07.10-18.00.37:874][870]LogWorld: Bringing up level for play took: 0.006519
+[2018.07.10-18.00.37:875][870]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.265
+[2018.07.10-18.00.37:876][870]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.00.41:483][ 28]LogBlueprintUserMessages: [ZOMBIE3_542] 95
+[2018.07.10-18.00.41:678][ 37]LogBlueprintUserMessages: [ZOMBIE3_542] 50
+[2018.07.10-18.00.41:848][ 45]LogBlueprintUserMessages: [ZOMBIE3_542] 0
+[2018.07.10-18.00.45:895][228]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.10-18.00.45:964][231]LogBlueprintUserMessages: [ZOMBIE4_649] 90
+[2018.07.10-18.00.46:079][236]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.10-18.00.48:410][343]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.10-18.00.48:536][349]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.10-18.00.50:226][428]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.10-18.00.50:398][436]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.10-18.00.50:804][455]LogBlueprintUserMessages: [ZOMBIE6_721] 85
+[2018.07.10-18.00.51:202][473]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.10-18.00.51:399][482]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.10-18.00.54:168][614]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.10-18.00.54:347][623]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.10-18.00.55:784][691]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.00.55:860][691]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.01.02:285][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.10-18.05.26:110][343]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.07.10-18.05.26:170][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0ada8e980, Size=568
+[2018.07.10-18.05.26:170][343]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0a57e5a80, Size=568, ThirdPersonCharacter_C_4326 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_910:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.10-18.05.26:178][343]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a05ef89f80, Size=568, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.10-18.05.30:259][461]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.10-18.05.30:295][461]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.05.30:295][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.10-18.05.30:295][461]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 10, 2018, 4:05:30 AM)
+[2018.07.10-18.05.30:296][461]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.10-18.05.30:319][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023014s)
+[2018.07.10-18.05.30:320][461]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.10-18.05.30:320][461]LogPlayLevel: PIE: World Init took: (0.001490s)
+[2018.07.10-18.05.30:320][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024827s)
+[2018.07.10-18.05.30:349][461]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.10-18.05.30:431][461]LogInit: FAudioDevice initialized.
+[2018.07.10-18.05.30:469][461]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.10-18.05.30:474][461]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.07.10-11.05.30
+[2018.07.10-18.05.30:475][461]LogWorld: Bringing up level for play took: 0.005531
+[2018.07.10-18.05.30:477][461]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.337
+[2018.07.10-18.05.30:477][461]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.05.54:824][545]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.10-18.05.54:824][545]LogBlueprintUserMessages: [ZOMBIE5_676] 95
+[2018.07.10-18.05.54:991][552]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.10-18.05.55:256][563]LogBlueprintUserMessages: [ZOMBIE6_721] 90
+[2018.07.10-18.05.55:318][565]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.10-18.05.55:475][572]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.10-18.05.55:809][587]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.10-18.05.56:005][596]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.10-18.05.56:354][612]LogBlueprintUserMessages: [ZOMBIE4_649] 85
+[2018.07.10-18.05.56:457][616]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.10-18.05.56:637][624]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.10-18.05.59:197][742]LogBlueprintUserMessages: [ZOMBIE3_542] 50
+[2018.07.10-18.05.59:218][743]LogBlueprintUserMessages: [ZOMBIE3_542] 80
+[2018.07.10-18.05.59:341][748]LogBlueprintUserMessages: [ZOMBIE3_542] 0
+[2018.07.10-18.06.02:107][870]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.10-18.06.02:203][874]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.10-18.06.19:258][658]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.06.19:315][658]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.06.23:959][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.10-18.08.20:135][743]LogSavePackage: Save=56.10ms
+[2018.07.10-18.08.20:135][743]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ThirdPersonCharacter6E91F9D246106A0B5A5E9BB0F9C1B000.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.07.10-18.08.20:146][743]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.07.10-18.08.21:900][789]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.10-18.08.21:932][789]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.08.21:933][789]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.10-18.08.21:949][789]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.07.10-18.08.21:968][789]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a05ef89f80, Size=568
+[2018.07.10-18.08.21:968][789]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0a086e480, Size=568, ThirdPersonCharacter_C_4393 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_916:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.10-18.08.21:977][789]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a09f86bb00, Size=568, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.10-18.08.22:416][789]LogPlayLevel: PlayLevel: Blueprint regeneration took 483 ms (1 blueprints)
+[2018.07.10-18.08.22:416][789]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 10, 2018, 4:08:22 AM)
+[2018.07.10-18.08.22:416][789]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.10-18.08.22:433][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016762s)
+[2018.07.10-18.08.22:434][789]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.10-18.08.22:435][789]LogPlayLevel: PIE: World Init took: (0.001574s)
+[2018.07.10-18.08.22:435][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018763s)
+[2018.07.10-18.08.22:460][789]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.10-18.08.22:535][789]LogInit: FAudioDevice initialized.
+[2018.07.10-18.08.22:570][789]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.10-18.08.22:577][789]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.07.10-11.08.22
+[2018.07.10-18.08.22:578][789]LogWorld: Bringing up level for play took: 0.006779
+[2018.07.10-18.08.22:580][789]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.439
+[2018.07.10-18.08.22:580][789]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.08.36:485][382]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.08.36:539][382]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.08.38:929][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.10-18.09.13:995][860]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.10-18.09.14:030][860]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.09.14:030][860]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.10-18.09.14:044][860]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.07.10-18.09.14:057][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a09f86bb00, Size=568
+[2018.07.10-18.09.14:057][860]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0a9e98400, Size=568, ThirdPersonCharacter_C_4475 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_922:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.10-18.09.14:065][860]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a03f45fd80, Size=568, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.10-18.09.14:573][860]LogPlayLevel: PlayLevel: Blueprint regeneration took 543 ms (1 blueprints)
+[2018.07.10-18.09.14:573][860]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 10, 2018, 4:09:14 AM)
+[2018.07.10-18.09.14:573][860]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.10-18.09.14:589][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015781s)
+[2018.07.10-18.09.14:590][860]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.10-18.09.14:590][860]LogPlayLevel: PIE: World Init took: (0.001195s)
+[2018.07.10-18.09.14:591][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017258s)
+[2018.07.10-18.09.14:614][860]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.10-18.09.14:678][860]LogInit: FAudioDevice initialized.
+[2018.07.10-18.09.14:708][860]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.10-18.09.14:713][860]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.07.10-11.09.14
+[2018.07.10-18.09.14:714][860]LogWorld: Bringing up level for play took: 0.004990
+[2018.07.10-18.09.14:715][860]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.575
+[2018.07.10-18.09.14:716][860]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.09.21:555][148]LogBlueprintUserMessages: [ZOMBIE3_542] 95
+[2018.07.10-18.09.26:020][341]LogBlueprintUserMessages: [ZOMBIE4_649] 90
+[2018.07.10-18.09.26:541][363]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.10-18.09.26:625][367]LogBlueprintUserMessages: [ZOMBIE4_649] 85
+[2018.07.10-18.09.26:695][370]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.10-18.09.29:094][474]LogBlueprintUserMessages: [ZOMBIE5_676] 80
+[2018.07.10-18.09.32:542][625]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.10-18.09.32:723][633]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.10-18.09.32:906][641]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.10-18.09.35:595][761]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.10-18.09.36:376][795]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.10-18.09.42:510][ 63]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.10-18.10.16:222][597]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.10-18.10.16:692][619]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.10-18.10.18:904][722]LogBlueprintUserMessages: [ZOMBIE3_542] 75
+[2018.07.10-18.10.20:990][822]LogBlueprintUserMessages: [ZOMBIE3_542] 70
+[2018.07.10-18.10.21:908][867]LogBlueprintUserMessages: [ZOMBIE3_542] 50
+[2018.07.10-18.10.22:123][877]LogBlueprintUserMessages: [ZOMBIE3_542] 0
+[2018.07.10-18.11.00:508][656]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.11.00:562][656]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.11.03:730][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.10-18.11.08:766][883]LogSlate: Window 'Save Content' being destroyed
+[2018.07.10-18.11.08:985][883]LogSavePackage: Save=59.20ms
+[2018.07.10-18.11.08:985][883]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ThirdPersonCharacter6DE98ACE4D2B386592004697F8C1F916.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.07.10-18.11.08:992][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.07.10-18.11.17:668][883]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.10-18.11.18:002][883]LogSourceControl: commit successful: [master f47d539] updated character
+[2018.07.10-18.11.18:062][883]SourceControl: [master f47d539] updated character
+[2018.07.10-18.11.18:062][883]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.07.10-18.11.18:071][883]SourceControl: Commited [master f47d539] updated character.
+[2018.07.10-18.11.21:332][994]LogSavePackage: Save=148.06ms
+[2018.07.10-18.11.21:332][994]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ThirdPersonExampleMap_Auto04E7A8EA14C1A46A1AF8BBE812AC6F674.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto0.umap'
+[2018.07.10-18.11.21:335][994]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto0.umap
+[2018.07.10-18.11.21:342][994]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.203
+[2018.07.10-18.11.21:342][994]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.203
+[2018.07.10-18.11.21:346][994]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ZOMBIE] ([1] browsable assets)...
+[2018.07.10-18.11.21:377][994]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ZOMBIE.ZOMBIE]
+[2018.07.10-18.11.21:377][994]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ZOMBIE]
+[2018.07.10-18.11.21:456][994]LogSavePackage: Save=62.83ms
+[2018.07.10-18.11.21:456][994]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ZOMBIE_Auto0C05CEA2C42446E929F3E1E8D6DA80CE8.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ZOMBIE_Auto0.uasset'
+[2018.07.10-18.11.21:458][994]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ZOMBIE_Auto0.uasset
+[2018.07.10-18.11.21:458][994]LogFileHelpers: Auto-saving content packages took 0.113
+[2018.07.10-18.21.21:655][301]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.031
+[2018.07.10-18.21.21:658][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint] ([1] browsable assets)...
+[2018.07.10-18.21.21:658][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint]
+[2018.07.10-18.21.21:673][301]LogSavePackage: Save=12.51ms
+[2018.07.10-18.21.21:673][301]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/NewWidgetBlueprint_Auto1DF802BD147B63401E0E01AAF10E9536A.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint_Auto1.uasset'
+[2018.07.10-18.21.21:677][301]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint_Auto1.uasset
+[2018.07.10-18.21.21:677][301]LogFileHelpers: Auto-saving content packages took 0.020
+[2018.07.10-18.23.36:776][422]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.44:305][713]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.44:305][713]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.44:729][729]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.44:729][729]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.44:731][729]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.44:733][729]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.44:740][729]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.44:750][730]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.44:752][730]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.44:768][730]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.45:886][774]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.45:886][774]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.45:888][774]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.45:890][774]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.45:897][774]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.46:084][781]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.46:084][781]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.46:087][781]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.46:089][781]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.46:096][781]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.46:119][782]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.46:665][801]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.46:665][801]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.46:667][801]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.46:673][801]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.46:689][801]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.46:913][810]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.46:913][810]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.52:705][ 29]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.52:706][ 29]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.52:709][ 29]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.52:709][ 29]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.52:712][ 29]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.52:718][ 29]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.23.53:935][ 77]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.24.11:941][746]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.24.11:941][746]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.24.11:944][746]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.24.42:302][941]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.24.42:302][941]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.24.52:641][361]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.24.52:641][361]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.24.52:646][361]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.24.52:648][361]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.24.52:662][361]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.24.54:597][437]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.24.54:598][437]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.24.54:600][437]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.24.54:608][437]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.24.54:618][437]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.16:657][351]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.16:658][351]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.16:663][351]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.16:665][351]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.16:667][351]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.16:669][351]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.16:675][351]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.16:691][352]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.16:693][352]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.16:699][352]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.16:708][353]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.16:711][353]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.16:726][353]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.17:271][374]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.17:272][374]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.17:274][374]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.17:275][374]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.17:277][374]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.17:283][374]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.17:291][375]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:372][620]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:393][621]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:393][621]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:398][621]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:404][621]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:421][622]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:430][622]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:445][623]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:451][623]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:463][624]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:476][624]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:494][625]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:500][625]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:510][626]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:525][626]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:541][627]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:548][627]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:558][628]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:572][628]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:590][629]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:601][629]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:613][630]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:627][630]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:642][631]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:645][631]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:651][631]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:660][632]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:667][632]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:680][632]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:694][633]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:696][633]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:702][633]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:710][634]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:717][634]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:732][634]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:962][644]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:965][644]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:973][644]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:974][644]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:976][644]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.23:989][644]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.24:391][661]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.24:391][661]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.24:394][661]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.24:396][661]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.24:403][661]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.24:413][662]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.24:421][662]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.24:434][662]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.24:444][663]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.24:447][663]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.24:453][663]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.24:463][664]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.24:470][664]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.24:483][664]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.24:494][665]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.24:496][665]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.24:502][665]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.24:512][666]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.25:626][710]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.25:627][710]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.25:629][710]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.25:632][710]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.25:638][710]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.25:652][711]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.25:656][711]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.25:663][711]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.25:671][712]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.25:674][712]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.25:689][712]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.29:316][855]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.29:317][855]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.40:823][319]LogEditorTransaction: Undo Create Pin Link
+[2018.07.10-18.25.40:828][319]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0acd7c4c0, Size=4, Default__SKEL_ZOMBIE_C Function /Game/ThirdPersonBP/Blueprints/ZOMBIE.SKEL_ZOMBIE_C:ExecuteUbergraph_ZOMBIE
+[2018.07.10-18.25.45:360][481]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.45:361][481]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.45:364][481]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.45:366][481]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.45:372][481]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.45:384][482]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.49:347][639]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.49:348][639]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.49:350][639]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.49:353][639]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.49:358][639]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.49:373][640]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.49:376][640]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.49:383][640]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.49:512][646]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.49:512][646]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.49:519][646]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.49:524][646]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.49:532][646]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.53:828][820]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.53:830][820]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.53:835][820]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.53:836][820]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.53:839][820]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.25.53:844][820]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.00:693][103]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.00:693][103]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.00:694][103]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.00:698][103]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.00:710][103]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.02:797][188]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.02:797][188]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.02:799][188]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.02:802][188]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.02:808][188]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.05:039][279]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.05:040][279]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.05:041][279]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.05:043][279]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.05:056][279]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.05:197][285]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.05:200][285]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.05:208][285]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.05:209][285]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.15:164][681]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.15:164][681]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.15:168][681]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.15:174][681]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.15:192][682]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.15:195][682]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.15:202][682]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.15:209][683]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.15:212][683]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.15:227][683]LogUObjectArray: Warning: Other object in slot
+[2018.07.10-18.26.18:480][810]BlueprintLog: New page: Compile ZOMBIE
+[2018.07.10-18.26.18:497][810]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0acd7c4c0, Size=4
+[2018.07.10-18.26.18:497][810]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a01d99b900, Size=4, Default__SKEL_ZOMBIE_C Function /Engine/Transient.REINST_SKEL_ZOMBIE_C_933:ExecuteUbergraph_ZOMBIE
+[2018.07.10-18.26.18:580][810]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a03f45fd80, Size=568
+[2018.07.10-18.26.18:580][810]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a062d91080, Size=568, ThirdPersonCharacter_C_4517 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_936:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.10-18.26.18:581][810]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0621ae400, Size=488
+[2018.07.10-18.26.18:581][810]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a031115200, Size=488, ZOMBIE_C_3160 Function /Engine/Transient.REINST_ZOMBIE_C_937:ExecuteUbergraph_ZOMBIE
+[2018.07.10-18.26.18:593][810]LogBlueprint: Error: [Compiler ZOMBIE] The type of  Object  is undetermined.  Connect something to  Cast To NewWidgetBlueprint  to imply a specific type.
+[2018.07.10-18.26.18:596][810]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffda51d00, Size=568, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.10-18.26.18:597][810]LogBlueprint: Error: [Compiler ZOMBIE] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.07.10-18.26.18:598][810]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0a8c93000, Size=504, Default__ZOMBIE_C Function /Game/ThirdPersonBP/Blueprints/ZOMBIE.ZOMBIE_C:ExecuteUbergraph_ZOMBIE
+[2018.07.10-18.26.19:808][810]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a01d99b900, Size=4
+[2018.07.10-18.26.19:849][810]LogBlueprint: Warning: [Compiler ZOMBIE] [7411.97] Compile of ZOMBIE failed. 2 Fatal Issue(s) 0 Warning(s) [in 1,369 ms] (/Game/ThirdPersonBP/Blueprints/ZOMBIE.ZOMBIE)
+[2018.07.10-18.29.44:105][777]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fdf6d6f18, Size=4, Default__SKEL_ZOMBIE_C Function /Game/ThirdPersonBP/Blueprints/ZOMBIE.SKEL_ZOMBIE_C:ExecuteUbergraph_ZOMBIE
+[2018.07.10-18.29.52:272][ 87]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fdf6d6f18, Size=4
+[2018.07.10-18.29.52:272][ 87]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0bc00c9b0, Size=4, Default__SKEL_ZOMBIE_C Function /Engine/Transient.REINST_SKEL_ZOMBIE_C_942:ExecuteUbergraph_ZOMBIE
+[2018.07.10-18.29.52:277][ 87]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0bc00ca48, Size=4, Default__SKEL_ZOMBIE_C Function /Game/ThirdPersonBP/Blueprints/ZOMBIE.SKEL_ZOMBIE_C:ExecuteUbergraph_ZOMBIE
+[2018.07.10-18.30.05:539][171]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.07.10-18.30.48:472][556]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.07.10-18.30.48:479][556]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0bc00ca48, Size=4
+[2018.07.10-18.30.48:479][556]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0121e3c00, Size=4, Default__SKEL_ZOMBIE_C Function /Engine/Transient.REINST_SKEL_ZOMBIE_C_944:ExecuteUbergraph_ZOMBIE
+[2018.07.10-18.30.48:483][556]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0121e06c8, Size=4, Default__SKEL_ZOMBIE_C Function /Game/ThirdPersonBP/Blueprints/ZOMBIE.SKEL_ZOMBIE_C:ExecuteUbergraph_ZOMBIE
+[2018.07.10-18.31.38:294][363]BlueprintLog: New page: Compile ZOMBIE
+[2018.07.10-18.31.38:309][363]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0121e06c8, Size=4
+[2018.07.10-18.31.38:309][363]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fdf6d7ad0, Size=4, Default__SKEL_ZOMBIE_C Function /Engine/Transient.REINST_SKEL_ZOMBIE_C_947:ExecuteUbergraph_ZOMBIE
+[2018.07.10-18.31.38:386][363]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffda51d00, Size=568
+[2018.07.10-18.31.38:386][363]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0ce685080, Size=568, ThirdPersonCharacter_C_4549 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_950:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.10-18.31.38:387][363]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0a8c93000, Size=504
+[2018.07.10-18.31.38:387][363]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f961d1e00, Size=504, ZOMBIE_C_3170 Function /Engine/Transient.REINST_ZOMBIE_C_951:ExecuteUbergraph_ZOMBIE
+[2018.07.10-18.31.38:398][363]LogBlueprint: Warning: [Compiler ZOMBIE] 'New Widget Blueprint' does not inherit from 'Third Person Character' ( Cast To NewWidgetBlueprint  would always fail).
+[2018.07.10-18.31.38:401][363]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0c81ca200, Size=568, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.10-18.31.38:404][363]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0ac805200, Size=504, Default__ZOMBIE_C Function /Game/ThirdPersonBP/Blueprints/ZOMBIE.ZOMBIE_C:ExecuteUbergraph_ZOMBIE
+[2018.07.10-18.31.39:396][363]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fdf6d7ad0, Size=4
+[2018.07.10-18.31.39:396][363]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a062d91080, Size=568
+[2018.07.10-18.31.39:397][363]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a031115200, Size=488
+[2018.07.10-18.31.39:437][363]LogBlueprint: Warning: [Compiler ZOMBIE] [7731.56] Compile of ZOMBIE successful, but with 1 Warning(s) [in 1,143 ms] (/Game/ThirdPersonBP/Blueprints/ZOMBIE.ZOMBIE)
+[2018.07.10-18.31.58:104][ 33]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.07.10-18.31.58:113][ 33]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.07.10-18.31.59:742][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.10-18.31.59:814][ 90]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.31.59:815][ 90]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.10-18.31.59:819][ 90]LogPlayLevel: [PlayLevel] Compiling NewWidgetBlueprint before play...
+[2018.07.10-18.31.59:979][ 90]LogPlayLevel: PlayLevel: Blueprint regeneration took 164 ms (1 blueprints)
+[2018.07.10-18.31.59:979][ 90]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 10, 2018, 4:31:59 AM)
+[2018.07.10-18.31.59:979][ 90]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.10-18.32.00:004][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024495s)
+[2018.07.10-18.32.00:006][ 90]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.10-18.32.00:006][ 90]LogPlayLevel: PIE: World Init took: (0.001799s)
+[2018.07.10-18.32.00:006][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026737s)
+[2018.07.10-18.32.00:038][ 90]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.10-18.32.00:105][ 90]LogInit: FAudioDevice initialized.
+[2018.07.10-18.32.00:138][ 90]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.10-18.32.00:144][ 90]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.07.10-11.32.00
+[2018.07.10-18.32.00:146][ 90]LogWorld: Bringing up level for play took: 0.007091
+[2018.07.10-18.32.00:150][ 90]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.01
+[2018.07.10-18.32.00:151][ 90]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.32.07:772][373]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.10-18.32.08:181][389]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.10-18.32.14:466][630]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.10-18.32.14:661][637]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.10-18.32.16:817][720]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.10-18.32.16:971][726]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.10-18.32.19:942][836]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.32.20:019][836]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.32.20:332][841]Cmd: SELECT NONE
+[2018.07.10-18.32.23:110][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.10-18.32.55:944][189]LogSavePackage: Save=145.05ms
+[2018.07.10-18.32.55:947][189]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ThirdPersonExampleMap_Auto281C4FF3646466A73402408BEE58C949F.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.07.10-18.32.55:950][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2018.07.10-18.32.55:957][189]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.213
+[2018.07.10-18.32.55:957][189]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.213
+[2018.07.10-18.32.55:960][189]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.07.10-18.32.55:991][189]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.07.10-18.32.55:991][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.07.10-18.32.56:063][189]LogSavePackage: Save=56.29ms
+[2018.07.10-18.32.56:063][189]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ThirdPersonCharacter_Auto21B9EDEF341817CDA7936BA8270313366.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2018.07.10-18.32.56:065][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2018.07.10-18.32.56:066][189]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ZOMBIE] ([1] browsable assets)...
+[2018.07.10-18.32.56:096][189]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ZOMBIE.ZOMBIE]
+[2018.07.10-18.32.56:096][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ZOMBIE]
+[2018.07.10-18.32.56:185][189]LogSavePackage: Save=73.95ms
+[2018.07.10-18.32.56:185][189]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ZOMBIE_Auto2851EAF7747C33B19C3032F819AC3CFA2.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ZOMBIE_Auto2.uasset'
+[2018.07.10-18.32.56:187][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ZOMBIE_Auto2.uasset
+[2018.07.10-18.32.56:188][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint] ([1] browsable assets)...
+[2018.07.10-18.32.56:188][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint]
+[2018.07.10-18.32.56:201][189]LogSavePackage: Save=11.09ms
+[2018.07.10-18.32.56:202][189]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/NewWidgetBlueprint_Auto22DABE9A5457E44099541BA86F5575643.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint_Auto2.uasset'
+[2018.07.10-18.32.56:203][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint_Auto2.uasset
+[2018.07.10-18.32.56:203][189]LogFileHelpers: Auto-saving content packages took 0.244
+[2018.07.10-18.32.58:851][274]BlueprintLog: New page: Compile ZOMBIE
+[2018.07.10-18.32.58:928][274]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0c81ca200, Size=568
+[2018.07.10-18.32.58:928][274]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a034d79300, Size=568, ThirdPersonCharacter_C_4591 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_968:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.10-18.32.58:929][274]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0ac805200, Size=504
+[2018.07.10-18.32.58:929][274]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a091994a00, Size=504, ZOMBIE_C_3188 Function /Engine/Transient.REINST_ZOMBIE_C_969:ExecuteUbergraph_ZOMBIE
+[2018.07.10-18.32.58:947][274]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0c2940180, Size=568, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.10-18.32.58:950][274]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0816ce400, Size=488, Default__ZOMBIE_C Function /Game/ThirdPersonBP/Blueprints/ZOMBIE.ZOMBIE_C:ExecuteUbergraph_ZOMBIE
+[2018.07.10-18.33.02:255][340]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.10-18.33.02:319][340]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.33.02:320][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.10-18.33.02:320][340]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 10, 2018, 4:33:02 AM)
+[2018.07.10-18.33.02:320][340]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.10-18.33.02:337][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017199s)
+[2018.07.10-18.33.02:338][340]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.10-18.33.02:338][340]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2018.07.10-18.33.02:338][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018510s)
+[2018.07.10-18.33.02:368][340]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a091994a00, Size=504
+[2018.07.10-18.33.02:368][340]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a034d79300, Size=568
+[2018.07.10-18.33.02:370][340]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.10-18.33.02:437][340]LogInit: FAudioDevice initialized.
+[2018.07.10-18.33.02:473][340]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.10-18.33.02:479][340]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.07.10-11.33.02
+[2018.07.10-18.33.02:480][340]LogWorld: Bringing up level for play took: 0.005614
+[2018.07.10-18.33.02:482][340]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.341
+[2018.07.10-18.33.02:482][340]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.33.04:175][400]LogBlueprintUserMessages: [ZOMBIE6_721] 95
+[2018.07.10-18.33.05:654][458]LogBlueprintUserMessages: [ZOMBIE5_676] 90
+[2018.07.10-18.33.07:767][542]LogBlueprintUserMessages: [ZOMBIE4_649] 85
+[2018.07.10-18.33.08:988][590]LogBlueprintUserMessages: [ZOMBIE5_676] 80
+[2018.07.10-18.33.09:834][624]LogBlueprintUserMessages: [ZOMBIE6_721] 75
+[2018.07.10-18.33.10:056][633]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.10-18.33.11:571][693]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.10-18.33.11:886][706]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.10-18.33.12:572][733]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.10-18.33.12:967][748]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.10-18.33.14:784][821]LogBlueprintUserMessages: [ZOMBIE6_721] 70
+[2018.07.10-18.33.14:803][822]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.10-18.33.16:108][874]LogBlueprintUserMessages: [ZOMBIE5_676] 65
+[2018.07.10-18.33.16:209][878]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.10-18.33.16:389][885]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.10-18.33.16:671][896]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.10-18.33.16:720][898]LogBlueprintUserMessages: [ZOMBIE4_649] 60
+[2018.07.10-18.33.16:834][903]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.10-18.33.19:006][990]LogBlueprintUserMessages: [ZOMBIE3_542] 50
+[2018.07.10-18.33.19:040][991]LogBlueprintUserMessages: [ZOMBIE3_542] 55
+[2018.07.10-18.33.19:165][996]LogBlueprintUserMessages: [ZOMBIE3_542] 0
+[2018.07.10-18.35.09:480][552]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.35.09:560][552]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.10-18.45.04:303][366]LogSavePackage: Save=215.79ms
+[2018.07.10-18.45.04:304][366]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ThirdPersonExampleMap_Auto3FF454D7A4165482AE4A489B982D237D7.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2018.07.10-18.45.04:307][366]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2018.07.10-18.45.04:311][366]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.302
+[2018.07.10-18.45.04:311][366]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.302
+[2018.07.10-18.45.04:322][366]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.07.10-18.45.04:365][366]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.07.10-18.45.04:366][366]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.07.10-18.45.04:456][366]LogSavePackage: Save=71.84ms
+[2018.07.10-18.45.04:456][366]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ThirdPersonCharacter_Auto328C751A04D4B7D6900F296B7DE28BE65.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2018.07.10-18.45.04:458][366]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset
+[2018.07.10-18.45.04:459][366]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ZOMBIE] ([1] browsable assets)...
+[2018.07.10-18.45.04:502][366]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ZOMBIE.ZOMBIE]
+[2018.07.10-18.45.04:502][366]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ZOMBIE]
+[2018.07.10-18.45.04:590][366]LogSavePackage: Save=72.88ms
+[2018.07.10-18.45.04:590][366]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ZOMBIE_Auto3B9611BE945A174779733E0BE9692DE9B.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ZOMBIE_Auto3.uasset'
+[2018.07.10-18.45.04:593][366]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ZOMBIE_Auto3.uasset
+[2018.07.10-18.45.04:593][366]LogFileHelpers: Auto-saving content packages took 0.273
+[2018.07.10-19.57.42:325][440]LogSlate: FSceneViewport::OnFocusLost() reason 2
