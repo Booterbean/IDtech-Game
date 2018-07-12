@@ -23120,3 +23120,71 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2018.07.12-22.55.53:559][807]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/NewWidgetBlueprint_Auto483D327634271FC659352BCBCB8F84149.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint_Auto4.uasset'
 [2018.07.12-22.55.53:562][807]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint_Auto4.uasset
 [2018.07.12-22.55.53:563][807]LogFileHelpers: Auto-saving content packages took 0.038
+[2018.07.12-22.58.56:191][355]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.12-22.59.02:495][535]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-22.59.02:656][535]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-22.59.02:656][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-22.59.02:656][535]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 12, 2018, 8:59:02 AM)
+[2018.07.12-22.59.02:657][535]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.12-22.59.02:676][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018827s)
+[2018.07.12-22.59.02:678][535]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.12-22.59.02:678][535]LogPlayLevel: PIE: World Init took: (0.001721s)
+[2018.07.12-22.59.02:678][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021102s)
+[2018.07.12-22.59.02:705][535]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-22.59.02:773][535]LogInit: FAudioDevice initialized.
+[2018.07.12-22.59.02:805][535]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.59.02:811][535]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.07.12-15.59.02
+[2018.07.12-22.59.02:813][535]LogWorld: Bringing up level for play took: 0.007262
+[2018.07.12-22.59.02:815][535]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.675
+[2018.07.12-22.59.02:815][535]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-22.59.11:480][858]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.12-22.59.11:636][864]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.12-22.59.12:085][881]LogBlueprintUserMessages: [ZOMBIE2_488] -50
+[2018.07.12-22.59.12:628][902]LogScript: Warning: Attempted to access ZOMBIE2_488 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE2_488 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ZOMBIE2_488.CharacterMesh0.MonsterAnimBP_C_1
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-22.59.12:628][902]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE2_488 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE2_488 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE2_488 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE2_488 is pending kill
+[2018.07.12-22.59.13:448][933]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-22.59.13:499][933]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-22.59.19:527][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.00.15:302][100]LogTexture: Display: Building textures: overlordcolor2 (AutoDXT, 2048X2048)
+[2018.07.12-23.00.15:302][100]LogTexture: Display: Building textures: clothnormal2 (BC5, 1024X1024)
+[2018.07.12-23.00.15:302][100]LogTexture: Display: Building textures: clothcolor2 (AutoDXT, 1024X1024)
+[2018.07.12-23.00.15:302][100]LogTexture: Display: Building textures: overlordNormal2 (BC5, 2048X2048)
+[2018.07.12-23.00.15:302][100]LogTexture: Display: Building textures: overlordSpecular2 (AutoDXT, 2048X2048)
+[2018.07.12-23.00.15:302][100]LogTexture: Display: Building textures: clothspecular2 (AutoDXT, 1024X1024)
+[2018.07.12-23.00.15:303][100]LogMaterial: Missing cached shader map for material body, compiling. 
+[2018.07.12-23.00.15:333][100]LogSkeletalMesh: Building Skeletal Mesh Overlord...
+[2018.07.12-23.00.15:352][100]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.07.12-23.00.15:352][100]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.07.12-23.00.15:352][100]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.12-23.00.15:352][100]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.12-23.00.15:352][100]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/ThirdPersonBP/Blueprints/source/Overlord.Overlord
+[2018.07.12-23.00.15:357][100]LogMaterial: Missing cached shader map for material cloth, compiling. 
+[2018.07.12-23.00.15:463][100]LogStaticMesh: Building static mesh gunsword_sm...
+[2018.07.12-23.00.17:084][100]LogStaticMesh: Built static mesh [1.62s] /Game/ThirdPersonBP/maya_stuff/gunsword_sm.gunsword_sm
+[2018.07.12-23.00.17:108][100]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.07.12-23.00.17:147][100]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_173:PersistentLevel.Actor_49.DebugSkelMeshComponent_112) Already registered. Aborting.
+[2018.07.12-23.00.17:197][100]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_173:PersistentLevel.Actor_49.DebugSkelMeshComponent_112) - call TermArticulated first.
+[2018.07.12-23.00.19:039][100]LogShaderCompilers: Display: Shaders left to compile 140
+[2018.07.12-23.00.19:039][100]LogShaderCompilers: Display: Shaders left to compile 130
+[2018.07.12-23.00.19:533][108]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.07.12-23.00.19:576][109]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.07.12-23.00.21:328][147]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.07.12-23.00.22:604][175]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.07.12-23.00.22:994][184]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.07.12-23.00.24:518][219]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.07.12-23.00.24:788][225]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.07.12-23.00.26:442][263]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.07.12-23.00.27:387][285]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.12-23.00.27:512][288]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.12-23.00.28:947][321]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.12-23.00.30:744][363]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.12-23.02.11:458][652]LogSlate: Window 'Overlord' being destroyed
+[2018.07.12-23.02.11:461][652]LogSlate: Window 'Overlord' being destroyed
+[2018.07.12-23.02.12:173][652]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.12-23.02.13:200][656]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_174:PersistentLevel.Actor_50.DebugSkelMeshComponent_113) Already registered. Aborting.
+[2018.07.12-23.02.13:259][656]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_174:PersistentLevel.Actor_50.DebugSkelMeshComponent_113) - call TermArticulated first.
+[2018.07.12-23.02.27:650][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.02.27:717][175]LogSlate: Window 'Overlord' being destroyed
+[2018.07.12-23.02.27:722][175]LogSlate: Window 'Overlord' being destroyed
