@@ -1982,3 +1982,13 @@ LogInit: Object subsystem initialized
 [2018.07.12-22.45.58:136][779]SourceControl: Commited [master 801ed40] Jump Anim..
 [2018.07.12-23.00.55:446][762]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
 [2018.07.12-23.00.55:589][762]EditorErrors: Warning: No assets to check in!
+[2018.07.12-23.04.18:938][ 82]LogSavePackage: Save=67.04ms
+[2018.07.12-23.04.18:938][ 82]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/ThirdPersonCharacter8782EB634D6A48A33434BABACEF6BF31.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.07.12-23.04.18:940][ 82]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.07.12-23.04.25:421][458]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.12-23.04.33:919][458]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.12-23.04.34:305][458]LogSourceControl: commit successful: [master 4529d49] Thirdpersondood
+[2018.07.12-23.04.34:366][458]SourceControl: [master 4529d49] Thirdpersondood
+[2018.07.12-23.04.34:366][458]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.07.12-23.04.34:366][458]SourceControl:  rewrite IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset (83%)
+[2018.07.12-23.04.34:373][458]SourceControl: Commited [master 4529d49] Thirdpersondood.
