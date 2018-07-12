@@ -619,3 +619,14 @@ LogInit: Object subsystem initialized
 [2018.07.12-16.55.06:658][402]LogBlueprintUserMessages: [ZOMBIE3_542] 0
 [2018.07.12-17.04.30:491][356]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2018.07.12-17.04.30:529][356]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-17.28.07:543][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-17.28.10:016][712]LogSavePackage: Save=168.51ms
+[2018.07.12-17.28.10:016][712]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/ThirdPersonExampleMapECC6BDF449C054D6C6B944AA8AB7C2DB.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.07.12-17.28.10:025][712]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.07.12-17.28.10:086][712]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.411
+[2018.07.12-17.28.12:729][810]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.12-17.28.19:184][810]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.12-17.28.20:347][810]LogSourceControl: commit successful: [master dda4443] Sword Changes
+[2018.07.12-17.28.20:403][810]SourceControl: [master dda4443] Sword Changes
+[2018.07.12-17.28.20:403][810]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.07.12-17.28.20:412][810]SourceControl: Commited [master dda4443] Sword Changes.
