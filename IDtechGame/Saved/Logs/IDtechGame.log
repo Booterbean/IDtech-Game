@@ -23188,3 +23188,153 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2018.07.12-23.02.27:650][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.07.12-23.02.27:717][175]LogSlate: Window 'Overlord' being destroyed
 [2018.07.12-23.02.27:722][175]LogSlate: Window 'Overlord' being destroyed
+[2018.07.12-23.05.26:849][207]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2018.07.12-23.05.26:860][207]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2018.07.12-23.07.28:641][294]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-23.07.28:671][294]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-23.07.28:671][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-23.07.28:671][294]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 12, 2018, 9:07:28 AM)
+[2018.07.12-23.07.28:672][294]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.12-23.07.28:690][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018701s)
+[2018.07.12-23.07.28:692][294]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.12-23.07.28:693][294]LogPlayLevel: PIE: World Init took: (0.001908s)
+[2018.07.12-23.07.28:693][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021033s)
+[2018.07.12-23.07.28:718][294]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a20285bd00, Size=672
+[2018.07.12-23.07.28:719][294]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a14699fa00, Size=512
+[2018.07.12-23.07.28:734][294]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-23.07.28:800][294]LogInit: FAudioDevice initialized.
+[2018.07.12-23.07.28:834][294]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.07.28:840][294]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.07.12-16.07.28
+[2018.07.12-23.07.28:843][294]LogWorld: Bringing up level for play took: 0.007378
+[2018.07.12-23.07.28:844][294]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.704
+[2018.07.12-23.07.28:844][294]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-23.08.03:544][866]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.12-23.08.03:705][873]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.12-23.08.03:862][880]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.12-23.08.04:510][907]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.12-23.08.04:643][913]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.12-23.08.04:850][922]LogScript: Warning: Attempted to access ZOMBIE6_721 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE6_721 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ZOMBIE6_721.CharacterMesh0.MonsterAnimBP_C_5
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.08.04:850][922]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE6_721 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE6_721 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE6_721 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE6_721 is pending kill
+[2018.07.12-23.08.04:946][926]LogBlueprintUserMessages: [ZOMBIE4_649] -50
+[2018.07.12-23.08.05:099][933]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.12-23.08.05:259][940]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.12-23.08.05:420][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-23.08.05:546][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-23.08.09:413][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.08.17:771][388]LogSlate: Window 'Message Log' being destroyed
+[2018.07.12-23.08.17:778][388]LogSlate: Window 'Message Log' being destroyed
+[2018.07.12-23.11.58:490][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.12-23.12.07:241][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2018.07.12-23.12.08:379][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.12-23.12.14:990][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.12-23.12.42:311][144]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.07.12-23.12.42:516][145]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.IDtechGame
+[2018.07.12-23.12.42:516][145]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.12-23.12.42:516][145]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.07.12-23.12.42:516][145]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.12-23.12.42:535][145]LogTemp: BranchPath = CAMP-4Q05142/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = CAMP-4Q05142/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.07.12-23.12.42:701][146]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\iD Student\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.12-23.13.47:055][401]LogSlate: Window 'Project Settings' being destroyed
+[2018.07.12-23.13.47:071][401]LogSlate: Window 'Project Settings' being destroyed
+[2018.07.12-23.14.18:756][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.14.22:155][151]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.07.12-23.14.23:986][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.14.44:302][941]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.12-23.14.46:217][  6]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Overlord_Skeleton, removing AnimBP from actor.
+[2018.07.12-23.14.46:218][  6]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Overlord_Skeleton, removing AnimBP from actor.
+[2018.07.12-23.14.46:219][  6]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Overlord_Skeleton, removing AnimBP from actor.
+[2018.07.12-23.14.46:219][  6]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Overlord_Skeleton, removing AnimBP from actor.
+[2018.07.12-23.14.49:336][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.12-23.14.49:362][ 90]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.12-23.14.55:210][338]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.12-23.14.55:246][338]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a106e94cc0, Size=80, Default__OverlordBP_C Function /Game/ThirdPersonBP/Blueprints/source/OverlordBP.OverlordBP_C:ExecuteUbergraph_OverlordBP
+[2018.07.12-23.14.55:257][338]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a106e94cc0, Size=80
+[2018.07.12-23.14.55:257][338]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a10d71e700, Size=80, Default__OverlordBP_C Function /Engine/Transient.REINST_OverlordBP_C_267:ExecuteUbergraph_OverlordBP
+[2018.07.12-23.14.55:267][338]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fe69edd50, Size=80, Default__OverlordBP_C Function /Game/ThirdPersonBP/Blueprints/source/OverlordBP.OverlordBP_C:ExecuteUbergraph_OverlordBP
+[2018.07.12-23.14.55:271][338]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_Jumping.Overlord_Jumping
+[2018.07.12-23.14.55:272][338]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_Jumping.Overlord_Jumping) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.12-23.14.55:274][338]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_InAir.Overlord_InAir
+[2018.07.12-23.14.55:274][338]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_InAir.Overlord_InAir) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.12-23.14.55:275][338]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_Land.Overlord_Land
+[2018.07.12-23.14.55:276][338]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_Land.Overlord_Land) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.12-23.14.55:277][338]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_Running.Overlord_Running
+[2018.07.12-23.14.55:277][338]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_Running.Overlord_Running) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.12-23.14.55:278][338]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_Idle.Overlord_Idle
+[2018.07.12-23.14.55:279][338]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_Idle.Overlord_Idle) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.12-23.14.56:927][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.14.56:977][401]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.07.12-23.14.57:027][401]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a274eab400, Size=672
+[2018.07.12-23.14.57:027][401]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a274eb2500, Size=672, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_2074:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.12-23.14.57:036][401]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a245ce1900, Size=672, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.12-23.14.57:580][401]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a10d71e700, Size=80
+[2018.07.12-23.14.58:497][423]LogSavePackage: Save=58.91ms
+[2018.07.12-23.14.58:497][423]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ThirdPersonCharacterCCF45FE94862E981C7960385BDF8279B.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.07.12-23.14.58:501][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.07.12-23.15.00:330][512]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-23.15.00:365][512]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-23.15.00:366][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-23.15.00:366][512]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 12, 2018, 9:15:00 AM)
+[2018.07.12-23.15.00:366][512]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.12-23.15.00:390][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023262s)
+[2018.07.12-23.15.00:391][512]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.12-23.15.00:392][512]LogPlayLevel: PIE: World Init took: (0.001548s)
+[2018.07.12-23.15.00:392][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025186s)
+[2018.07.12-23.15.00:449][512]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-23.15.00:517][512]LogInit: FAudioDevice initialized.
+[2018.07.12-23.15.00:550][512]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.15.00:556][512]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.07.12-16.15.00
+[2018.07.12-23.15.00:558][512]LogWorld: Bringing up level for play took: 0.007565
+[2018.07.12-23.15.00:560][512]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.42
+[2018.07.12-23.15.00:560][512]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-23.15.15:234][383]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-23.15.15:285][383]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-23.15.17:051][474]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.12-23.15.25:978][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.15.37:043][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.15.38:399][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.15.41:757][506]LogEditorTransaction: Undo Resize Node
+[2018.07.12-23.15.41:763][506]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffd419718, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.12-23.16.27:420][492]LogSavePackage: Save=196.83ms
+[2018.07.12-23.16.27:420][492]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ThirdPersonExampleMap_Auto577A8D51B4B99BC77764FD7B5ADBA1BDB.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2018.07.12-23.16.27:423][492]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap
+[2018.07.12-23.16.27:432][492]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.284
+[2018.07.12-23.16.27:432][492]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.284
+[2018.07.12-23.16.27:437][492]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.07.12-23.16.27:467][492]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.07.12-23.16.27:467][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.07.12-23.16.27:529][492]LogSavePackage: Save=57.47ms
+[2018.07.12-23.16.27:529][492]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ThirdPersonCharacter_Auto572C50FCC4AD9E87F4CF597B00AA328D5.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset'
+[2018.07.12-23.16.27:531][492]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset
+[2018.07.12-23.16.27:532][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint] ([1] browsable assets)...
+[2018.07.12-23.16.27:532][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint]
+[2018.07.12-23.16.27:562][492]LogSavePackage: Save=16.69ms
+[2018.07.12-23.16.27:562][492]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/NewWidgetBlueprint_Auto56EF1A80246CB939BEA206D8F93FF72FB.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint_Auto5.uasset'
+[2018.07.12-23.16.27:565][492]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint_Auto5.uasset
+[2018.07.12-23.16.27:565][492]LogFileHelpers: Auto-saving content packages took 0.129
+[2018.07.12-23.19.52:578][982]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0e333e208, Size=4, Default__SKEL_ThirdPersonCharacter1_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter1.SKEL_ThirdPersonCharacter1_C:ExecuteUbergraph_ThirdPersonCharacter1
+[2018.07.12-23.19.52:579][982]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0e333e208, Size=4
+[2018.07.12-23.19.52:579][982]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0e333e208, Size=4, Default__SKEL_ThirdPersonCharacter1_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter1_C_2083:ExecuteUbergraph_ThirdPersonCharacter1
+[2018.07.12-23.19.52:585][982]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffd4194e0, Size=4, Default__SKEL_ThirdPersonCharacter1_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter1.SKEL_ThirdPersonCharacter1_C:ExecuteUbergraph_ThirdPersonCharacter1
+[2018.07.12-23.19.52:601][982]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1cd104a00, Size=672, Default__ThirdPersonCharacter1_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter1.ThirdPersonCharacter1_C:ExecuteUbergraph_ThirdPersonCharacter1
+[2018.07.12-23.19.52:619][982]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffd4194e0, Size=4
+[2018.07.12-23.19.52:619][982]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffd4194e0, Size=4, Default__SKEL_ThirdPersonCharacter1_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter1_C_2086:ExecuteUbergraph_ThirdPersonCharacter1
+[2018.07.12-23.19.52:636][982]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1cd104a00, Size=672
+[2018.07.12-23.19.52:636][982]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffbc49600, Size=672, Default__ThirdPersonCharacter1_C Function /Engine/Transient.REINST_ThirdPersonCharacter1_C_2088:ExecuteUbergraph_ThirdPersonCharacter1
+[2018.07.12-23.19.52:649][982]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffe91bd00, Size=672, Default__ThirdPersonCharacter1_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter1.ThirdPersonCharacter1_C:ExecuteUbergraph_ThirdPersonCharacter1
+[2018.07.12-23.19.52:882][982]LogSavePackage: Save=65.47ms
+[2018.07.12-23.19.52:882][982]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ThirdPersonCharacter1B79EF2404D8591E4C870E79888EEE27E.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter1.uasset'
+[2018.07.12-23.19.52:887][982]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter1.uasset
+[2018.07.12-23.20.05:207][195]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.12-23.20.07:271][195]LogSlate: Window 'Save Content' being destroyed
+[2018.07.12-23.20.07:485][195]LogSavePackage: Save=54.68ms
+[2018.07.12-23.20.07:485][195]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ThirdPersonCharacter7D49839347F3D076EE75539490C77E0C.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.07.12-23.20.07:496][195]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.07.12-23.20.12:558][195]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.12-23.20.12:954][195]LogSourceControl: commit successful: [master ed743ac] blah
+[2018.07.12-23.20.13:024][195]SourceControl: [master ed743ac] blah
+[2018.07.12-23.20.13:024][195]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.07.12-23.20.13:024][195]SourceControl:  rewrite IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset (85%)
+[2018.07.12-23.20.13:024][195]SourceControl:  create mode 100644 IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter1.uasset
+[2018.07.12-23.20.13:036][195]SourceControl: Commited [master ed743ac] blah.
