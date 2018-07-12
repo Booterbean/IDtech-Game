@@ -1575,3 +1575,394 @@ LogInit: Object subsystem initialized
 [2018.07.12-21.48.51:740][689]LogBlueprintUserMessages: [ZOMBIE_320] 50
 [2018.07.12-21.48.54:052][788]LogBlueprintUserMessages: [ZOMBIE_320] 0
 [2018.07.12-21.48.57:185][925]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.12-21.57.13:680][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-21.57.16:734][329]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.07.12-21.57.16:748][329]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.07.12-21.57.23:243][590]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.12-21.57.23:875][617]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.57.23:923][617]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.57.26:403][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-21.57.27:450][786]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.07.12-21.57.27:485][786]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2018.07.12-22.00.42:386][386]LogSavePackage: Save=106.72ms
+[2018.07.12-22.00.42:386][386]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Main_Menue_Auto3EBFC0D414BF305F8B2E689A59D2CB8D0.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Levels/Main_Menue_Auto3.umap'
+[2018.07.12-22.00.42:387][386]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Levels/Main_Menue_Auto3.umap
+[2018.07.12-22.00.42:390][386]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Levels/Main_Menue' took 0.190
+[2018.07.12-22.00.42:390][386]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.190
+[2018.07.12-22.04.28:436][546]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-22.04.28:481][546]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.04.28:482][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-22.04.28:482][546]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 8:04:28 AM)
+[2018.07.12-22.04.28:482][546]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-22.04.28:483][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001347s)
+[2018.07.12-22.04.28:484][546]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-22.04.28:484][546]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2018.07.12-22.04.28:484][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.002622s)
+[2018.07.12-22.04.28:513][546]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-22.04.28:581][546]LogInit: FAudioDevice initialized.
+[2018.07.12-22.04.28:615][546]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.04.28:616][546]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-15.04.28
+[2018.07.12-22.04.28:616][546]LogWorld: Bringing up level for play took: 0.000431
+[2018.07.12-22.04.28:620][546]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue 0.635
+[2018.07.12-22.04.28:620][546]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.04.30:452][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-22.04.30:520][633]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-22.04.30:520][633]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-22.04.30:787][633]LogAIModule: Creating AISystem for world World
+[2018.07.12-22.04.30:787][633]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.04.30:795][633]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-15.04.30
+[2018.07.12-22.04.30:796][633]LogWorld: Bringing up level for play took: 0.007779
+[2018.07.12-22.04.30:797][633]LogLoad: Took 0.277020 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-22.04.38:485][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.04.38:525][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.04.46:676][177]LogRenderer: Reallocating scene render targets to support 1140x612 Format 10 NumSamples 1 (Frame:40163).
+[2018.07.12-22.04.51:651][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-22.04.53:991][511]LogSlate: Window 'Main_Menue' being destroyed
+[2018.07.12-22.04.58:171][756]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.07.12-22.04.58:431][756]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_32:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2018.07.12-22.07.07:983][426]BlueprintLog: New page: Compile OverlordBP
+[2018.07.12-22.07.08:007][426]LogBlueprint: Warning: [Compiler OverlordBP] InAir to Land  will never be taken, please connect something to  Can Enter Transition
+[2018.07.12-22.07.08:007][426]LogBlueprint: Warning: [Compiler OverlordBP] Land to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.07.12-22.07.08:007][426]LogBlueprint: Warning: [Compiler OverlordBP] Land to Running  will never be taken, please connect something to  Can Enter Transition
+[2018.07.12-22.07.08:158][426]LogBlueprint: Warning: [Compiler OverlordBP] [0250.37] Compile of OverlordBP successful, but with 3 Warning(s) [in 174 ms] (/Game/ThirdPersonBP/Blueprints/source/OverlordBP.OverlordBP)
+[2018.07.12-22.07.30:821][761]BlueprintLog: New page: Compile OverlordBP
+[2018.07.12-22.07.30:843][761]LogBlueprint: Warning: [Compiler OverlordBP] Land to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.07.12-22.07.30:843][761]LogBlueprint: Warning: [Compiler OverlordBP] Land to Running  will never be taken, please connect something to  Can Enter Transition
+[2018.07.12-22.07.30:968][761]LogBlueprint: Warning: [Compiler OverlordBP] [0273.18] Compile of OverlordBP successful, but with 2 Warning(s) [in 146 ms] (/Game/ThirdPersonBP/Blueprints/source/OverlordBP.OverlordBP)
+[2018.07.12-22.08.16:143][417]BlueprintLog: New page: Compile OverlordBP
+[2018.07.12-22.08.16:170][417]LogBlueprint: Warning: [Compiler OverlordBP] Land to Running  will never be taken, please connect something to  Can Enter Transition
+[2018.07.12-22.08.16:296][417]LogBlueprint: Warning: [Compiler OverlordBP] [0318.50] Compile of OverlordBP successful, but with 1 Warning(s) [in 153 ms] (/Game/ThirdPersonBP/Blueprints/source/OverlordBP.OverlordBP)
+[2018.07.12-22.09.00:642][ 48]BlueprintLog: New page: Compile OverlordBP
+[2018.07.12-22.09.25:684][387]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.07.12-22.09.25:717][387]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_34:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2018.07.12-22.11.00:095][941]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_Jumping.Overlord_Jumping
+[2018.07.12-22.11.00:097][941]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Overlord_Jumping) using current/default (AnimCompress_BitwiseCompressOnly_32) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.12-22.11.12:763][689]Cmd: TRANSACTION UNDO
+[2018.07.12-22.11.12:763][689]LogEditorTransaction: Undo Crop Animation Sequence
+[2018.07.12-22.11.13:032][689]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.07.12-22.11.13:036][689]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.07.12-22.11.16:967][909]LogSavePackage: Save=15.99ms
+[2018.07.12-22.11.16:968][909]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Overlord_Jumping924A7A65407F6F6D152EB0B2BADB85AF.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_Jumping.uasset'
+[2018.07.12-22.11.16:972][909]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_Jumping.uasset
+[2018.07.12-22.11.40:731][754]BlueprintLog: New page: Compile OverlordBP
+[2018.07.12-22.12.07:764][171]LogSavePackage: Save=18.67ms
+[2018.07.12-22.12.07:764][171]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Overlord_Jumping1088F3DAA4B1BA9281E3E9E8DC4B27A03.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_Jumping1.uasset'
+[2018.07.12-22.12.07:767][171]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_Jumping1.uasset
+[2018.07.12-22.12.35:286][685]LogSavePackage: Save=16.57ms
+[2018.07.12-22.12.35:286][685]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Overlord_Land4E8F372449E334B7B12543AC7461B0D9.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_Land.uasset'
+[2018.07.12-22.12.35:290][685]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_Land.uasset
+[2018.07.12-22.12.47:847][322]LogSavePackage: Save=14.53ms
+[2018.07.12-22.12.47:847][322]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Overlord_InAirB3AB62104217C5FF5E199ABD2AB69546.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_InAir.uasset'
+[2018.07.12-22.12.47:850][322]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_InAir.uasset
+[2018.07.12-22.12.48:593][322]SourceControl: rm 'IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_Jumping1.uasset'
+[2018.07.12-22.12.53:438][550]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_4.DebugSkelMeshComponent_9) Already registered. Aborting.
+[2018.07.12-22.12.53:476][550]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.Actor_4.DebugSkelMeshComponent_9) - call TermArticulated first.
+[2018.07.12-22.13.30:957][741]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_Jumping.Overlord_Jumping
+[2018.07.12-22.13.30:958][741]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_BitwiseCompressOnly_32) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.12-22.13.40:379][278]LogSavePackage: Save=39.48ms
+[2018.07.12-22.13.40:379][278]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Overlord_Jumping8CB67E914CABB3DCF4D81CA61D18F1E7.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_Jumping.uasset'
+[2018.07.12-22.13.40:383][278]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_Jumping.uasset
+[2018.07.12-22.13.58:208][311]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_InAir.Overlord_InAir
+[2018.07.12-22.13.58:209][311]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Overlord_InAir) using current/default (AnimCompress_BitwiseCompressOnly_32) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.12-22.14.21:124][675]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_InAir.Overlord_InAir
+[2018.07.12-22.14.21:124][675]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_1) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.12-22.14.31:391][289]Cmd: TRANSACTION UNDO
+[2018.07.12-22.14.31:391][289]LogEditorTransaction: Undo Crop Animation Sequence
+[2018.07.12-22.14.31:642][289]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.07.12-22.14.31:644][289]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_4.DebugSkelMeshComponent_9) Already registered. Aborting.
+[2018.07.12-22.14.44:171][ 27]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_InAir.Overlord_InAir
+[2018.07.12-22.14.44:171][ 27]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_2) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.12-22.14.52:296][499]LogSavePackage: Save=17.22ms
+[2018.07.12-22.14.52:296][499]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Overlord_InAir0A663EF140C94D839BE656877A9F84ED.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_InAir.uasset'
+[2018.07.12-22.14.52:301][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_InAir.uasset
+[2018.07.12-22.15.04:110][189]Cmd: TRANSACTION UNDO
+[2018.07.12-22.15.04:110][189]LogEditorTransaction: Undo Crop Animation Sequence
+[2018.07.12-22.15.04:363][189]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.07.12-22.15.04:365][189]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_4.DebugSkelMeshComponent_9) Already registered. Aborting.
+[2018.07.12-22.15.11:363][599]Cmd: TRANSACTION REDO
+[2018.07.12-22.15.11:363][599]LogEditorTransaction: Redo Crop Animation Sequence
+[2018.07.12-22.15.11:615][599]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.07.12-22.15.11:617][599]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_4.DebugSkelMeshComponent_9) Already registered. Aborting.
+[2018.07.12-22.15.41:680][332]Cmd: TRANSACTION UNDO
+[2018.07.12-22.15.41:680][332]LogEditorTransaction: Undo Crop Animation Sequence
+[2018.07.12-22.15.41:942][332]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.07.12-22.15.41:945][332]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_4.DebugSkelMeshComponent_9) Already registered. Aborting.
+[2018.07.12-22.15.59:625][378]Cmd: TRANSACTION REDO
+[2018.07.12-22.15.59:626][378]LogEditorTransaction: Redo Crop Animation Sequence
+[2018.07.12-22.15.59:902][378]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.07.12-22.15.59:904][378]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_4.DebugSkelMeshComponent_9) Already registered. Aborting.
+[2018.07.12-22.16.27:628][971]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_Land.Overlord_Land
+[2018.07.12-22.16.27:629][971]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Overlord_Land) using current/default (AnimCompress_BitwiseCompressOnly_32) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.12-22.16.35:790][443]LogSavePackage: Save=7.88ms
+[2018.07.12-22.16.35:790][443]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Overlord_LandF2832B7943953F44F786FA949C9E091B.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_Land.uasset'
+[2018.07.12-22.16.35:794][443]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_Land.uasset
+[2018.07.12-22.16.58:662][766]BlueprintLog: New page: Compile OverlordBP
+[2018.07.12-22.17.00:177][818]LogSavePackage: Save=97.38ms
+[2018.07.12-22.17.00:177][818]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/OverlordBP2D81D0B646F451FE89D93ABA01BF72BA.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/OverlordBP.uasset'
+[2018.07.12-22.17.00:182][818]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/OverlordBP.uasset
+[2018.07.12-22.17.21:929][ 54]BlueprintLog: New page: Compile OverlordBP
+[2018.07.12-22.17.23:002][ 85]LogSavePackage: Save=66.40ms
+[2018.07.12-22.17.23:002][ 85]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/OverlordBP4D37C789468B601CDC334B8F40FBA6F8.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/OverlordBP.uasset'
+[2018.07.12-22.17.23:006][ 85]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/OverlordBP.uasset
+[2018.07.12-22.17.29:668][476]BlueprintLog: New page: Compile OverlordBP
+[2018.07.12-22.17.49:937][612]BlueprintLog: New page: Compile OverlordBP
+[2018.07.12-22.17.50:919][640]LogSavePackage: Save=68.88ms
+[2018.07.12-22.17.50:919][640]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/OverlordBPA0A821664364AE792FBBBD9FCD0507C9.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/OverlordBP.uasset'
+[2018.07.12-22.17.50:923][640]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/OverlordBP.uasset
+[2018.07.12-22.17.52:701][743]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-22.17.52:736][743]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.17.52:736][743]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.12-22.17.52:739][743]LogPlayLevel: [PlayLevel] Compiling Main_Menue before play...
+[2018.07.12-22.17.52:875][743]LogPlayLevel: PlayLevel: Blueprint regeneration took 139 ms (1 blueprints)
+[2018.07.12-22.17.52:876][743]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 8:17:52 AM)
+[2018.07.12-22.17.52:876][743]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-22.17.52:877][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001041s)
+[2018.07.12-22.17.52:877][743]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-22.17.52:878][743]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2018.07.12-22.17.52:878][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.001923s)
+[2018.07.12-22.17.52:909][743]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-22.17.52:980][743]LogInit: FAudioDevice initialized.
+[2018.07.12-22.17.53:015][743]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.17.53:016][743]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-15.17.53
+[2018.07.12-22.17.53:017][743]LogWorld: Bringing up level for play took: 0.000455
+[2018.07.12-22.17.53:020][743]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue 1.035
+[2018.07.12-22.17.53:020][743]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.17.53:852][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-22.17.53:937][793]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-22.17.53:938][793]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-22.17.54:235][793]LogAIModule: Creating AISystem for world World
+[2018.07.12-22.17.54:236][793]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.17.54:244][793]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-15.17.54
+[2018.07.12-22.17.54:246][793]LogWorld: Bringing up level for play took: 0.008582
+[2018.07.12-22.17.54:247][793]LogLoad: Took 0.309808 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-22.18.04:014][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.18.04:060][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.18.04:869][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-22.18.07:843][542]LogSavePackage: Save=7.45ms
+[2018.07.12-22.18.07:843][542]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Overlord_Land709BA85B4256B2987ED0CDB321CB436B.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_Land.uasset'
+[2018.07.12-22.18.07:845][542]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_Land.uasset
+[2018.07.12-22.19.20:757][509]LogSavePackage: Save=124.73ms
+[2018.07.12-22.19.20:757][509]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Main_Menue_Auto4AC1596534764DB599A0403A43B9A04FB.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Levels/Main_Menue_Auto4.umap'
+[2018.07.12-22.19.20:759][509]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Levels/Main_Menue_Auto4.umap
+[2018.07.12-22.19.20:764][509]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Levels/Main_Menue' took 0.183
+[2018.07.12-22.19.20:764][509]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.183
+[2018.07.12-22.19.20:768][509]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/source/Overlord_InAir] ([1] browsable assets)...
+[2018.07.12-22.19.20:799][509]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_InAir.Overlord_InAir]
+[2018.07.12-22.19.20:799][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/source/Overlord_InAir]
+[2018.07.12-22.19.20:823][509]LogSavePackage: Save=16.29ms
+[2018.07.12-22.19.20:823][509]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Overlord_InAir_Auto4DE9FD95E432DD1A60F3D11BCFD2A9009.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/source/Overlord_InAir_Auto4.uasset'
+[2018.07.12-22.19.20:825][509]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/source/Overlord_InAir_Auto4.uasset
+[2018.07.12-22.19.20:825][509]LogFileHelpers: Auto-saving content packages took 0.058
+[2018.07.12-22.31.31:951][296]LogSlate: Window 'Create New Animation Object' being destroyed
+[2018.07.12-22.32.07:161][378]BlueprintLog: New page: Compile OverlordBP
+[2018.07.12-22.32.08:199][407]LogSavePackage: Save=67.42ms
+[2018.07.12-22.32.08:199][407]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/OverlordBP2520F483437105F5D2E5F19D27274F8D.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/OverlordBP.uasset'
+[2018.07.12-22.32.08:207][407]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/OverlordBP.uasset
+[2018.07.12-22.32.20:768][153]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-22.32.20:799][153]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.32.20:799][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-22.32.20:799][153]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 8:32:20 AM)
+[2018.07.12-22.32.20:799][153]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-22.32.20:800][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000847s)
+[2018.07.12-22.32.20:801][153]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-22.32.20:801][153]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2018.07.12-22.32.20:801][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.001759s)
+[2018.07.12-22.32.20:832][153]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-22.32.20:900][153]LogInit: FAudioDevice initialized.
+[2018.07.12-22.32.20:935][153]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.32.20:936][153]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-15.32.20
+[2018.07.12-22.32.20:936][153]LogWorld: Bringing up level for play took: 0.000373
+[2018.07.12-22.32.20:939][153]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue 0.954
+[2018.07.12-22.32.20:939][153]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.32.21:817][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-22.32.21:885][208]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-22.32.21:885][208]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-22.32.22:575][208]LogAIModule: Creating AISystem for world World
+[2018.07.12-22.32.22:575][208]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.32.22:584][208]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-15.32.22
+[2018.07.12-22.32.22:585][208]LogWorld: Bringing up level for play took: 0.008670
+[2018.07.12-22.32.22:587][208]LogLoad: Took 0.701491 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-22.32.33:781][872]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.32.33:821][872]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.32.35:582][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-22.34.10:474][590]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-22.34.10:509][590]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.34.10:509][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-22.34.10:509][590]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 8:34:10 AM)
+[2018.07.12-22.34.10:510][590]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-22.34.10:511][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001006s)
+[2018.07.12-22.34.10:511][590]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-22.34.10:512][590]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2018.07.12-22.34.10:512][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.002061s)
+[2018.07.12-22.34.10:545][590]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-22.34.10:614][590]LogInit: FAudioDevice initialized.
+[2018.07.12-22.34.10:648][590]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.34.10:649][590]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-15.34.10
+[2018.07.12-22.34.10:649][590]LogWorld: Bringing up level for play took: 0.000354
+[2018.07.12-22.34.10:652][590]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue 0.666
+[2018.07.12-22.34.10:652][590]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.34.11:283][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-22.34.11:335][629]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-22.34.11:335][629]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-22.34.11:606][629]LogAIModule: Creating AISystem for world World
+[2018.07.12-22.34.11:607][629]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.34.11:615][629]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-15.34.11
+[2018.07.12-22.34.11:616][629]LogWorld: Bringing up level for play took: 0.008628
+[2018.07.12-22.34.11:618][629]LogLoad: Took 0.282271 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-22.34.18:232][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.34.18:272][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.34.20:363][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-22.35.26:803][734]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Levels/Main_Menue' took 0.056
+[2018.07.12-22.35.26:806][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/source/OverlordBP] ([1] browsable assets)...
+[2018.07.12-22.35.26:806][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/source/OverlordBP]
+[2018.07.12-22.35.26:922][734]LogSavePackage: Save=99.61ms
+[2018.07.12-22.35.26:922][734]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/OverlordBP_Auto55E5951884B5BAF7E0847C485EFF27E5B.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/source/OverlordBP_Auto5.uasset'
+[2018.07.12-22.35.26:924][734]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/source/OverlordBP_Auto5.uasset
+[2018.07.12-22.35.26:924][734]LogFileHelpers: Auto-saving content packages took 0.120
+[2018.07.12-22.37.46:445][392]BlueprintLog: New page: Compile OverlordBP
+[2018.07.12-22.37.48:161][462]LogSavePackage: Save=71.51ms
+[2018.07.12-22.37.48:161][462]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/OverlordBPD237E5024BF180BF580CD691ED500C22.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/OverlordBP.uasset'
+[2018.07.12-22.37.48:166][462]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/OverlordBP.uasset
+[2018.07.12-22.37.50:522][602]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-22.37.50:553][602]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.37.50:553][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-22.37.50:553][602]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 8:37:50 AM)
+[2018.07.12-22.37.50:553][602]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-22.37.50:554][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000918s)
+[2018.07.12-22.37.50:555][602]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-22.37.50:555][602]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2018.07.12-22.37.50:555][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.001742s)
+[2018.07.12-22.37.50:585][602]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-22.37.50:654][602]LogInit: FAudioDevice initialized.
+[2018.07.12-22.37.50:690][602]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.37.50:691][602]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-15.37.50
+[2018.07.12-22.37.50:692][602]LogWorld: Bringing up level for play took: 0.000578
+[2018.07.12-22.37.50:694][602]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue 0.709
+[2018.07.12-22.37.50:695][602]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.37.51:689][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-22.37.51:758][663]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-22.37.51:758][663]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-22.37.52:026][663]LogAIModule: Creating AISystem for world World
+[2018.07.12-22.37.52:026][663]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.37.52:037][663]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-15.37.52
+[2018.07.12-22.37.52:039][663]LogWorld: Bringing up level for play took: 0.011939
+[2018.07.12-22.37.52:040][663]LogLoad: Took 0.282610 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-22.38.05:204][425]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.38.05:244][425]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.38.06:404][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-22.38.29:921][869]BlueprintLog: New page: Compile OverlordBP
+[2018.07.12-22.38.30:921][897]LogSavePackage: Save=71.34ms
+[2018.07.12-22.38.30:921][897]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/OverlordBPB72B83C54947503C687FD4807EE6AF37.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/OverlordBP.uasset'
+[2018.07.12-22.38.30:926][897]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/OverlordBP.uasset
+[2018.07.12-22.38.32:306][977]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-22.38.32:336][977]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.38.32:336][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-22.38.32:337][977]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 8:38:32 AM)
+[2018.07.12-22.38.32:337][977]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-22.38.32:338][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000833s)
+[2018.07.12-22.38.32:338][977]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-22.38.32:338][977]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2018.07.12-22.38.32:338][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.001630s)
+[2018.07.12-22.38.32:372][977]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-22.38.32:437][977]LogInit: FAudioDevice initialized.
+[2018.07.12-22.38.32:473][977]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.38.32:474][977]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-15.38.32
+[2018.07.12-22.38.32:474][977]LogWorld: Bringing up level for play took: 0.000311
+[2018.07.12-22.38.32:476][977]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue 0.492
+[2018.07.12-22.38.32:477][977]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.38.33:067][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-22.38.33:103][ 14]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-22.38.33:103][ 14]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-22.38.33:365][ 14]LogAIModule: Creating AISystem for world World
+[2018.07.12-22.38.33:365][ 14]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.38.33:374][ 14]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-15.38.33
+[2018.07.12-22.38.33:376][ 14]LogWorld: Bringing up level for play took: 0.009117
+[2018.07.12-22.38.33:377][ 14]LogLoad: Took 0.274254 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-22.39.03:837][745]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.39.03:881][745]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.39.05:403][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-22.39.39:058][795]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-22.39.39:097][795]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.39.39:098][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-22.39.39:098][795]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 8:39:39 AM)
+[2018.07.12-22.39.39:098][795]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-22.39.39:099][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000838s)
+[2018.07.12-22.39.39:099][795]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-22.39.39:099][795]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2018.07.12-22.39.39:100][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.001624s)
+[2018.07.12-22.39.39:129][795]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-22.39.39:196][795]LogInit: FAudioDevice initialized.
+[2018.07.12-22.39.39:232][795]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.39.39:233][795]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-15.39.39
+[2018.07.12-22.39.39:233][795]LogWorld: Bringing up level for play took: 0.000491
+[2018.07.12-22.39.39:237][795]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue -0.748
+[2018.07.12-22.39.39:237][795]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.39.40:144][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-22.39.40:222][851]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-22.39.40:222][851]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-22.39.40:489][851]LogAIModule: Creating AISystem for world World
+[2018.07.12-22.39.40:489][851]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.39.40:499][851]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-15.39.40
+[2018.07.12-22.39.40:500][851]LogWorld: Bringing up level for play took: 0.009806
+[2018.07.12-22.39.40:502][851]LogLoad: Took 0.280106 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-22.39.45:891][144]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.39.45:938][144]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.39.46:944][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-22.42.59:259][515]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.07.12-22.43.00:747][547]LogSavePackage: Save=73.13ms
+[2018.07.12-22.43.00:748][547]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/ThirdPersonCharacter1A966CB041487A2F500EED9DCF464A10.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.07.12-22.43.00:751][547]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.07.12-22.43.10:621][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-22.43.10:682][ 32]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.43.10:682][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-22.43.10:682][ 32]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 8:43:10 AM)
+[2018.07.12-22.43.10:682][ 32]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-22.43.10:684][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000984s)
+[2018.07.12-22.43.10:684][ 32]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-22.43.10:684][ 32]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2018.07.12-22.43.10:685][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.002041s)
+[2018.07.12-22.43.10:719][ 32]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-22.43.10:788][ 32]LogInit: FAudioDevice initialized.
+[2018.07.12-22.43.10:826][ 32]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.43.10:828][ 32]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-15.43.10
+[2018.07.12-22.43.10:828][ 32]LogWorld: Bringing up level for play took: 0.000684
+[2018.07.12-22.43.10:833][ 32]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue 0.848
+[2018.07.12-22.43.10:833][ 32]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.43.11:470][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-22.43.11:539][ 73]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-22.43.11:539][ 73]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-22.43.11:873][ 73]LogAIModule: Creating AISystem for world World
+[2018.07.12-22.43.11:873][ 73]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.43.11:883][ 73]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-15.43.11
+[2018.07.12-22.43.11:885][ 73]LogWorld: Bringing up level for play took: 0.010682
+[2018.07.12-22.43.11:887][ 73]LogLoad: Took 0.347747 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-22.43.19:815][508]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.12-22.43.24:318][756]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.43.24:359][756]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.43.30:501][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-22.43.30:617][123]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-22.43.30:650][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.43.30:650][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-22.43.30:651][123]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 8:43:30 AM)
+[2018.07.12-22.43.30:651][123]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-22.43.30:652][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001065s)
+[2018.07.12-22.43.30:653][123]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-22.43.30:653][123]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2018.07.12-22.43.30:653][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.002096s)
+[2018.07.12-22.43.30:682][123]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-22.43.30:755][123]LogInit: FAudioDevice initialized.
+[2018.07.12-22.43.30:790][123]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.43.30:791][123]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-15.43.30
+[2018.07.12-22.43.30:791][123]LogWorld: Bringing up level for play took: 0.000444
+[2018.07.12-22.43.30:794][123]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue 0.809
+[2018.07.12-22.43.30:794][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.43.42:533][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-22.43.42:651][829]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-22.43.42:651][829]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-22.43.42:923][829]LogAIModule: Creating AISystem for world World
+[2018.07.12-22.43.42:924][829]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-22.43.42:934][829]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-15.43.42
+[2018.07.12-22.43.42:935][829]LogWorld: Bringing up level for play took: 0.009966
+[2018.07.12-22.43.42:937][829]LogLoad: Took 0.285024 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-22.44.13:450][548]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.44.13:494][548]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
