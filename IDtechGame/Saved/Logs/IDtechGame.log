@@ -1992,3 +1992,137 @@ LogInit: Object subsystem initialized
 [2018.07.12-23.04.34:366][458]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.07.12-23.04.34:366][458]SourceControl:  rewrite IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset (83%)
 [2018.07.12-23.04.34:373][458]SourceControl: Commited [master 4529d49] Thirdpersondood.
+[2018.07.12-23.09.17:574][665]LogEditorViewport: Clicking Background
+[2018.07.12-23.09.18:234][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.09.18:350][707]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-23.09.18:390][707]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.09.18:390][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-23.09.18:390][707]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 9:09:18 AM)
+[2018.07.12-23.09.18:390][707]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-23.09.18:392][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001182s)
+[2018.07.12-23.09.18:392][707]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-23.09.18:392][707]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2018.07.12-23.09.18:392][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.002101s)
+[2018.07.12-23.09.18:426][707]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-23.09.18:496][707]LogInit: FAudioDevice initialized.
+[2018.07.12-23.09.18:528][707]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.09.18:530][707]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-16.09.18
+[2018.07.12-23.09.18:530][707]LogWorld: Bringing up level for play took: 0.000500
+[2018.07.12-23.09.18:534][707]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue 0.55
+[2018.07.12-23.09.18:535][707]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.09.19:577][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.09.19:680][771]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-23.09.19:680][771]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-23.09.19:758][771]LogBlueprint: Warning: [Compiler MonsterAnimBP] Get : 'canHitHuman' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP
+[2018.07.12-23.09.19:761][771]LogBlueprint: Warning: [Compiler MonsterAnimBP] Could not find a variable named "canHitHuman" in 'ZOMBIE_C'.
+Make sure 'ZOMBIE_C' has been compiled for  Get canHitHuman
+[2018.07.12-23.09.19:763][771]LogBlueprint: Warning: [Compiler MonsterAnimBP] Could not find a variable named "canHitHuman" in 'ZOMBIE_C'.
+Make sure 'ZOMBIE_C' has been compiled for  Get canHitHuman
+[2018.07.12-23.09.19:764][771]LogBlueprint: Error: [Compiler MonsterAnimBP] The property associated with  Can Hit Human  could not be found
+[2018.07.12-23.09.19:765][771]LogBlueprint: Warning: [Compiler MonsterAnimBP] [3981.97] Compile of MonsterAnimBP failed. 1 Fatal Issue(s) 3 Warning(s) [in 11 ms] (/Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP)
+[2018.07.12-23.09.19:777][771]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/textures/creature1Albedo'
+[2018.07.12-23.09.19:777][771]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/textures/creature1Albedo' while loading ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Mat.uasset.
+[2018.07.12-23.09.19:777][771]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/source/Mat : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/textures/creature1Albedo
+[2018.07.12-23.09.19:777][771]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/textures/creature1AO'
+[2018.07.12-23.09.19:777][771]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/textures/creature1AO' while loading ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Mat.uasset.
+[2018.07.12-23.09.19:777][771]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/source/Mat : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/textures/creature1AO
+[2018.07.12-23.09.19:777][771]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/textures/creature1Normal'
+[2018.07.12-23.09.19:777][771]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/textures/creature1Normal' while loading ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Mat.uasset.
+[2018.07.12-23.09.19:777][771]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/source/Mat : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/textures/creature1Normal
+[2018.07.12-23.09.19:778][771]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/textures/creature1Specular'
+[2018.07.12-23.09.19:778][771]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/textures/creature1Specular' while loading ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Mat.uasset.
+[2018.07.12-23.09.19:778][771]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/source/Mat : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/textures/creature1Specular
+[2018.07.12-23.09.19:778][771]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/textures/creature1Albedo'
+[2018.07.12-23.09.19:778][771]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/textures/creature1Albedo' while loading ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Mat.uasset.
+[2018.07.12-23.09.19:778][771]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/textures/creature1AO'
+[2018.07.12-23.09.19:778][771]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/textures/creature1AO' while loading ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Mat.uasset.
+[2018.07.12-23.09.19:778][771]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/textures/creature1Normal'
+[2018.07.12-23.09.19:778][771]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/textures/creature1Normal' while loading ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Mat.uasset.
+[2018.07.12-23.09.19:778][771]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/textures/creature1Specular'
+[2018.07.12-23.09.19:778][771]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/textures/creature1Specular' while loading ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Mat.uasset.
+[2018.07.12-23.09.19:779][771]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/source/monster_PhysicsAsset'
+[2018.07.12-23.09.19:779][771]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/source/monster_PhysicsAsset' while loading ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/monster.uasset.
+[2018.07.12-23.09.19:779][771]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/source/monster : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/source/monster_PhysicsAsset
+[2018.07.12-23.09.19:779][771]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/source/monster_PhysicsAsset'
+[2018.07.12-23.09.19:780][771]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/source/monster_PhysicsAsset' while loading ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/monster.uasset.
+[2018.07.12-23.09.19:862][771]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/textures/creature1Albedo'
+[2018.07.12-23.09.19:862][771]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/textures/creature1Albedo.creature1Albedo Referenced by MaterialExpressionTextureSample_0
+[2018.07.12-23.09.19:863][771]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/textures/creature1Albedo' while loading NULL.
+[2018.07.12-23.09.19:863][771]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/textures/creature1Specular'
+[2018.07.12-23.09.19:863][771]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/textures/creature1Specular.creature1Specular Referenced by MaterialExpressionTextureSample_1
+[2018.07.12-23.09.19:863][771]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/textures/creature1Specular' while loading NULL.
+[2018.07.12-23.09.19:863][771]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/textures/creature1Normal'
+[2018.07.12-23.09.19:863][771]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/textures/creature1Normal.creature1Normal Referenced by MaterialExpressionTextureSample_2
+[2018.07.12-23.09.19:863][771]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/textures/creature1Normal' while loading NULL.
+[2018.07.12-23.09.19:863][771]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/textures/creature1AO'
+[2018.07.12-23.09.19:863][771]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/textures/creature1AO.creature1AO Referenced by MaterialExpressionTextureSample_3
+[2018.07.12-23.09.19:863][771]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/textures/creature1AO' while loading NULL.
+[2018.07.12-23.09.19:865][771]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/source/monster_PhysicsAsset'
+[2018.07.12-23.09.19:865][771]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/source/monster_PhysicsAsset.monster_PhysicsAsset Referenced by monster
+[2018.07.12-23.09.19:865][771]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/source/monster_PhysicsAsset' while loading NULL.
+[2018.07.12-23.09.19:876][771]LogMaterial: Missing cached shader map for material Mat, compiling. 
+[2018.07.12-23.09.19:878][771]LogMaterial: Warning: C:\Users\iD Student\Documents\GitHub\IDtech-Game\IDtechGame\Content\ThirdPersonBP\Blueprints\source\Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.12-23.09.19:878][771]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.12-23.09.19:878][771]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/source/rawr.rawr
+[2018.07.12-23.09.19:878][771]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/source/rawr.rawr) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.12-23.09.19:880][771]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/source/death.death
+[2018.07.12-23.09.19:880][771]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/source/death.death) using current/default (AnimCompress_BitwiseCompressOnly_14) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.12-23.09.19:881][771]LogSkeletalMesh: Building Skeletal Mesh monster...
+[2018.07.12-23.09.19:888][771]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ThirdPersonBP/Blueprints/source/monster.monster
+[2018.07.12-23.09.19:889][771]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/source/attack.attack
+[2018.07.12-23.09.19:889][771]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/source/attack.attack) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.12-23.09.19:891][771]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/source/walk.walk
+[2018.07.12-23.09.19:891][771]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/source/walk.walk) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.12-23.09.19:893][771]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/source/idle.idle
+[2018.07.12-23.09.19:893][771]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/source/idle.idle) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.12-23.09.19:993][771]LogAIModule: Creating AISystem for world World
+[2018.07.12-23.09.19:993][771]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.09.20:002][771]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-16.09.20
+[2018.07.12-23.09.20:003][771]LogWorld: Bringing up level for play took: 0.008905
+[2018.07.12-23.09.20:005][771]LogLoad: Took 0.324593 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-23.09.22:353][904]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.12-23.09.24:609][ 39]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.12-23.09.26:970][168]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.12-23.09.28:354][249]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.12-23.10.01:691][242]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.12-23.10.03:041][323]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.12-23.10.08:110][627]LogBlueprintUserMessages: [ZOMBIE3_542] 50
+[2018.07.12-23.10.11:672][839]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.12-23.10.15:309][ 57]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.12-23.10.16:793][146]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.12-23.10.19:250][292]LogBlueprintUserMessages: [ZOMBIE3_542] 0
+[2018.07.12-23.10.25:575][671]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.12-23.10.48:013][998]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.10.48:058][998]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.16.21:531][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.17.16:321][995]LogBlueprint: Warning: [MonsterAnimBP] 'canHitHuman' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP
+[2018.07.12-23.17.16:821][995]LogBlueprint: Warning: [Compiler MonsterAnimBP] Get : 'canHitHuman' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP
+[2018.07.12-23.17.16:834][995]LogBlueprint: Warning: [Compiler MonsterAnimBP] Could not find a variable named "canHitHuman" in 'ZOMBIE_C'.
+Make sure 'ZOMBIE_C' has been compiled for  Get canHitHuman
+[2018.07.12-23.17.16:837][995]LogBlueprint: Warning: [Compiler MonsterAnimBP] Could not find a variable named "canHitHuman" in 'ZOMBIE_C'.
+Make sure 'ZOMBIE_C' has been compiled for  Get canHitHuman
+[2018.07.12-23.17.16:855][995]LogBlueprint: Error: [Compiler MonsterAnimBP] The property associated with  Can Hit Human  could not be found
+[2018.07.12-23.17.16:865][995]LogBlueprint: Warning: [Compiler MonsterAnimBP] [4459.07] Compile of MonsterAnimBP failed. 1 Fatal Issue(s) 3 Warning(s) [in 75 ms] (/Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP)
+[2018.07.12-23.17.17:287][995]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/OverlordCharecterBP.OverlordCharecterBP_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.07.12-23.17.17:287][995]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/OverlordCharecterBP.SKEL_OverlordCharecterBP_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.07.12-23.17.17:447][995]LogSavePackage: Save=84.66ms
+[2018.07.12-23.17.17:447][995]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/OverlordCharecterBPA9C46385412C5CFE657769BAC4FE1ED7.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/OverlordCharecterBP.uasset'
+[2018.07.12-23.17.17:453][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/OverlordCharecterBP.uasset
+[2018.07.12-23.17.17:683][995]LogSavePackage: Save=10.45ms
+[2018.07.12-23.17.17:683][995]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/ThirdPersonCharacterA084DC8D49701422D1F8B5BEAD479F2D.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.07.12-23.17.17:687][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.07.12-23.17.21:302][157]LogSavePackage: Save=44.37ms
+[2018.07.12-23.17.21:302][157]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/ZOMBIE20C206E549672E4F6BC7AD8B72C4BC62.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ZOMBIE.uasset'
+[2018.07.12-23.17.21:306][157]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ZOMBIE.uasset
+[2018.07.12-23.17.21:347][157]LogSavePackage: Save=11.17ms
+[2018.07.12-23.17.21:347][157]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/NewWidgetBlueprint4FDE0BEF4703E606FFE5509EDCEA227B.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/NewWidgetBlueprint.uasset'
+[2018.07.12-23.17.21:351][157]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/NewWidgetBlueprint.uasset
+[2018.07.12-23.17.23:632][275]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.12-23.17.29:426][275]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.12-23.17.29:839][275]LogSourceControl: commit successful: [master c8a3dee] Changes
+[2018.07.12-23.17.29:900][275]SourceControl: [master c8a3dee] Changes
+[2018.07.12-23.17.29:900][275]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2018.07.12-23.17.29:900][275]SourceControl:  rewrite IDtechGame/Content/ThirdPersonBP/Blueprints/NewWidgetBlueprint.uasset (95%)
+[2018.07.12-23.17.29:900][275]SourceControl:  rewrite IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset (100%)
+[2018.07.12-23.17.29:900][275]SourceControl:  rewrite IDtechGame/Content/ThirdPersonBP/Blueprints/ZOMBIE.uasset (94%)
+[2018.07.12-23.17.29:908][275]SourceControl: Commited [master c8a3dee] Changes.
