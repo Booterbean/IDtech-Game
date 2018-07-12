@@ -23086,3 +23086,37 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2018.07.12-22.45.59:023][668]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_171:PersistentLevel.Actor_48.DebugSkelMeshComponent_111) - call TermArticulated first.
 [2018.07.12-22.45.59:655][669]LogRenderer: Reallocating scene render targets to support 980x832 Format 10 NumSamples 1 (Frame:1).
 [2018.07.12-22.47.10:018][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.12-22.55.53:464][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a24d27c800, Size=992
+[2018.07.12-22.55.53:464][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1c0b45400, Size=976
+[2018.07.12-22.55.53:464][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a275e14100, Size=1184
+[2018.07.12-22.55.53:464][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1fca99400, Size=512
+[2018.07.12-22.55.53:464][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a23210f000, Size=1024
+[2018.07.12-22.55.53:464][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a24f310c00, Size=976
+[2018.07.12-22.55.53:464][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a20ace8a00, Size=512
+[2018.07.12-22.55.53:464][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a20c2fa800, Size=512
+[2018.07.12-22.55.53:464][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a151dffd00, Size=720
+[2018.07.12-22.55.53:464][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1e1bb6400, Size=784
+[2018.07.12-22.55.53:464][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a20b5fc400, Size=704
+[2018.07.12-22.55.53:464][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1deb7f598, Size=4
+[2018.07.12-22.55.53:464][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1ffd72e00, Size=488
+[2018.07.12-22.55.53:465][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fdf95d4e8, Size=4
+[2018.07.12-22.55.53:465][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1c040b400, Size=992
+[2018.07.12-22.55.53:465][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1b63ad800, Size=496
+[2018.07.12-22.55.53:465][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a200c18c00, Size=488
+[2018.07.12-22.55.53:465][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1b71b3000, Size=504
+[2018.07.12-22.55.53:465][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1528a3000, Size=488
+[2018.07.12-22.55.53:465][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a13fb4ea00, Size=496
+[2018.07.12-22.55.53:465][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1df065ad0, Size=80
+[2018.07.12-22.55.53:465][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a16d7afe00, Size=488
+[2018.07.12-22.55.53:466][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1dd2c9180, Size=4
+[2018.07.12-22.55.53:466][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0fdac1800, Size=496
+[2018.07.12-22.55.53:466][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a111e8a600, Size=488
+[2018.07.12-22.55.53:466][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a183024950, Size=4
+[2018.07.12-22.55.53:472][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a099783800, Size=504
+[2018.07.12-22.55.53:521][807]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.099
+[2018.07.12-22.55.53:525][807]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint] ([1] browsable assets)...
+[2018.07.12-22.55.53:525][807]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint]
+[2018.07.12-22.55.53:559][807]LogSavePackage: Save=18.16ms
+[2018.07.12-22.55.53:559][807]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/NewWidgetBlueprint_Auto483D327634271FC659352BCBCB8F84149.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint_Auto4.uasset'
+[2018.07.12-22.55.53:562][807]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint_Auto4.uasset
+[2018.07.12-22.55.53:563][807]LogFileHelpers: Auto-saving content packages took 0.038
