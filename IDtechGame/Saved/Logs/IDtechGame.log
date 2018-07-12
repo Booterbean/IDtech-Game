@@ -1966,3 +1966,19 @@ LogInit: Object subsystem initialized
 [2018.07.12-22.43.42:937][829]LogLoad: Took 0.285024 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
 [2018.07.12-22.44.13:450][548]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
 [2018.07.12-22.44.13:494][548]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-22.44.59:961][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-22.45.47:940][666]LogSavePackage: Save=117.81ms
+[2018.07.12-22.45.47:940][666]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Main_MenueC3D4870D478CAFBED0F331BE7C2E5804.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/Main_Menue.umap'
+[2018.07.12-22.45.47:946][666]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/Main_Menue.umap
+[2018.07.12-22.45.47:998][666]LogFileHelpers: Saving map 'Main_Menue' took 2.142
+[2018.07.12-22.45.48:022][666]LogSavePackage: Save=7.00ms
+[2018.07.12-22.45.48:022][666]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Overlord_InAirD5DED0A64267AC72B834039CD264E488.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_InAir.uasset'
+[2018.07.12-22.45.48:029][666]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Overlord_InAir.uasset
+[2018.07.12-22.45.50:036][779]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.12-22.45.57:565][779]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.12-22.45.58:034][779]LogSourceControl: commit successful: [master 801ed40] Jump Anim.
+[2018.07.12-22.45.58:129][779]SourceControl: [master 801ed40] Jump Anim.
+[2018.07.12-22.45.58:129][779]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.07.12-22.45.58:136][779]SourceControl: Commited [master 801ed40] Jump Anim..
+[2018.07.12-23.00.55:446][762]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.12-23.00.55:589][762]EditorErrors: Warning: No assets to check in!
