@@ -630,3 +630,904 @@ LogInit: Object subsystem initialized
 [2018.07.12-17.28.20:403][810]SourceControl: [master dda4443] Sword Changes
 [2018.07.12-17.28.20:403][810]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.07.12-17.28.20:412][810]SourceControl: Commited [master dda4443] Sword Changes.
+[2018.07.12-18.07.10:114][485]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-18.07.10:171][485]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-18.07.10:171][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-18.07.10:173][485]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 12, 2018, 4:07:10 AM)
+[2018.07.12-18.07.10:173][485]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.12-18.07.10:213][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039364s)
+[2018.07.12-18.07.10:218][485]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.12-18.07.10:219][485]LogPlayLevel: PIE: World Init took: (0.005321s)
+[2018.07.12-18.07.10:219][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.045223s)
+[2018.07.12-18.07.10:248][485]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-18.07.10:320][485]LogInit: FAudioDevice initialized.
+[2018.07.12-18.07.10:355][485]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-18.07.10:368][485]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.07.12-11.07.10
+[2018.07.12-18.07.10:374][485]LogWorld: Bringing up level for play took: 0.016192
+[2018.07.12-18.07.10:379][485]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.394
+[2018.07.12-18.07.10:380][485]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-18.07.18:070][864]LogBlueprintUserMessages: [ZOMBIE3_542] 50
+[2018.07.12-18.07.19:368][930]LogBlueprintUserMessages: [ZOMBIE3_542] 0
+[2018.07.12-18.07.22:818][101]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.12-18.07.24:485][185]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.12-18.07.36:555][797]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.12-18.07.38:005][870]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.12-18.07.53:673][667]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.12-18.07.55:355][756]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.12-18.08.00:621][ 31]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.12-18.08.01:933][100]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.12-18.08.06:571][346]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.12-18.08.07:872][414]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.12-18.08.36:500][945]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-18.08.36:574][945]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-18.08.44:178][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.12-18.08.45:765][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-18.08.45:867][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-18.08.45:901][ 69]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-18.08.45:901][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-18.08.45:901][ 69]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 12, 2018, 4:08:45 AM)
+[2018.07.12-18.08.45:901][ 69]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.12-18.08.45:921][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019303s)
+[2018.07.12-18.08.45:922][ 69]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.12-18.08.45:922][ 69]LogPlayLevel: PIE: World Init took: (0.001426s)
+[2018.07.12-18.08.45:922][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020949s)
+[2018.07.12-18.08.45:952][ 69]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-18.08.46:017][ 69]LogInit: FAudioDevice initialized.
+[2018.07.12-18.08.46:048][ 69]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-18.08.46:052][ 69]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.07.12-11.08.46
+[2018.07.12-18.08.46:054][ 69]LogWorld: Bringing up level for play took: 0.005024
+[2018.07.12-18.08.46:056][ 69]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.071
+[2018.07.12-18.08.46:056][ 69]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-18.08.50:486][283]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.12-18.08.51:801][347]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.12-18.08.55:269][517]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.12-18.08.56:753][589]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.12-18.09.00:376][768]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.12-18.09.13:584][416]LogBlueprintUserMessages: [ZOMBIE3_542] 50
+[2018.07.12-18.09.16:118][540]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.12-18.09.18:335][649]LogBlueprintUserMessages: [ZOMBIE3_542] 0
+[2018.07.12-18.09.30:008][230]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.12-18.09.33:019][382]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.12-18.09.34:553][460]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.12-18.09.38:784][677]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.12-18.09.54:104][463]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-18.09.54:145][463]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-18.11.25:220][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.12-18.11.42:943][ 38]BlueprintLog: New page: Compile Swordgun
+[2018.07.12-18.11.44:014][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Swordgun" FILE="../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Swordgun.uasset" SILENT=true
+[2018.07.12-18.11.44:054][ 64]LogSavePackage: Save=18.68ms
+[2018.07.12-18.11.44:055][ 64]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Swordgun7DF6C26246693C5364B9ECA1733C9B0B.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Swordgun.uasset'
+[2018.07.12-18.11.44:058][ 64]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Swordgun.uasset
+[2018.07.12-18.11.45:753][160]LogSlate: Window 'Swordgun' being destroyed
+[2018.07.12-18.11.45:757][160]LogSlate: Window 'Swordgun' being destroyed
+[2018.07.12-18.11.49:064][312]LogRenderer: Reallocating scene render targets to support 944x612 Format 10 NumSamples 1 (Frame:22477).
+[2018.07.12-18.11.57:458][767]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.12-18.12.02:924][767]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.12-18.12.03:367][767]LogSourceControl: commit successful: [master 3364f4a] saved
+[2018.07.12-18.12.03:435][767]SourceControl: [master 3364f4a] saved
+[2018.07.12-18.12.03:435][767]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.07.12-18.12.03:443][767]SourceControl: Commited [master 3364f4a] saved.
+[2018.07.12-18.14.01:864][858]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-18.14.01:909][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-18.14.01:909][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-18.14.01:909][858]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 12, 2018, 4:14:01 AM)
+[2018.07.12-18.14.01:909][858]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.12-18.14.01:937][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027455s)
+[2018.07.12-18.14.01:938][858]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.12-18.14.01:938][858]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2018.07.12-18.14.01:938][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029168s)
+[2018.07.12-18.14.01:968][858]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-18.14.02:037][858]LogInit: FAudioDevice initialized.
+[2018.07.12-18.14.02:073][858]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-18.14.02:078][858]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.07.12-11.14.02
+[2018.07.12-18.14.02:080][858]LogWorld: Bringing up level for play took: 0.005890
+[2018.07.12-18.14.02:082][858]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.097
+[2018.07.12-18.14.02:082][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-18.14.29:610][497]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.12-18.14.30:944][577]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.12-18.14.32:412][665]LogBlueprintUserMessages: [ZOMBIE3_542] 50
+[2018.07.12-18.14.33:796][748]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.12-18.14.38:727][ 43]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.12-18.14.45:745][464]LogBlueprintUserMessages: [ZOMBIE3_542] 0
+[2018.07.12-18.14.48:578][634]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.12-18.14.49:957][716]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.12-18.14.54:706][  1]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.12-18.14.57:309][157]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.12-18.14.59:560][292]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.12-18.15.08:615][835]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.12-18.16.11:023][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-18.16.11:064][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-18.18.21:286][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-18.18.21:485][389]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-18.18.21:511][389]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-18.18.21:512][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-18.18.21:512][389]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 12, 2018, 4:18:21 AM)
+[2018.07.12-18.18.21:512][389]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.12-18.18.21:540][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028336s)
+[2018.07.12-18.18.21:541][389]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.12-18.18.21:542][389]LogPlayLevel: PIE: World Init took: (0.001493s)
+[2018.07.12-18.18.21:542][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030204s)
+[2018.07.12-18.18.21:569][389]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-18.18.21:638][389]LogInit: FAudioDevice initialized.
+[2018.07.12-18.18.21:672][389]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-18.18.21:678][389]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.07.12-11.18.21
+[2018.07.12-18.18.21:679][389]LogWorld: Bringing up level for play took: 0.006274
+[2018.07.12-18.18.21:680][389]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.304
+[2018.07.12-18.18.21:681][389]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-18.18.37:954][359]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.12-18.18.39:339][441]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.12-18.18.57:454][527]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.12-18.18.59:854][671]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.12-18.19.02:974][858]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.12-18.19.05:192][991]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.12-18.19.08:186][170]LogBlueprintUserMessages: [ZOMBIE3_542] 50
+[2018.07.12-18.19.17:936][755]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.12-18.19.29:057][422]LogBlueprintUserMessages: [ZOMBIE3_542] 0
+[2018.07.12-18.19.33:458][686]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.12-18.19.34:859][770]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.12-18.19.37:761][944]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.12-18.20.59:140][822]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-18.20.59:185][822]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-18.21.09:630][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-18.23.20:235][ 60]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.07.12-18.23.20:278][ 61]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.07.12-18.23.20:278][ 61]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.12-18.23.20:278][ 61]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.12-18.23.20:278][ 61]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.12-18.23.20:311][ 61]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.07.12-18.23.20:467][ 66]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.07.12-18.23.20:508][ 67]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2018.07.12-18.23.23:890][235]LogShaderCompilers: Display: Shaders left to compile 136
+[2018.07.12-18.23.24:475][258]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.07.12-18.23.24:602][264]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.07.12-18.23.26:862][369]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.07.12-18.23.27:191][384]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.07.12-18.23.27:595][406]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.07.12-18.23.27:630][407]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.07.12-18.23.30:464][539]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.07.12-18.23.30:878][560]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.07.12-18.23.31:566][595]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.07.12-18.23.32:638][633]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.07.12-18.23.34:047][683]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.12-18.23.34:259][689]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.12-18.23.35:877][760]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.12-18.23.40:996][ 45]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2018.07.12-18.23.41:022][ 46]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.07.12-18.23.41:023][ 46]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.12-18.23.41:023][ 46]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.12-18.23.41:023][ 46]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.12-18.23.41:040][ 46]LogMaterial: Missing cached shader map for material Material_5, compiling. 
+[2018.07.12-18.23.41:087][ 47]LogMaterial: Missing cached shader map for material Material_6, compiling. 
+[2018.07.12-18.23.41:138][ 48]LogMaterial: Missing cached shader map for material Material_7, compiling. 
+[2018.07.12-18.23.43:825][170]LogShaderCompilers: Display: Shaders left to compile 136
+[2018.07.12-18.23.44:040][180]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.07.12-18.23.44:304][191]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.07.12-18.23.46:481][285]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.07.12-18.23.46:512][286]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.07.12-18.23.47:161][316]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.07.12-18.23.47:238][319]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.07.12-18.23.49:880][434]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.07.12-18.23.50:247][449]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.07.12-18.23.50:614][464]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.07.12-18.23.51:724][504]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.07.12-18.23.53:543][565]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.12-18.23.53:631][568]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.12-18.23.55:362][640]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.12-18.24.15:189][790]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.07.12-18.24.15:581][790]LogSkeletalMesh: Skeletal Mesh found in DDC [12.118060ms] /Game/ThirdPersonBP/maya_stuff/gunsword.gunsword_pCube9
+[2018.07.12-18.24.15:613][790]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.07.12-18.24.15:625][790]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.07.12-18.24.16:055][790]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.07.12-18.24.16:461][790]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.07.12-18.24.25:609][ 17]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2018.07.12-18.24.39:836][832]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.07.12-18.24.40:120][832]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.07.12-18.28.56:545][947]BlueprintLog: New page: Compile OverlordBP
+[2018.07.12-18.28.57:982][988]LogSavePackage: Save=42.05ms
+[2018.07.12-18.28.57:982][988]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/OverlordBPD95010BC4C791B0C6547ADBDE07E702B.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/OverlordBP.uasset'
+[2018.07.12-18.28.57:991][988]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/OverlordBP.uasset
+[2018.07.12-18.29.00:020][ 48]LogSlate: Window 'OverlordBP' being destroyed
+[2018.07.12-18.29.00:032][ 48]LogSlate: Window 'OverlordBP' being destroyed
+[2018.07.12-18.32.43:219][908]LogSlate: Window 'NewWidgetBlueprint*' being destroyed
+[2018.07.12-18.32.43:227][908]LogSlate: Window 'NewWidgetBlueprint*' being destroyed
+[2018.07.12-18.32.53:916][496]LogMetaData: Removing '/Game/ThirdPersonBP/MainMenue.SKEL_MainMenue_C' ref from Metadata '/Game/ThirdPersonBP/NewWidgetBlueprint.PackageMetaData'
+[2018.07.12-18.32.53:916][496]LogMetaData: Removing '/Game/ThirdPersonBP/MainMenue.MainMenue_C' ref from Metadata '/Game/ThirdPersonBP/NewWidgetBlueprint.PackageMetaData'
+[2018.07.12-18.32.53:916][496]LogMetaData: Removing '/Game/ThirdPersonBP/MainMenue.MainMenue:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/NewWidgetBlueprint.PackageMetaData'
+[2018.07.12-18.32.53:916][496]LogMetaData: Removing '/Game/ThirdPersonBP/MainMenue.MainMenue:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/NewWidgetBlueprint.PackageMetaData'
+[2018.07.12-18.32.53:916][496]LogMetaData: Removing '/Game/ThirdPersonBP/MainMenue.MainMenue:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/NewWidgetBlueprint.PackageMetaData'
+[2018.07.12-18.32.53:939][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/MainMenue" FILE="../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/MainMenue.uasset" SILENT=true
+[2018.07.12-18.32.53:957][496]LogSavePackage: Save=11.10ms
+[2018.07.12-18.32.53:957][496]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/MainMenueAE0CC6BE4654D7450887BF9CF529E87A.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/MainMenue.uasset'
+[2018.07.12-18.32.53:960][496]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/MainMenue.uasset
+[2018.07.12-18.33.33:039][227]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.12-18.33.33:494][227]SourceControl: rm 'IDtechGame/Content/ThirdPersonBP/MainMenue.uasset'
+[2018.07.12-18.34.47:923][ 59]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.12-18.34.48:326][ 59]LogSavePackage: Save=163.81ms
+[2018.07.12-18.34.48:326][ 59]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/ThirdPersonExampleMapA45BCE334EE3324E05925C9F63073C85.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/ThirdPersonExampleMap.umap'
+[2018.07.12-18.34.48:332][ 59]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/ThirdPersonExampleMap.umap
+[2018.07.12-18.34.48:939][ 59]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.906
+[2018.07.12-18.35.02:246][485]LogMetaData: Removing '/Game/ThirdPersonBP/Levels/World.SKEL_World_C' ref from Metadata '/Game/ThirdPersonBP/Levels/ThirdPersonExampleMap.PackageMetaData'
+[2018.07.12-18.35.02:246][485]LogMetaData: Removing '/Game/ThirdPersonBP/Levels/World.World_C' ref from Metadata '/Game/ThirdPersonBP/Levels/ThirdPersonExampleMap.PackageMetaData'
+[2018.07.12-18.35.02:703][485]LogSavePackage: Save=309.50ms
+[2018.07.12-18.35.02:703][485]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/World980F744E46AF0F0522DA30A1B97E1A95.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/World.umap'
+[2018.07.12-18.35.02:707][485]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/World.umap
+[2018.07.12-18.35.03:448][485]LogFileHelpers: Saving map 'World' took 1.168
+[2018.07.12-18.35.03:978][485]SourceControl: rm 'IDtechGame/Content/ThirdPersonBP/Levels/ThirdPersonExampleMap.umap'
+[2018.07.12-18.35.04:094][490]SourceControl: Error: fatal: Invalid path '/Game': No such file or directory
+[2018.07.12-18.36.43:727][617]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_80' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.43:765][617]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_82' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.43:793][618]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_84' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.43:816][619]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_86' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.43:840][620]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_88' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.43:866][621]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_90' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.43:890][622]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_92' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.43:910][623]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_94' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.43:916][623]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_96' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.43:918][623]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_98' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.43:942][624]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_100' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.43:944][624]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_102' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.43:947][624]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_104' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.43:969][625]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_106' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.43:973][625]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_108' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.43:997][626]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_110' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:022][627]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_112' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:049][628]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_114' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:073][629]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_116' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:100][630]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_118' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:127][631]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_120' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:131][631]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_122' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:154][632]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_124' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:157][632]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_126' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:183][633]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_128' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:207][634]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_130' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:232][635]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_132' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:257][636]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_134' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:283][637]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_136' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:307][638]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_138' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:327][639]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_140' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:334][639]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_142' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:356][640]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_144' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:359][640]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_146' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:383][641]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_148' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:406][642]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_150' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:409][642]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_152' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:434][643]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_154' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:459][644]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_156' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:484][645]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_158' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:509][646]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_160' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:511][646]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_162' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:535][647]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_164' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:541][647]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_166' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:565][648]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_168' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:568][648]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_170' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:593][649]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_172' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:619][650]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_174' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:648][651]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_176' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:651][651]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_178' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:675][652]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_180' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:679][652]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_182' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:703][653]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_184' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:707][653]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_186' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:733][654]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_188' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:758][655]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_190' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:781][656]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_192' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:785][656]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_194' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:808][657]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_196' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:811][657]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_198' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:835][658]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_200' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:838][658]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_202' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:867][659]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_204' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:871][659]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_206' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:900][660]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_208' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:904][660]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_210' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:927][661]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_212' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:931][661]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_214' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:955][662]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_216' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:959][662]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_218' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:981][663]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_220' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.44:984][663]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_222' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:007][664]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_224' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:010][664]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_226' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:034][665]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_228' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:060][666]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_230' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:085][667]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_232' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:115][668]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_234' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:119][668]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_236' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:142][669]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_238' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:144][669]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_240' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:147][669]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_242' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:171][670]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_244' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:200][671]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_246' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:224][672]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_248' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:249][673]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_250' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:274][674]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_252' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:300][675]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_254' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:324][676]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_256' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:349][677]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_258' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:373][678]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_260' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:400][679]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_262' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:424][680]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_264' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:449][681]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_266' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:473][682]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_268' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.36.45:499][683]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.EditableTextBox_270' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.37.56:416][930]LogSlate: Took 0.019927 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.07.12-18.38.02:511][101]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_58' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.40.04:069][561]LogSlate: Window 'Save Asset As' being destroyed
+[2018.07.12-18.42.40:776][185]BlueprintLog: New page: Compile Main_Menue
+[2018.07.12-18.45.28:206][979]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_303' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:208][979]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_1' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:213][979]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_3' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:242][980]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_5' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:245][980]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_7' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:269][981]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_9' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:272][981]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_11' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:281][981]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_13' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:308][982]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_15' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:311][982]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_17' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:337][983]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_19' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:340][983]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_21' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:371][984]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_23' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:378][984]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_25' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:408][985]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_27' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:411][985]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_29' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:437][986]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_31' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:439][986]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_33' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:447][986]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_35' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:473][987]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_37' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:476][987]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_39' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:500][988]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_41' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:505][988]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_43' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:510][988]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_45' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:534][989]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_47' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:536][989]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_49' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:538][989]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_51' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:572][990]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_53' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:575][990]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_55' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:596][991]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_57' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:601][991]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_59' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:608][991]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_61' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:638][992]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_63' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:640][992]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_65' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:648][992]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_67' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:674][993]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_69' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:677][993]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_71' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:699][994]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_73' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:706][994]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_75' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:736][995]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_77' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:739][995]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_79' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:770][996]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_81' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:773][996]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_83' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:805][997]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_85' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:809][997]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_87' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:831][998]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_89' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:839][998]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_91' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:867][999]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_93' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:894][  0]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_95' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:919][  1]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_97' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:921][  1]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_99' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:925][  1]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_101' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:955][  2]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_103' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:960][  2]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_105' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:989][  3]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_107' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.28:992][  3]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_109' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:012][  4]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_111' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:022][  4]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_113' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:049][  5]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_115' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:075][  6]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_117' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:078][  6]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_119' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:107][  7]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_121' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:124][  8]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_123' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:162][  9]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_125' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:187][ 10]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_127' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:192][ 10]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_129' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:222][ 11]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_131' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:223][ 11]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_133' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:231][ 11]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_135' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:257][ 12]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_137' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:260][ 12]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_139' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:289][ 13]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_141' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:307][ 14]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_143' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:344][ 15]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_145' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:347][ 15]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_147' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:375][ 16]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_149' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:378][ 16]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_151' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:404][ 17]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_153' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:409][ 17]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_155' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:439][ 18]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_157' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:442][ 18]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_159' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:463][ 19]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_161' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:468][ 19]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_163' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:474][ 19]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_165' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:504][ 20]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_167' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:507][ 20]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_169' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:538][ 21]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_171' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:544][ 21]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_173' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:573][ 22]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_175' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:576][ 22]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_177' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:599][ 23]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_179' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:605][ 23]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_181' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:632][ 24]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_183' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:635][ 24]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_185' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:661][ 25]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_187' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:664][ 25]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_189' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:690][ 26]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_191' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:693][ 26]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_193' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:718][ 27]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_195' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:748][ 28]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_197' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:775][ 29]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_199' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:801][ 30]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_201' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:807][ 30]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_203' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:841][ 31]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_205' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:844][ 31]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_207' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:868][ 32]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_209' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:872][ 32]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_211' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:900][ 33]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_213' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:904][ 33]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_215' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:907][ 33]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_217' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:940][ 34]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_219' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:943][ 34]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_221' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:969][ 35]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_223' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.29:998][ 36]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_225' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:025][ 37]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_227' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:053][ 38]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_229' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:082][ 39]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_231' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:108][ 40]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_233' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:111][ 40]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_235' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:138][ 41]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_237' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:143][ 41]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_239' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:173][ 42]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_241' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:175][ 42]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_243' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:202][ 43]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_245' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:231][ 44]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_247' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:258][ 45]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_249' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:283][ 46]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_251' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:314][ 47]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_253' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:343][ 48]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_255' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:369][ 49]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_257' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:399][ 50]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_259' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:426][ 51]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_261' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:451][ 52]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_263' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:481][ 53]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_265' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:508][ 54]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_267' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:535][ 55]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_269' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:564][ 56]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_271' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:567][ 56]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_273' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:592][ 57]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_275' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:596][ 57]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_277' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:621][ 58]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_279' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:625][ 58]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_281' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:656][ 59]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_283' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:659][ 59]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_285' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:683][ 60]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_287' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:714][ 61]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_289' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:742][ 62]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_291' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:764][ 63]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_293' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:797][ 64]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_295' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:826][ 65]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_297' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:853][ 66]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_299' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:890][ 67]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_301' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:907][ 68]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_303' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:916][ 68]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_305' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:945][ 69]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_307' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:948][ 69]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_309' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.30:976][ 70]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_311' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:001][ 71]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_313' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:031][ 72]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_315' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:058][ 73]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_317' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:084][ 74]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_319' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:115][ 75]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_321' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:142][ 76]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_323' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:165][ 77]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_325' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:197][ 78]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_327' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:224][ 79]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_329' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:249][ 80]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_331' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:281][ 81]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_333' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:306][ 82]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_335' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:310][ 82]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_337' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:340][ 83]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_339' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:372][ 84]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_341' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:392][ 85]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_343' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:429][ 86]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_345' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:457][ 87]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_347' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:478][ 88]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_349' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:513][ 89]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_351' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:541][ 90]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_353' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:566][ 91]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_355' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:597][ 92]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_357' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:624][ 93]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_359' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:648][ 94]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_361' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:681][ 95]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_363' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:707][ 96]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_365' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:729][ 97]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_367' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:763][ 98]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_369' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:790][ 99]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_371' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:810][100]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_373' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:845][101]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_375' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:873][102]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_377' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:891][103]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_379' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:929][104]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_381' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:956][105]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_383' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.31:975][106]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_385' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.32:012][107]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_387' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.32:039][108]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_389' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.32:048][108]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_391' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.32:076][109]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_393' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.32:101][110]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_395' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.32:131][111]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_397' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.32:158][112]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_399' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.32:180][113]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_401' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.32:213][114]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_403' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.32:241][115]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_405' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.32:263][116]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_407' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.32:297][117]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_409' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.32:324][118]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_411' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.32:347][119]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_413' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.32:380][120]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_415' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.45.32:408][121]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_417' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.48.20:818][769]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.032
+[2018.07.12-18.48.20:823][769]LogExec: Warning: Missing filename
+[2018.07.12-18.48.20:824][769]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/UI/Main_Menue] ([1] browsable assets)...
+[2018.07.12-18.48.20:825][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/UI/Main_Menue]
+[2018.07.12-18.48.20:844][769]LogSavePackage: Save=16.78ms
+[2018.07.12-18.48.20:844][769]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Main_Menue_Auto236CCA9F24C179EFEDA0B50AA2C07F36E.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/UI/Main_Menue_Auto2.uasset'
+[2018.07.12-18.48.20:846][769]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/UI/Main_Menue_Auto2.uasset
+[2018.07.12-18.48.20:846][769]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/UI/Options] ([1] browsable assets)...
+[2018.07.12-18.48.20:846][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/UI/Options]
+[2018.07.12-18.48.20:860][769]LogSavePackage: Save=11.46ms
+[2018.07.12-18.48.20:860][769]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Options_Auto227FE851A476F75E494989FB11B197D64.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/UI/Options_Auto2.uasset'
+[2018.07.12-18.48.20:861][769]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/UI/Options_Auto2.uasset
+[2018.07.12-18.48.20:861][769]LogFileHelpers: Auto-saving content packages took 0.042
+[2018.07.12-18.48.52:917][173]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/ThirdPersonBP/UI/Main_Menue.Main_Menue:WidgetTree.VerticalBox_90 or VerticalBox /Engine/Transient.World_26:Main_Menue_C_23.WidgetTree_38.VerticalBox_90
+[2018.07.12-18.48.52:917][173]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/ThirdPersonBP/UI/Main_Menue.Main_Menue:WidgetTree.VerticalBox_90 or VerticalBox /Engine/Transient.World_26:Main_Menue_C_24.WidgetTree_39.VerticalBox_90
+[2018.07.12-18.48.52:917][173]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/ThirdPersonBP/UI/Main_Menue.Main_Menue:WidgetTree.VerticalBox_90 or VerticalBox /Engine/Transient.World_26:Main_Menue_C_25.WidgetTree_40.VerticalBox_90
+[2018.07.12-18.48.52:917][173]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/ThirdPersonBP/UI/Main_Menue.Main_Menue:WidgetTree.VerticalBox_90 or VerticalBox /Engine/Transient.World_26:Main_Menue_C_26.WidgetTree_41.VerticalBox_90
+[2018.07.12-18.48.52:917][173]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/ThirdPersonBP/UI/Main_Menue.Main_Menue:WidgetTree.VerticalBox_90 or VerticalBox /Engine/Transient.World_26:Main_Menue_C_27.WidgetTree_42.VerticalBox_90
+[2018.07.12-18.48.52:917][173]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/ThirdPersonBP/UI/Main_Menue.Main_Menue:WidgetTree.VerticalBox_90.VerticalBoxSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Button_0).  Import failed...
+[2018.07.12-18.48.52:917][173]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_90.VerticalBoxSlot_0"''
+[2018.07.12-18.48.53:021][175]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/UMG/Editor: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/UMG/Editor' is outside repository
+[2018.07.12-18.48.53:502][191]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/ThirdPersonBP/UI/Main_Menue.Main_Menue:WidgetTree.VerticalBox_90 or VerticalBox /Engine/Transient.World_26:Main_Menue_C_23.WidgetTree_38.VerticalBox_90
+[2018.07.12-18.48.53:502][191]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/ThirdPersonBP/UI/Main_Menue.Main_Menue:WidgetTree.VerticalBox_90 or VerticalBox /Engine/Transient.World_26:Main_Menue_C_24.WidgetTree_39.VerticalBox_90
+[2018.07.12-18.48.53:502][191]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/ThirdPersonBP/UI/Main_Menue.Main_Menue:WidgetTree.VerticalBox_90 or VerticalBox /Engine/Transient.World_26:Main_Menue_C_25.WidgetTree_40.VerticalBox_90
+[2018.07.12-18.48.53:502][191]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/ThirdPersonBP/UI/Main_Menue.Main_Menue:WidgetTree.VerticalBox_90 or VerticalBox /Engine/Transient.World_26:Main_Menue_C_26.WidgetTree_41.VerticalBox_90
+[2018.07.12-18.48.53:502][191]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/ThirdPersonBP/UI/Main_Menue.Main_Menue:WidgetTree.VerticalBox_90 or VerticalBox /Engine/Transient.World_26:Main_Menue_C_27.WidgetTree_42.VerticalBox_90
+[2018.07.12-18.48.53:502][191]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/ThirdPersonBP/UI/Main_Menue.Main_Menue:WidgetTree.VerticalBox_90 or VerticalBox /Engine/Transient.World_26:Main_Menue_C_28.WidgetTree_43.VerticalBox_90
+[2018.07.12-18.48.53:502][191]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/ThirdPersonBP/UI/Main_Menue.Main_Menue:WidgetTree.VerticalBox_90.VerticalBoxSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Button_0).  Import failed...
+[2018.07.12-18.48.53:502][191]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_90.VerticalBoxSlot_0"''
+[2018.07.12-18.48.53:583][192]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/UMG/Editor: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/UMG/Editor' is outside repository
+[2018.07.12-18.50.10:184][231]LogEditorTransaction: Undo Remove Widget
+[2018.07.12-18.50.36:897][ 80]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.12-18.50.54:166][617]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.12-18.51.06:850][  6]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.12-18.51.20:431][422]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.12-18.51.33:961][833]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.12-18.51.36:065][894]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.QuitButton' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:066][894]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_2' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:068][894]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_4' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:101][895]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_6' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:103][895]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_8' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:124][896]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_10' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:134][896]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_12' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:163][897]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_14' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:193][898]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_16' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:200][898]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_18' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:233][899]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_20' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:236][899]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_22' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:260][900]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_24' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:266][900]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_26' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:271][900]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_28' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:302][901]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_30' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:304][901]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_32' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:306][901]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_34' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:333][902]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_36' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:336][902]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_38' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:356][903]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_40' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:367][903]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_42' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:394][904]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_44' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:396][904]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_46' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:425][905]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_48' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:434][905]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_50' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:461][906]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_52' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:490][907]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_54' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:526][908]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_56' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:554][909]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_58' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:584][910]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_60' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:604][911]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_62' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:641][912]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_64' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.51.36:670][913]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_66' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:512][921]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.QuitButton' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:513][921]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_70' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:515][921]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_72' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:549][922]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_74' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:552][922]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_76' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:586][923]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_78' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:589][923]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_80' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:617][924]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_82' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:623][924]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_84' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:653][925]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_86' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:656][925]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_88' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:679][926]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_90' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:687][926]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_92' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:720][927]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_94' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:722][927]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_96' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:752][928]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_98' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:771][929]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_100' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:809][930]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_102' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:837][931]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_104' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:863][932]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_106' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:896][933]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_108' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:925][934]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_110' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.09:961][935]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_112' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.07.12-18.52.29:792][537]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2018.07.12-18.52.30:309][546]Cmd: TRANSACTION UNDO
+[2018.07.12-18.52.30:309][546]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2018.07.12-18.53.22:774][736]BlueprintLog: New page: Compile Main_Menue
+[2018.07.12-18.53.23:725][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI/Main_Menue" FILE="../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/UI/Main_Menue.uasset" SILENT=true
+[2018.07.12-18.53.23:747][759]LogSavePackage: Save=16.50ms
+[2018.07.12-18.53.23:747][759]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Main_Menue086AC4CB4E06FF3DE1F95190E6673753.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/UI/Main_Menue.uasset'
+[2018.07.12-18.53.23:755][759]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/UI/Main_Menue.uasset
+[2018.07.12-21.31.57:116][150]LogSlate: Window 'Save Content' being destroyed
+[2018.07.12-21.31.59:785][150]LogSavePackage: Save=10.70ms
+[2018.07.12-21.31.59:785][150]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Main_Menue65AB6656405EE8D3276B758B7992D075.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/Main_Menue.umap'
+[2018.07.12-21.31.59:794][150]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/Main_Menue.umap
+[2018.07.12-21.31.59:974][150]LogFileHelpers: Saving map 'Main_Menue' took 2.672
+[2018.07.12-21.32.00:520][150]LogSavePackage: Save=385.71ms
+[2018.07.12-21.32.00:520][150]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/World96B54ECB4A7D57BDF95A77A0019E432F.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/World.umap'
+[2018.07.12-21.32.00:530][150]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/World.umap
+[2018.07.12-21.32.00:540][150]LogFileHelpers: Saving map 'World' took 0.565
+[2018.07.12-21.32.00:541][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI/Options" FILE="../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/UI/Options.uasset" SILENT=true
+[2018.07.12-21.32.00:558][150]LogSavePackage: Save=12.34ms
+[2018.07.12-21.32.00:558][150]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Options94FC9F464038D32F3AAC6FA1C6A5E781.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/UI/Options.uasset'
+[2018.07.12-21.32.00:566][150]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/UI/Options.uasset
+[2018.07.12-21.32.00:738][150]Cmd: MAP LOAD FILE="../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/Main_Menue.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.12-21.32.00:739][150]LightingResults: New page: Lighting Build
+[2018.07.12-21.32.00:742][150]LoadErrors: New page: Loading map: Main_Menue.umap
+[2018.07.12-21.32.00:751][150]MapCheck: New page: Map Check
+[2018.07.12-21.32.00:751][150]LightingResults: New page: Lighting Build
+[2018.07.12-21.32.00:900][150]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.12-21.32.00:900][150]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-21.32.00:987][150]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.12-21.32.01:058][150]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.253ms to complete.
+[2018.07.12-21.32.01:068][150]LogFileHelpers: Loading map 'Main_Menue' took 0.338
+[2018.07.12-21.35.21:128][749]BlueprintLog: New page: Compile Main_Menue
+[2018.07.12-21.35.22:951][811]LogSavePackage: Save=151.91ms
+[2018.07.12-21.35.22:951][811]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Main_MenueD26E3BA94CC2E8648276739D3F3CD84F.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/Main_Menue.umap'
+[2018.07.12-21.35.22:959][811]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/Main_Menue.umap
+[2018.07.12-21.35.23:008][811]LogFileHelpers: Saving map 'Main_Menue' took 0.323
+[2018.07.12-21.35.38:208][240]LogAIModule: Creating AISystem for world World
+[2018.07.12-21.35.38:254][240]Cmd: MAP LOAD FILE="../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/World.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.12-21.35.38:254][240]LightingResults: New page: Lighting Build
+[2018.07.12-21.35.38:255][240]LoadErrors: New page: Loading map: World.umap
+[2018.07.12-21.35.38:306][240]MapCheck: New page: Map Check
+[2018.07.12-21.35.38:306][240]LightingResults: New page: Lighting Build
+[2018.07.12-21.35.38:353][240]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.12-21.35.38:421][240]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.12-21.35.38:500][240]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.642ms to complete.
+[2018.07.12-21.35.38:500][240]LogFileHelpers: Loading map 'World' took 0.246
+[2018.07.12-21.36.50:139][614]BlueprintLog: New page: Compile World
+[2018.07.12-21.36.51:698][642]LogSavePackage: Save=322.72ms
+[2018.07.12-21.36.51:698][642]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/World65BC15D14B5196E3057A81AD6B8D284D.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/World.umap'
+[2018.07.12-21.36.51:703][642]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/World.umap
+[2018.07.12-21.36.51:747][642]LogFileHelpers: Saving map 'World' took 0.489
+[2018.07.12-21.38.10:766][307]BlueprintLog: New page: Compile Main_Menue
+[2018.07.12-21.38.11:737][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI/Main_Menue" FILE="../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/UI/Main_Menue.uasset" SILENT=true
+[2018.07.12-21.38.11:776][344]LogSavePackage: Save=22.72ms
+[2018.07.12-21.38.11:776][344]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Main_Menue58C7DC3E49EACB885FB02992F60FF2D9.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/UI/Main_Menue.uasset'
+[2018.07.12-21.38.11:780][344]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/UI/Main_Menue.uasset
+[2018.07.12-21.39.16:312][271]BlueprintLog: New page: Compile Main_Menue
+[2018.07.12-21.39.17:045][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI/Main_Menue" FILE="../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/UI/Main_Menue.uasset" SILENT=true
+[2018.07.12-21.39.17:076][295]LogSavePackage: Save=20.59ms
+[2018.07.12-21.39.17:076][295]LogSavePackage: Moving '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Saved/Main_MenueEF5E95E0435C5DCBFCD26FABB628CF98.tmp' to '../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/UI/Main_Menue.uasset'
+[2018.07.12-21.39.17:080][295]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/UI/Main_Menue.uasset
+[2018.07.12-21.39.23:090][521]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-21.39.23:172][521]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/ThirdPersonBP/Levels/World.World_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World'
+[2018.07.12-21.39.23:173][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-21.39.23:173][521]PIE: New page: PIE session: World (Jul 12, 2018, 7:39:23 AM)
+[2018.07.12-21.39.23:173][521]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_World
+[2018.07.12-21.39.23:193][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020163s)
+[2018.07.12-21.39.23:195][521]LogAIModule: Creating AISystem for world World
+[2018.07.12-21.39.23:195][521]LogPlayLevel: PIE: World Init took: (0.001531s)
+[2018.07.12-21.39.23:195][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/World.World to /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World (0.022233s)
+[2018.07.12-21.39.23:230][521]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-21.39.23:301][521]LogInit: FAudioDevice initialized.
+[2018.07.12-21.39.23:334][521]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-21.39.23:340][521]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-14.39.23
+[2018.07.12-21.39.23:342][521]LogWorld: Bringing up level for play took: 0.006539
+[2018.07.12-21.39.23:345][521]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_World -0.64
+[2018.07.12-21.39.23:345][521]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/ThirdPersonBP/Levels/World.World_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World'
+[2018.07.12-21.39.28:789][778]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/ThirdPersonBP/Levels/World.World_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World'
+[2018.07.12-21.39.28:837][778]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/ThirdPersonBP/Levels/World.World_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World'
+[2018.07.12-21.39.30:760][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-21.39.31:520][899]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-21.39.31:551][899]Cmd: MAP LOAD FILE="../../../../../../Users/iD Student/Documents/GitHub/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/Main_Menue.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.12-21.39.31:551][899]LightingResults: New page: Lighting Build
+[2018.07.12-21.39.31:552][899]LoadErrors: New page: Loading map: Main_Menue.umap
+[2018.07.12-21.39.31:605][899]MapCheck: New page: Map Check
+[2018.07.12-21.39.31:605][899]LightingResults: New page: Lighting Build
+[2018.07.12-21.39.31:642][899]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.12-21.39.31:708][899]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.12-21.39.31:783][899]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.276ms to complete.
+[2018.07.12-21.39.31:786][899]LogFileHelpers: Loading map 'Main_Menue' took 0.236
+[2018.07.12-21.39.34:646][ 34]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-21.39.34:678][ 34]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.39.34:678][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-21.39.34:678][ 34]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 7:39:34 AM)
+[2018.07.12-21.39.34:679][ 34]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-21.39.34:680][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000949s)
+[2018.07.12-21.39.34:681][ 34]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-21.39.34:683][ 34]LogPlayLevel: PIE: World Init took: (0.003279s)
+[2018.07.12-21.39.34:683][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.004723s)
+[2018.07.12-21.39.34:714][ 34]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-21.39.34:784][ 34]LogInit: FAudioDevice initialized.
+[2018.07.12-21.39.34:814][ 34]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-21.39.34:816][ 34]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-14.39.34
+[2018.07.12-21.39.34:816][ 34]LogWorld: Bringing up level for play took: 0.000648
+[2018.07.12-21.39.34:850][ 34]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue 0.865
+[2018.07.12-21.39.34:851][ 34]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.39.40:128][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-21.39.42:512][409]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-21.39.42:513][409]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-21.39.42:929][409]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.328 s
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: 
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: 
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: Stack: 
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x000000002579B6F6 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x00000000254FAE2A UE4Editor-Core.dll!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x000000002550ECC6 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x00000000228DBBE9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x00000000228AD28D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x000000002C186F37 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x000000002C4CC000 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x000000002C4E311B UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x000000002C4E2534 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x00000000200C89CA UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x000000002007BFD8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x00000000200E9CF0 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x000000002379CD20 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x0000000024039516 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x00000000069F5EAC UE4Editor.exe!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x0000000006A06BD0 UE4Editor.exe!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x0000000006A06C4A UE4Editor.exe!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x0000000006A14149 UE4Editor.exe!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x0000000006A15B57 UE4Editor.exe!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x000000005B171FE4 KERNEL32.DLL!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: [Callstack] 0x000000005CF4CB31 ntdll.dll!UnknownFunction []
+[2018.07.12-21.39.42:930][409]LogOutputDevice: Error: 
+[2018.07.12-21.39.42:933][409]LogStats:                SubmitErrorReport -  0.000 s
+[2018.07.12-21.39.48:328][409]LogStats:                    SendNewReport -  5.395 s
+[2018.07.12-21.39.48:328][409]LogStats:             FDebug::EnsureFailed -  5.727 s
+[2018.07.12-21.39.48:408][409]LogAIModule: Creating AISystem for world World
+[2018.07.12-21.39.48:408][409]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-21.39.48:420][409]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-14.39.48
+[2018.07.12-21.39.48:422][409]LogWorld: Bringing up level for play took: 0.009454
+[2018.07.12-21.39.48:424][409]LogLoad: Took 5.911377 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-21.39.51:584][533]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.39.51:661][533]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.39.52:558][570]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.12-21.39.53:645][609]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-21.39.53:680][609]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.39.53:680][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-21.39.53:680][609]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 7:39:53 AM)
+[2018.07.12-21.39.53:680][609]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-21.39.53:683][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002575s)
+[2018.07.12-21.39.53:686][609]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-21.39.53:687][609]LogPlayLevel: PIE: World Init took: (0.004192s)
+[2018.07.12-21.39.53:687][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.007231s)
+[2018.07.12-21.39.53:718][609]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-21.39.53:783][609]LogInit: FAudioDevice initialized.
+[2018.07.12-21.39.53:784][609]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.12-21.39.53:816][609]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-21.39.53:817][609]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-14.39.53
+[2018.07.12-21.39.53:818][609]LogWorld: Bringing up level for play took: 0.000790
+[2018.07.12-21.39.53:821][609]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue -0.164
+[2018.07.12-21.39.53:821][609]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.39.55:011][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-21.39.55:175][669]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.39.55:209][669]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.39.58:554][807]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-21.39.58:596][807]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.39.58:597][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-21.39.58:597][807]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 7:39:58 AM)
+[2018.07.12-21.39.58:597][807]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-21.39.58:599][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001640s)
+[2018.07.12-21.39.58:601][807]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-21.39.58:603][807]LogPlayLevel: PIE: World Init took: (0.003857s)
+[2018.07.12-21.39.58:603][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.005916s)
+[2018.07.12-21.39.58:635][807]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-21.39.58:704][807]LogInit: FAudioDevice initialized.
+[2018.07.12-21.39.58:737][807]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-21.39.58:738][807]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-14.39.58
+[2018.07.12-21.39.58:739][807]LogWorld: Bringing up level for play took: 0.000492
+[2018.07.12-21.39.58:742][807]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue 0.757
+[2018.07.12-21.39.58:742][807]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.40.01:482][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-21.40.04:344][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-21.40.04:462][ 92]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.40.04:504][ 92]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.40.12:425][431]LogEditorViewport: Clicking Background
+[2018.07.12-21.40.32:035][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-21.40.33:518][670]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-21.40.33:557][670]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.40.33:557][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-21.40.33:557][670]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 7:40:33 AM)
+[2018.07.12-21.40.33:557][670]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-21.40.33:558][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000834s)
+[2018.07.12-21.40.33:559][670]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-21.40.33:559][670]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2018.07.12-21.40.33:559][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.001550s)
+[2018.07.12-21.40.33:585][670]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-21.40.33:651][670]LogInit: FAudioDevice initialized.
+[2018.07.12-21.40.33:687][670]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-21.40.33:689][670]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-14.40.33
+[2018.07.12-21.40.33:689][670]LogWorld: Bringing up level for play took: 0.000394
+[2018.07.12-21.40.33:692][670]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue -0.294
+[2018.07.12-21.40.33:692][670]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.40.36:085][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-21.40.36:254][823]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-21.40.36:255][823]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-21.40.36:505][823]LogAIModule: Creating AISystem for world World
+[2018.07.12-21.40.36:505][823]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-21.40.36:512][823]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-14.40.36
+[2018.07.12-21.40.36:514][823]LogWorld: Bringing up level for play took: 0.007900
+[2018.07.12-21.40.36:515][823]LogLoad: Took 0.260736 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-21.40.39:306][977]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.40.39:342][977]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.40.40:288][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-21.40.41:732][105]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-21.40.41:762][105]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.40.41:762][105]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-21.40.41:762][105]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 7:40:41 AM)
+[2018.07.12-21.40.41:763][105]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-21.40.41:764][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001096s)
+[2018.07.12-21.40.41:764][105]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-21.40.41:765][105]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2018.07.12-21.40.41:765][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.002059s)
+[2018.07.12-21.40.41:793][105]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-21.40.41:861][105]LogInit: FAudioDevice initialized.
+[2018.07.12-21.40.41:894][105]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-21.40.41:895][105]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-14.40.41
+[2018.07.12-21.40.41:896][105]LogWorld: Bringing up level for play took: 0.000394
+[2018.07.12-21.40.41:898][105]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue -0.087
+[2018.07.12-21.40.41:898][105]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.40.42:505][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-21.40.42:655][150]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.40.42:689][150]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.40.48:969][523]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.12-21.40.57:572][ 31]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.12-21.41.16:462][ 31]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.12-21.41.17:917][ 31]LogSourceControl: commit successful: [master d1e984e] Start Screen
+[2018.07.12-21.41.18:074][ 31]SourceControl: [master d1e984e] Start Screen
+[2018.07.12-21.41.18:074][ 31]SourceControl:  5 files changed, 0 insertions(+), 0 deletions(-)
+[2018.07.12-21.41.18:074][ 31]SourceControl:  create mode 100644 IDtechGame/Content/ThirdPersonBP/Levels/Main_Menue.umap
+[2018.07.12-21.41.18:074][ 31]SourceControl:  create mode 100644 IDtechGame/Content/ThirdPersonBP/Levels/World.umap
+[2018.07.12-21.41.18:074][ 31]SourceControl:  create mode 100644 IDtechGame/Content/ThirdPersonBP/UI/Main_Menue.uasset
+[2018.07.12-21.41.18:074][ 31]SourceControl:  create mode 100644 IDtechGame/Content/ThirdPersonBP/UI/Options.uasset
+[2018.07.12-21.41.18:081][ 31]SourceControl: Commited [master d1e984e] Start Screen.
+[2018.07.12-21.43.44:408][783]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-21.43.44:441][783]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.43.44:442][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-21.43.44:442][783]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 7:43:44 AM)
+[2018.07.12-21.43.44:442][783]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-21.43.44:443][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000928s)
+[2018.07.12-21.43.44:444][783]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-21.43.44:444][783]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2018.07.12-21.43.44:444][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.001772s)
+[2018.07.12-21.43.44:471][783]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-21.43.44:539][783]LogInit: FAudioDevice initialized.
+[2018.07.12-21.43.44:575][783]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-21.43.44:576][783]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-14.43.44
+[2018.07.12-21.43.44:576][783]LogWorld: Bringing up level for play took: 0.000399
+[2018.07.12-21.43.44:579][783]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue 0.594
+[2018.07.12-21.43.44:580][783]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.43.50:167][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-21.43.53:958][205]SourceControl: Error: fatal: Invalid path '/Game': No such file or directory
+[2018.07.12-21.44.01:850][674]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-21.44.01:850][674]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-21.44.02:118][674]LogAIModule: Creating AISystem for world World
+[2018.07.12-21.44.02:118][674]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-21.44.02:127][674]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-14.44.02
+[2018.07.12-21.44.02:128][674]LogWorld: Bringing up level for play took: 0.008452
+[2018.07.12-21.44.02:130][674]LogLoad: Took 0.279505 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-21.44.56:156][874]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.44.56:222][874]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
