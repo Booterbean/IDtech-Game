@@ -1531,3 +1531,47 @@ LogInit: Object subsystem initialized
 [2018.07.12-21.44.02:130][674]LogLoad: Took 0.279505 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
 [2018.07.12-21.44.56:156][874]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
 [2018.07.12-21.44.56:222][874]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.45.35:292][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-21.47.46:641][865]LogEditorViewport: Clicking Background
+[2018.07.12-21.47.48:237][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-21.47.49:987][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Levels/UEDPIE_0_World'
+[2018.07.12-21.47.49:987][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Levels/UEDPIE_0_World'
+[2018.07.12-21.47.49:987][ 63]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World_BuiltData'
+[2018.07.12-21.47.54:528][303]LogRenderer: Reallocating scene render targets to support 956x612 Format 10 NumSamples 1 (Frame:18976).
+[2018.07.12-21.47.54:628][303]LogRenderer: Reallocating scene render targets to support 1132x612 Format 10 NumSamples 1 (Frame:18977).
+[2018.07.12-21.47.56:129][361]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-21.47.56:163][361]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.47.56:163][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-21.47.56:163][361]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 7:47:56 AM)
+[2018.07.12-21.47.56:163][361]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-21.47.56:164][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001202s)
+[2018.07.12-21.47.56:165][361]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-21.47.56:165][361]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2018.07.12-21.47.56:166][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.002390s)
+[2018.07.12-21.47.56:195][361]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-21.47.56:261][361]LogInit: FAudioDevice initialized.
+[2018.07.12-21.47.56:294][361]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-21.47.56:295][361]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-14.47.56
+[2018.07.12-21.47.56:295][361]LogWorld: Bringing up level for play took: 0.000381
+[2018.07.12-21.47.56:298][361]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue 0.313
+[2018.07.12-21.47.56:299][361]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-21.47.57:093][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-21.47.57:211][402]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-21.47.57:211][402]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-21.47.57:477][402]LogAIModule: Creating AISystem for world World
+[2018.07.12-21.47.57:477][402]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-21.47.57:485][402]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-14.47.57
+[2018.07.12-21.47.57:486][402]LogWorld: Bringing up level for play took: 0.008459
+[2018.07.12-21.47.57:488][402]LogLoad: Took 0.276507 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-21.48.02:880][624]LogBlueprintUserMessages: [ZOMBIE3_542] 50
+[2018.07.12-21.48.04:250][681]LogBlueprintUserMessages: [ZOMBIE3_542] 0
+[2018.07.12-21.48.13:377][ 65]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.12-21.48.14:745][123]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.12-21.48.29:879][763]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.12-21.48.31:198][818]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.12-21.48.42:668][302]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.12-21.48.44:102][363]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.12-21.48.47:919][526]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.12-21.48.51:740][689]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.12-21.48.54:052][788]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.12-21.48.57:185][925]LogBlueprintUserMessages: [ZOMBIE5_676] 0
