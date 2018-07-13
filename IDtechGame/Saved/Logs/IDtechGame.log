@@ -23338,3 +23338,821 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2018.07.12-23.20.13:024][195]SourceControl:  rewrite IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset (85%)
 [2018.07.12-23.20.13:024][195]SourceControl:  create mode 100644 IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter1.uasset
 [2018.07.12-23.20.13:036][195]SourceControl: Commited [master ed743ac] blah.
+[2018.07.12-23.20.49:081][478]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffbc49600, Size=672
+[2018.07.12-23.20.49:082][478]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0e333e208, Size=4
+[2018.07.12-23.20.49:082][478]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffd4194e0, Size=4
+[2018.07.12-23.20.54:546][478]LogSlate: Window 'Save Content' being destroyed
+[2018.07.12-23.21.02:214][786]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a237c7d280, Size=864, Default__OverlordCharecterBP_C Function /Game/ThirdPersonBP/Blueprints/OverlordCharecterBP.OverlordCharecterBP_C:ExecuteUbergraph_OverlordCharecterBP
+[2018.07.12-23.21.02:273][786]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a237c7d280, Size=864
+[2018.07.12-23.21.02:273][786]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a2404b7900, Size=864, Default__OverlordCharecterBP_C Function /Engine/Transient.REINST_OverlordCharecterBP_C_2091:ExecuteUbergraph_OverlordCharecterBP
+[2018.07.12-23.21.02:286][786]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a2404b6400, Size=864, Default__OverlordCharecterBP_C Function /Game/ThirdPersonBP/Blueprints/OverlordCharecterBP.OverlordCharecterBP_C:ExecuteUbergraph_OverlordCharecterBP
+[2018.07.12-23.21.02:485][786]LogMaterial: Missing cached shader map for material phong16, compiling. 
+[2018.07.12-23.21.02:505][786]LogMaterial: Missing cached shader map for material phong15, compiling. 
+[2018.07.12-23.21.02:525][786]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.07.12-23.21.02:526][786]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.07.12-23.21.02:526][786]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.12-23.21.02:526][786]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.12-23.21.02:526][786]LogMaterial: Missing cached shader map for material phong13, compiling. 
+[2018.07.12-23.21.02:545][786]LogMaterial: Missing cached shader map for material phong14, compiling. 
+[2018.07.12-23.21.02:569][786]LogMaterial: Missing cached shader map for material lambert12, compiling. 
+[2018.07.12-23.21.02:596][786]LogSkeletalMesh: Building Skeletal Mesh gunsword_2...
+[2018.07.12-23.21.04:160][786]LogSkeletalMesh: Built Skeletal Mesh [1.56s] /Game/ThirdPersonBP/maya_stuff/gunsword_2.gunsword_2
+[2018.07.12-23.21.04:198][786]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_Attack.Overlord_Attack
+[2018.07.12-23.21.04:198][786]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/source/Overlord_Attack.Overlord_Attack) using current/default (AnimCompress_BitwiseCompressOnly_39) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.12-23.21.05:224][786]LogShaderCompilers: Display: Shaders left to compile 260
+[2018.07.12-23.21.05:655][786]LogShaderCompilers: Display: Shaders left to compile 250
+[2018.07.12-23.21.06:475][789]LogShaderCompilers: Display: Shaders left to compile 240
+[2018.07.12-23.21.06:615][792]LogShaderCompilers: Display: Shaders left to compile 230
+[2018.07.12-23.21.08:052][802]LogShaderCompilers: Display: Shaders left to compile 220
+[2018.07.12-23.21.09:189][826]LogShaderCompilers: Display: Shaders left to compile 210
+[2018.07.12-23.21.09:603][834]LogShaderCompilers: Display: Shaders left to compile 200
+[2018.07.12-23.21.10:890][859]LogShaderCompilers: Display: Shaders left to compile 190
+[2018.07.12-23.21.11:089][863]LogShaderCompilers: Display: Shaders left to compile 180
+[2018.07.12-23.21.12:527][892]LogShaderCompilers: Display: Shaders left to compile 170
+[2018.07.12-23.21.13:249][906]LogShaderCompilers: Display: Shaders left to compile 160
+[2018.07.12-23.21.13:618][913]LogShaderCompilers: Display: Shaders left to compile 150
+[2018.07.12-23.21.14:841][938]LogShaderCompilers: Display: Shaders left to compile 140
+[2018.07.12-23.21.16:336][967]LogShaderCompilers: Display: Shaders left to compile 130
+[2018.07.12-23.21.16:796][976]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.07.12-23.21.17:684][995]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.07.12-23.21.17:824][998]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.07.12-23.21.19:269][ 27]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.07.12-23.21.20:128][ 46]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.07.12-23.21.20:873][ 62]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.07.12-23.21.21:758][ 81]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.07.12-23.21.23:129][109]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.07.12-23.21.23:457][116]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.12-23.21.24:207][132]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.12-23.21.24:780][145]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.12-23.21.26:505][182]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.12-23.21.39:970][680]LogEditorTransaction: Undo Move Nodes
+[2018.07.12-23.21.39:984][680]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0e2c026f8, Size=4, Default__SKEL_OverlordCharecterBP_C Function /Game/ThirdPersonBP/Blueprints/OverlordCharecterBP.SKEL_OverlordCharecterBP_C:ExecuteUbergraph_OverlordCharecterBP
+[2018.07.12-23.22.33:876][900]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  On Component End Overlap (KatanaHitBox)  and was replaced as a Custom Event!
+[2018.07.12-23.22.33:877][900]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent_1   conflicted with  On Component Begin Overlap (KatanaHitBox)  and was replaced as a Custom Event!
+[2018.07.12-23.22.33:879][900]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent_2   conflicted with  Event BeginPlay  and was replaced as a Custom Event!
+[2018.07.12-23.22.33:958][900]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffd419718, Size=4
+[2018.07.12-23.22.33:958][900]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fec0089a0, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_2096:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.12-23.22.33:964][900]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0e333da78, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.12-23.23.15:357][500]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.07.12-23.23.15:381][500]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0e333da78, Size=4
+[2018.07.12-23.23.15:381][500]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a003c87d00, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_2098:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.12-23.23.15:419][500]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a245ce1900, Size=672
+[2018.07.12-23.23.15:419][500]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffd953100, Size=672, ThirdPersonCharacter_C_6392 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_2103:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.12-23.23.15:436][500]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f98c48100, Size=1216, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.12-23.23.15:822][500]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a003c87d00, Size=4
+[2018.07.12-23.23.15:822][500]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a2404b7900, Size=864
+[2018.07.12-23.23.15:823][500]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fec0089a0, Size=4
+[2018.07.12-23.23.27:655][764]LogSavePackage: Save=82.35ms
+[2018.07.12-23.23.27:655][764]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ThirdPersonCharacter30BFB69240047610C0B48CA688AA156F.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.07.12-23.23.27:661][764]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.07.12-23.23.29:574][810]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-23.23.29:746][810]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-23.23.29:747][810]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.12-23.23.29:765][810]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0e2c026f8, Size=4
+[2018.07.12-23.23.29:765][810]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019fec0086a8, Size=4, Default__SKEL_OverlordCharecterBP_C Function /Engine/Transient.REINST_SKEL_OverlordCharecterBP_C_2105:ExecuteUbergraph_OverlordCharecterBP
+[2018.07.12-23.23.29:766][810]LogPlayLevel: [PlayLevel] Compiling OverlordCharecterBP before play...
+[2018.07.12-23.23.29:784][810]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a2404b6400, Size=864
+[2018.07.12-23.23.29:784][810]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a246d95600, Size=864, Default__OverlordCharecterBP_C Function /Engine/Transient.REINST_OverlordCharecterBP_C_2107:ExecuteUbergraph_OverlordCharecterBP
+[2018.07.12-23.23.29:797][810]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1a4409d00, Size=864, Default__OverlordCharecterBP_C Function /Game/ThirdPersonBP/Blueprints/OverlordCharecterBP.OverlordCharecterBP_C:ExecuteUbergraph_OverlordCharecterBP
+[2018.07.12-23.23.30:200][810]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019fec0086a8, Size=4
+[2018.07.12-23.23.30:201][810]LogPlayLevel: PlayLevel: Blueprint regeneration took 454 ms (1 blueprints)
+[2018.07.12-23.23.30:201][810]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 12, 2018, 9:23:30 AM)
+[2018.07.12-23.23.30:202][810]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.12-23.23.30:217][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015357s)
+[2018.07.12-23.23.30:218][810]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.12-23.23.30:219][810]LogPlayLevel: PIE: World Init took: (0.001420s)
+[2018.07.12-23.23.30:219][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017130s)
+[2018.07.12-23.23.30:244][810]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-23.23.30:309][810]LogInit: FAudioDevice initialized.
+[2018.07.12-23.23.30:338][810]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.23.30:344][810]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.07.12-16.23.30
+[2018.07.12-23.23.30:346][810]LogWorld: Bringing up level for play took: 0.006990
+[2018.07.12-23.23.30:350][810]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.21
+[2018.07.12-23.23.30:351][810]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-23.23.59:261][855]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.12-23.23.59:261][855]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.12-23.23.59:461][862]LogBlueprintUserMessages: [ZOMBIE4_649] -50
+[2018.07.12-23.23.59:630][868]LogBlueprintUserMessages: [ZOMBIE4_649] -100
+[2018.07.12-23.23.59:798][874]LogBlueprintUserMessages: [ZOMBIE4_649] -150
+[2018.07.12-23.24.00:271][891]LogScript: Warning: Attempted to access ZOMBIE4_649 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE4_649 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ZOMBIE4_649.CharacterMesh0.MonsterAnimBP_C_3
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.24.00:272][891]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE4_649 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE4_649 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE4_649 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE4_649 is pending kill
+[2018.07.12-23.24.01:996][953]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.12-23.24.02:219][961]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.12-23.24.02:382][967]LogBlueprintUserMessages: [ZOMBIE5_676] -50
+[2018.07.12-23.24.02:745][980]LogBlueprintUserMessages: [ZOMBIE5_676] -100
+[2018.07.12-23.24.03:191][996]LogScript: Warning: Attempted to access ZOMBIE5_676 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE5_676 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ZOMBIE5_676.CharacterMesh0.MonsterAnimBP_C_4
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.24.03:191][996]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE5_676 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE5_676 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE5_676 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE5_676 is pending kill
+[2018.07.12-23.24.04:646][ 49]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.12-23.24.04:827][ 56]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.12-23.24.05:633][ 85]LogBlueprintUserMessages: [ZOMBIE_320] -50
+[2018.07.12-23.24.05:829][ 92]LogBlueprintUserMessages: [ZOMBIE_320] -100
+[2018.07.12-23.24.05:831][ 92]LogScript: Warning: Attempted to access ZOMBIE_320 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE_320 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ZOMBIE_320.CharacterMesh0.MonsterAnimBP_C_0
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.24.05:832][ 92]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE_320 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE_320 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE_320 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE_320 is pending kill
+[2018.07.12-23.24.06:208][106]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.12-23.24.06:423][114]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.12-23.24.07:411][149]LogScript: Warning: Attempted to access ZOMBIE6_721 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE6_721 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ZOMBIE6_721.CharacterMesh0.MonsterAnimBP_C_5
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.24.07:411][149]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE6_721 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE6_721 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE6_721 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE6_721 is pending kill
+[2018.07.12-23.24.11:349][288]LogBlueprintUserMessages: [ZOMBIE3_542] 50
+[2018.07.12-23.24.11:349][288]LogBlueprintUserMessages: [ZOMBIE3_542] 0
+[2018.07.12-23.24.11:548][295]LogBlueprintUserMessages: [ZOMBIE3_542] -50
+[2018.07.12-23.24.12:338][324]LogScript: Warning: Attempted to access ZOMBIE3_542 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE3_542 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ZOMBIE3_542.CharacterMesh0.MonsterAnimBP_C_2
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.24.12:338][324]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE3_542 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE3_542 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE3_542 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE3_542 is pending kill
+[2018.07.12-23.24.50:411][716]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.12-23.24.50:411][716]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.12-23.24.51:396][753]LogScript: Warning: Attempted to access ZOMBIE2_488 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE2_488 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ZOMBIE2_488.CharacterMesh0.MonsterAnimBP_C_1
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.24.51:396][753]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE2_488 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE2_488 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE2_488 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE2_488 is pending kill
+[2018.07.12-23.25.43:140][764]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-23.25.43:302][764]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.12-23.25.50:881][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.26.19:587][878]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffc091fa0, Size=16, Default__Main_Menue_C Function /Game/ThirdPersonBP/UI/Main_Menue.Main_Menue_C:ExecuteUbergraph_Main_Menue
+[2018.07.12-23.26.19:598][878]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffc091fa0, Size=16
+[2018.07.12-23.26.19:598][878]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffc091fa0, Size=16, Default__Main_Menue_C Function /Engine/Transient.REINST_Main_Menue_C_54:ExecuteUbergraph_Main_Menue
+[2018.07.12-23.26.19:601][878]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffc092360, Size=16, Default__Main_Menue_C Function /Game/ThirdPersonBP/UI/Main_Menue.Main_Menue_C:ExecuteUbergraph_Main_Menue
+[2018.07.12-23.26.19:603][878]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a20771db58, Size=24, Default__Main_Menue_C Function /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C:ExecuteUbergraph_Main_Menue
+[2018.07.12-23.26.19:605][878]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a20771db58, Size=24
+[2018.07.12-23.26.19:605][878]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a20771e080, Size=24, Main_Menue_C_0 Function /Engine/Transient.REINST_Main_Menue_C_2110:ExecuteUbergraph_Main_Menue
+[2018.07.12-23.26.19:606][878]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0b883e7a0, Size=24, Default__Main_Menue_C Function /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C:ExecuteUbergraph_Main_Menue
+[2018.07.12-23.26.19:613][878]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-23.26.19:650][878]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a20771e080, Size=24
+[2018.07.12-23.26.19:650][878]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffc091fa0, Size=16
+[2018.07.12-23.26.22:932][878]LogSlate: Window 'Save Content' being destroyed
+[2018.07.12-23.26.23:364][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NewBlueprint" FILE="../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/Blueprints/NewBlueprint.uasset" SILENT=true
+[2018.07.12-23.26.23:386][878]LogSavePackage: Save=19.31ms
+[2018.07.12-23.26.23:386][878]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/NewBlueprint4325AB46402BCB692E8B04B921B95062.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/Blueprints/NewBlueprint.uasset'
+[2018.07.12-23.26.23:395][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/Blueprints/NewBlueprint.uasset
+[2018.07.12-23.26.23:614][878]LogSavePackage: Save=46.27ms
+[2018.07.12-23.26.23:614][878]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ThirdPerson_AnimBPA6E414A34DB6325DB6069DBF935F8213.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2018.07.12-23.26.23:626][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+[2018.07.12-23.26.23:653][878]LogSavePackage: Save=16.95ms
+[2018.07.12-23.26.23:653][878]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/NewWidgetBlueprint9854F85040D6C16F64A13DB855152A26.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/NewWidgetBlueprint.uasset'
+[2018.07.12-23.26.23:663][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/NewWidgetBlueprint.uasset
+[2018.07.12-23.26.23:776][878]LogSavePackage: Save=74.18ms
+[2018.07.12-23.26.23:776][878]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/OverlordCharecterBP9B383D33411D98BDBC89DCA34D400EF1.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/OverlordCharecterBP.uasset'
+[2018.07.12-23.26.23:780][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/OverlordCharecterBP.uasset
+[2018.07.12-23.26.23:839][878]LogSavePackage: Save=25.28ms
+[2018.07.12-23.26.23:840][878]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/monster_PhysicsAsset7A92E8A84CD5741D44D951A598804E8E.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/monster_PhysicsAsset.uasset'
+[2018.07.12-23.26.23:849][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/monster_PhysicsAsset.uasset
+[2018.07.12-23.26.24:053][878]LogSavePackage: Save=8.79ms
+[2018.07.12-23.26.24:053][878]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Rawr_MOntage607F73044E62E9CCCCB2E7974A18906E.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Rawr_MOntage.uasset'
+[2018.07.12-23.26.24:063][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/Rawr_MOntage.uasset
+[2018.07.12-23.26.24:116][878]LogSavePackage: Save=19.39ms
+[2018.07.12-23.26.24:116][878]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ZombieDeathFE9635D94E91CFE67919F4A701588B1A.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/ZombieDeath.uasset'
+[2018.07.12-23.26.24:126][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/source/ZombieDeath.uasset
+[2018.07.12-23.26.24:847][878]LogSavePackage: Save=529.54ms
+[2018.07.12-23.26.24:848][878]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/creature1AlbedoD0F217D44C5218AC2C3BA2871DA79CAC.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/textures/creature1Albedo.uasset'
+[2018.07.12-23.26.24:857][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/textures/creature1Albedo.uasset
+[2018.07.12-23.26.25:685][878]LogSavePackage: Save=438.29ms
+[2018.07.12-23.26.25:685][878]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/creature1AOF327FBA94D9886E220A87EBD1E337BA9.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/textures/creature1AO.uasset'
+[2018.07.12-23.26.25:694][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/textures/creature1AO.uasset
+[2018.07.12-23.26.26:459][878]LogSavePackage: Save=399.43ms
+[2018.07.12-23.26.26:459][878]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/creature1Normal32F1825545F5A5129BC2B381AD08195A.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/textures/creature1Normal.uasset'
+[2018.07.12-23.26.26:468][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/textures/creature1Normal.uasset
+[2018.07.12-23.26.27:145][878]LogSavePackage: Save=331.76ms
+[2018.07.12-23.26.27:145][878]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/creature1Specular5401CA4B4F8ADE636A9068B3EDCBED45.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/textures/creature1Specular.uasset'
+[2018.07.12-23.26.27:159][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/textures/creature1Specular.uasset
+[2018.07.12-23.26.27:459][878]LogSavePackage: Save=4.46ms
+[2018.07.12-23.26.27:459][878]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/skjeb2A5DE2DE47247DA7A929888D9A488CAE.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/textures/skjeb.uasset'
+[2018.07.12-23.26.27:468][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/textures/skjeb.uasset
+[2018.07.12-23.26.29:872][878]LogSavePackage: Save=176.20ms
+[2018.07.12-23.26.29:872][878]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ThirdPersonExampleMap062779084FCD3AF7EC4BD0809EB434A0.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.07.12-23.26.29:879][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.07.12-23.26.29:920][878]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 2.260
+[2018.07.12-23.26.29:923][878]Cmd: MAP LOAD FILE="../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/Main_Menue.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.12-23.26.29:924][878]LightingResults: New page: Lighting Build
+[2018.07.12-23.26.29:928][878]LoadErrors: New page: Loading map: Main_Menue.umap
+[2018.07.12-23.26.29:935][878]MapCheck: New page: Map Check
+[2018.07.12-23.26.29:935][878]LightingResults: New page: Lighting Build
+[2018.07.12-23.26.30:021][878]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffd953100, Size=672
+[2018.07.12-23.26.30:070][878]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.12-23.26.30:131][878]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.12-23.26.30:201][878]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.619ms to complete.
+[2018.07.12-23.26.30:201][878]LogFileHelpers: Loading map 'Main_Menue' took 0.281
+[2018.07.12-23.26.32:875][977]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-23.26.32:909][977]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.26.32:910][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-23.26.32:910][977]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 9:26:32 AM)
+[2018.07.12-23.26.32:910][977]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-23.26.32:911][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001122s)
+[2018.07.12-23.26.32:912][977]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-23.26.32:912][977]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2018.07.12-23.26.32:912][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.002260s)
+[2018.07.12-23.26.32:938][977]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-23.26.33:004][977]LogInit: FAudioDevice initialized.
+[2018.07.12-23.26.33:037][977]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.26.33:038][977]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-16.26.33
+[2018.07.12-23.26.33:038][977]LogWorld: Bringing up level for play took: 0.000455
+[2018.07.12-23.26.33:053][977]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue 0.912
+[2018.07.12-23.26.33:053][977]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.26.34:294][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.26.34:397][ 29]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-23.26.34:398][ 29]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-23.26.34:515][ 29]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1d540f3d0, Size=16, Default__World_C Function /Game/ThirdPersonBP/Levels/World.World_C:ExecuteUbergraph_World
+[2018.07.12-23.26.34:518][ 29]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1d540f3d0, Size=16
+[2018.07.12-23.26.34:518][ 29]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffbcb5d10, Size=16, Default__World_C Function /Engine/Transient.REINST_World_C_2116:ExecuteUbergraph_World
+[2018.07.12-23.26.34:519][ 29]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffbcb7e00, Size=16, Default__World_C Function /Game/ThirdPersonBP/Levels/World.World_C:ExecuteUbergraph_World
+[2018.07.12-23.26.34:987][ 29]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.07.12-23.26.34:987][ 29]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.07.12-23.26.34:987][ 29]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2018.07.12-23.26.34:987][ 29]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2018.07.12-23.26.34:987][ 29]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2018.07.12-23.26.34:987][ 29]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.07.12-23.26.34:987][ 29]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.07.12-23.26.34:987][ 29]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.07.12-23.26.34:987][ 29]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2018.07.12-23.26.34:987][ 29]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.07.12-23.26.34:987][ 29]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2018.07.12-23.26.35:152][ 29]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.162 s
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: 
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: 
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: Stack: 
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: [Callstack] 0x00000000CC7BB706 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: [Callstack] 0x00000000CC51AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: [Callstack] 0x00000000CC52ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: [Callstack] 0x00000000C02DBBE9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: [Callstack] 0x00000000C02AD28D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: [Callstack] 0x00000000D1086F37 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: [Callstack] 0x00000000D13CC010 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: [Callstack] 0x00000000D13E312B UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: [Callstack] 0x00000000D13E2544 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: [Callstack] 0x00000000B76E917A UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: [Callstack] 0x00000000B769C788 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: [Callstack] 0x00000000B770A4A0 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: [Callstack] 0x00000000C120CD20 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: [Callstack] 0x00000000C1AA9626 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: [Callstack] 0x0000000094E65EAC UE4Editor.exe!UnknownFunction []
+[2018.07.12-23.26.35:152][ 29]LogOutputDevice: Error: [Callstack] 0x0000000094E76BD0 UE4Editor.exe!UnknownFunction []
+[2018.07.12-23.26.35:153][ 29]LogOutputDevice: Error: [Callstack] 0x0000000094E76C4A UE4Editor.exe!UnknownFunction []
+[2018.07.12-23.26.35:153][ 29]LogOutputDevice: Error: [Callstack] 0x0000000094E84177 UE4Editor.exe!UnknownFunction []
+[2018.07.12-23.26.35:153][ 29]LogOutputDevice: Error: [Callstack] 0x0000000094E85B87 UE4Editor.exe!UnknownFunction []
+[2018.07.12-23.26.35:153][ 29]LogOutputDevice: Error: [Callstack] 0x0000000007F41FE4 KERNEL32.DLL!UnknownFunction []
+[2018.07.12-23.26.35:153][ 29]LogOutputDevice: Error: [Callstack] 0x000000000AACCB31 ntdll.dll!UnknownFunction []
+[2018.07.12-23.26.35:153][ 29]LogOutputDevice: Error: 
+[2018.07.12-23.26.35:158][ 29]LogStats:                SubmitErrorReport -  0.000 s
+[2018.07.12-23.26.40:480][ 29]LogStats:                    SendNewReport -  5.322 s
+[2018.07.12-23.26.40:480][ 29]LogStats:             FDebug::EnsureFailed -  5.491 s
+[2018.07.12-23.26.40:581][ 29]LogAIModule: Creating AISystem for world World
+[2018.07.12-23.26.40:582][ 29]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.26.40:598][ 29]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-16.26.40
+[2018.07.12-23.26.40:600][ 29]LogWorld: Bringing up level for play took: 0.014334
+[2018.07.12-23.26.40:603][ 29]LogLoad: Took 6.204512 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-23.26.40:682][ 30]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.26.40:735][ 30]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.26.40:774][ 30]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffbcb7e00, Size=16
+[2018.07.12-23.26.40:774][ 30]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffbcb5d10, Size=16
+[2018.07.12-23.26.41:943][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.26.42:025][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-23.26.42:059][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.26.42:059][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-23.26.42:059][ 70]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 9:26:42 AM)
+[2018.07.12-23.26.42:060][ 70]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-23.26.42:061][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001211s)
+[2018.07.12-23.26.42:062][ 70]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-23.26.42:062][ 70]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2018.07.12-23.26.42:062][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.002114s)
+[2018.07.12-23.26.42:090][ 70]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-23.26.42:159][ 70]LogInit: FAudioDevice initialized.
+[2018.07.12-23.26.42:195][ 70]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.26.42:196][ 70]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-16.26.42
+[2018.07.12-23.26.42:196][ 70]LogWorld: Bringing up level for play took: 0.000404
+[2018.07.12-23.26.42:199][ 70]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue 0.059
+[2018.07.12-23.26.42:199][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.26.43:180][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.26.43:283][109]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-23.26.43:285][109]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-23.26.43:492][109]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a066017430, Size=16, Default__World_C Function /Game/ThirdPersonBP/Levels/World.World_C:ExecuteUbergraph_World
+[2018.07.12-23.26.43:497][109]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a066017430, Size=16
+[2018.07.12-23.26.43:497][109]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a066017430, Size=16, Default__World_C Function /Engine/Transient.REINST_World_C_2118:ExecuteUbergraph_World
+[2018.07.12-23.26.43:498][109]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1d540d040, Size=16, Default__World_C Function /Game/ThirdPersonBP/Levels/World.World_C:ExecuteUbergraph_World
+[2018.07.12-23.26.43:630][109]LogAIModule: Creating AISystem for world World
+[2018.07.12-23.26.43:630][109]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.26.43:649][109]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-16.26.43
+[2018.07.12-23.26.43:654][109]LogWorld: Bringing up level for play took: 0.021628
+[2018.07.12-23.26.43:658][109]LogLoad: Took 0.372846 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-23.26.53:769][467]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a066017430, Size=16
+[2018.07.12-23.27.19:361][409]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.27.19:404][409]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.27.19:434][409]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1d540d040, Size=16
+[2018.07.12-23.27.21:121][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.27.21:216][477]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-23.27.21:251][477]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.27.21:251][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-23.27.21:251][477]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 9:27:21 AM)
+[2018.07.12-23.27.21:251][477]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-23.27.21:252][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000891s)
+[2018.07.12-23.27.21:253][477]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-23.27.21:253][477]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2018.07.12-23.27.21:253][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.001813s)
+[2018.07.12-23.27.21:279][477]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-23.27.21:343][477]LogInit: FAudioDevice initialized.
+[2018.07.12-23.27.21:378][477]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.27.21:379][477]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-16.27.21
+[2018.07.12-23.27.21:379][477]LogWorld: Bringing up level for play took: 0.000348
+[2018.07.12-23.27.21:382][477]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue -0.758
+[2018.07.12-23.27.21:383][477]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.27.22:336][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.27.22:457][518]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-23.27.22:459][518]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-23.27.22:639][518]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f955a8db0, Size=16, Default__World_C Function /Game/ThirdPersonBP/Levels/World.World_C:ExecuteUbergraph_World
+[2018.07.12-23.27.22:641][518]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f955a8db0, Size=16
+[2018.07.12-23.27.22:642][518]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f955a8db0, Size=16, Default__World_C Function /Engine/Transient.REINST_World_C_2120:ExecuteUbergraph_World
+[2018.07.12-23.27.22:642][518]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f955aa930, Size=16, Default__World_C Function /Game/ThirdPersonBP/Levels/World.World_C:ExecuteUbergraph_World
+[2018.07.12-23.27.22:740][518]LogAIModule: Creating AISystem for world World
+[2018.07.12-23.27.22:741][518]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.27.22:752][518]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-16.27.22
+[2018.07.12-23.27.22:754][518]LogWorld: Bringing up level for play took: 0.011819
+[2018.07.12-23.27.22:755][518]LogLoad: Took 0.295467 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-23.27.24:785][588]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.27.24:834][588]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.27.24:865][588]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f955aa930, Size=16
+[2018.07.12-23.27.24:865][588]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f955a8db0, Size=16
+[2018.07.12-23.27.25:753][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.27.25:901][626]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-23.27.25:934][626]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.27.25:934][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-23.27.25:935][626]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 9:27:25 AM)
+[2018.07.12-23.27.25:935][626]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-23.27.25:936][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001007s)
+[2018.07.12-23.27.25:937][626]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-23.27.25:937][626]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2018.07.12-23.27.25:937][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.001923s)
+[2018.07.12-23.27.25:962][626]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-23.27.26:028][626]LogInit: FAudioDevice initialized.
+[2018.07.12-23.27.26:059][626]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.27.26:061][626]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-16.27.26
+[2018.07.12-23.27.26:061][626]LogWorld: Bringing up level for play took: 0.000503
+[2018.07.12-23.27.26:064][626]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue -0.076
+[2018.07.12-23.27.26:064][626]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.27.26:961][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.27.27:088][666]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.27.27:130][666]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.27.29:284][750]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-23.27.29:315][750]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.27.29:315][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-23.27.29:315][750]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 9:27:29 AM)
+[2018.07.12-23.27.29:316][750]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-23.27.29:317][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000858s)
+[2018.07.12-23.27.29:317][750]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-23.27.29:318][750]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2018.07.12-23.27.29:318][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.001750s)
+[2018.07.12-23.27.29:342][750]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-23.27.29:407][750]LogInit: FAudioDevice initialized.
+[2018.07.12-23.27.29:442][750]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.27.29:443][750]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-16.27.29
+[2018.07.12-23.27.29:443][750]LogWorld: Bringing up level for play took: 0.000330
+[2018.07.12-23.27.29:448][750]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue -0.693
+[2018.07.12-23.27.29:448][750]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.27.30:348][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.27.30:423][787]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-23.27.30:424][787]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-23.27.30:604][787]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a066017170, Size=16, Default__World_C Function /Game/ThirdPersonBP/Levels/World.World_C:ExecuteUbergraph_World
+[2018.07.12-23.27.30:606][787]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a066017170, Size=16
+[2018.07.12-23.27.30:606][787]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a066017170, Size=16, Default__World_C Function /Engine/Transient.REINST_World_C_2122:ExecuteUbergraph_World
+[2018.07.12-23.27.30:607][787]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a066015cf0, Size=16, Default__World_C Function /Game/ThirdPersonBP/Levels/World.World_C:ExecuteUbergraph_World
+[2018.07.12-23.27.30:712][787]LogAIModule: Creating AISystem for world World
+[2018.07.12-23.27.30:712][787]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.27.30:724][787]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-16.27.30
+[2018.07.12-23.27.30:725][787]LogWorld: Bringing up level for play took: 0.011563
+[2018.07.12-23.27.30:727][787]LogLoad: Took 0.303493 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-23.27.39:564][ 72]LogBlueprintUserMessages: [ZOMBIE_320] 95
+[2018.07.12-23.27.41:836][156]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.12-23.27.41:837][156]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.12-23.27.42:239][171]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.12-23.27.42:829][193]LogScript: Warning: Attempted to access ZOMBIE_320 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE_320 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE_320.CharacterMesh0.MonsterAnimBP_C_5
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.27.42:829][193]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE_320 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE_320 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE_320 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE_320 is pending kill
+[2018.07.12-23.27.46:228][317]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.12-23.27.47:180][352]LogBlueprintUserMessages: [ZOMBIE2_488] -50
+[2018.07.12-23.27.47:202][353]LogScript: Warning: Attempted to access ZOMBIE2_488 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE2_488 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE2_488.CharacterMesh0.MonsterAnimBP_C_0
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.27.47:203][353]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE2_488 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE2_488 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE2_488 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE2_488 is pending kill
+[2018.07.12-23.27.50:188][461]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.12-23.27.50:188][461]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.12-23.27.50:994][490]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.12-23.27.51:158][496]LogScript: Warning: Attempted to access ZOMBIE5_676 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE5_676 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE5_676.CharacterMesh0.MonsterAnimBP_C_3
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.27.51:158][496]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE5_676 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE5_676 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE5_676 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE5_676 is pending kill
+[2018.07.12-23.27.51:554][510]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.12-23.27.52:528][546]LogScript: Warning: Attempted to access ZOMBIE6_721 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE6_721 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE6_721.CharacterMesh0.MonsterAnimBP_C_4
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.27.52:528][546]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE6_721 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE6_721 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE6_721 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE6_721 is pending kill
+[2018.07.12-23.27.53:418][579]LogBlueprintUserMessages: [ZOMBIE3_542] 50
+[2018.07.12-23.27.53:418][579]LogBlueprintUserMessages: [ZOMBIE3_542] 0
+[2018.07.12-23.27.54:418][615]LogScript: Warning: Attempted to access ZOMBIE3_542 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE3_542 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE3_542.CharacterMesh0.MonsterAnimBP_C_1
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.27.54:418][615]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE3_542 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE3_542 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE3_542 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE3_542 is pending kill
+[2018.07.12-23.27.57:374][723]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.12-23.27.57:374][723]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.12-23.27.58:353][759]LogScript: Warning: Attempted to access ZOMBIE4_649 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE4_649 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE4_649.CharacterMesh0.MonsterAnimBP_C_2
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.27.58:353][759]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE4_649 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE4_649 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE4_649 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE4_649 is pending kill
+[2018.07.12-23.28.00:091][822]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a066017170, Size=16
+[2018.07.12-23.31.00:101][722]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.31.00:150][722]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.31.00:181][722]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a066015cf0, Size=16
+[2018.07.12-23.31.01:168][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.31.01:268][757]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-23.31.01:302][757]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.31.01:303][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-23.31.01:303][757]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 9:31:01 AM)
+[2018.07.12-23.31.01:303][757]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-23.31.01:304][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001036s)
+[2018.07.12-23.31.01:305][757]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-23.31.01:305][757]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2018.07.12-23.31.01:305][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.002096s)
+[2018.07.12-23.31.01:334][757]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-23.31.01:403][757]LogInit: FAudioDevice initialized.
+[2018.07.12-23.31.01:439][757]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.31.01:440][757]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-16.31.01
+[2018.07.12-23.31.01:440][757]LogWorld: Bringing up level for play took: 0.000417
+[2018.07.12-23.31.01:443][757]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue -0.697
+[2018.07.12-23.31.01:443][757]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.31.02:281][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.31.02:364][792]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-23.31.02:364][792]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-23.31.02:543][792]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1d540cfc0, Size=16, Default__World_C Function /Game/ThirdPersonBP/Levels/World.World_C:ExecuteUbergraph_World
+[2018.07.12-23.31.02:545][792]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1d540cfc0, Size=16
+[2018.07.12-23.31.02:545][792]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1d540cfc0, Size=16, Default__World_C Function /Engine/Transient.REINST_World_C_2124:ExecuteUbergraph_World
+[2018.07.12-23.31.02:546][792]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffd1cb050, Size=16, Default__World_C Function /Game/ThirdPersonBP/Levels/World.World_C:ExecuteUbergraph_World
+[2018.07.12-23.31.02:650][792]LogAIModule: Creating AISystem for world World
+[2018.07.12-23.31.02:650][792]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.31.02:661][792]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-16.31.02
+[2018.07.12-23.31.02:663][792]LogWorld: Bringing up level for play took: 0.011664
+[2018.07.12-23.31.02:665][792]LogLoad: Took 0.300620 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-23.31.04:867][839]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1d540cfc0, Size=16
+[2018.07.12-23.31.06:576][896]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.12-23.31.06:576][896]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.12-23.31.07:563][931]LogScript: Warning: Attempted to access ZOMBIE6_721 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE6_721 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE6_721.CharacterMesh0.MonsterAnimBP_C_4
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.31.07:563][931]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE6_721 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE6_721 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE6_721 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE6_721 is pending kill
+[2018.07.12-23.31.08:077][949]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.12-23.31.08:078][949]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.12-23.31.09:075][980]LogScript: Warning: Attempted to access ZOMBIE_320 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE_320 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE_320.CharacterMesh0.MonsterAnimBP_C_5
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.31.09:075][980]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE_320 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE_320 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE_320 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE_320 is pending kill
+[2018.07.12-23.31.10:840][ 37]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.12-23.31.11:061][ 45]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.12-23.31.11:586][ 64]LogBlueprintUserMessages: [ZOMBIE2_488] -50
+[2018.07.12-23.31.12:045][ 81]LogScript: Warning: Attempted to access ZOMBIE2_488 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE2_488 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE2_488.CharacterMesh0.MonsterAnimBP_C_0
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.31.12:045][ 81]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE2_488 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE2_488 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE2_488 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE2_488 is pending kill
+[2018.07.12-23.31.12:816][108]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.12-23.31.12:954][113]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.12-23.31.13:937][149]LogScript: Warning: Attempted to access ZOMBIE5_676 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE5_676 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE5_676.CharacterMesh0.MonsterAnimBP_C_3
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.31.13:937][149]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE5_676 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE5_676 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE5_676 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE5_676 is pending kill
+[2018.07.12-23.31.17:578][282]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.12-23.31.18:301][309]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.12-23.31.18:463][315]LogBlueprintUserMessages: [ZOMBIE4_649] -50
+[2018.07.12-23.31.19:303][346]LogScript: Warning: Attempted to access ZOMBIE4_649 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE4_649 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE4_649.CharacterMesh0.MonsterAnimBP_C_2
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.31.19:303][346]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE4_649 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE4_649 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE4_649 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE4_649 is pending kill
+[2018.07.12-23.31.35:288][937]LogBlueprintUserMessages: [ZOMBIE3_542] 50
+[2018.07.12-23.31.35:288][937]LogBlueprintUserMessages: [ZOMBIE3_542] 0
+[2018.07.12-23.31.36:270][974]LogScript: Warning: Attempted to access ZOMBIE3_542 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE3_542 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE3_542.CharacterMesh0.MonsterAnimBP_C_1
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.31.36:270][974]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE3_542 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE3_542 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE3_542 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE3_542 is pending kill
+[2018.07.12-23.31.39:571][103]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.31.39:617][103]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.31.39:646][103]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffd1cb050, Size=16
+[2018.07.12-23.31.43:179][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.31.43:260][238]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-23.31.43:292][238]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.31.43:293][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-23.31.43:293][238]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 9:31:43 AM)
+[2018.07.12-23.31.43:293][238]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-23.31.43:294][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000893s)
+[2018.07.12-23.31.43:295][238]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-23.31.43:295][238]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2018.07.12-23.31.43:295][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.001805s)
+[2018.07.12-23.31.43:324][238]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-23.31.43:393][238]LogInit: FAudioDevice initialized.
+[2018.07.12-23.31.43:430][238]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.31.43:431][238]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-16.31.43
+[2018.07.12-23.31.43:432][238]LogWorld: Bringing up level for play took: 0.000383
+[2018.07.12-23.31.43:435][238]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue -0.706
+[2018.07.12-23.31.43:435][238]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.31.44:413][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.31.44:464][278]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-23.31.44:465][278]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-23.31.44:644][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffbcb7230, Size=16, Default__World_C Function /Game/ThirdPersonBP/Levels/World.World_C:ExecuteUbergraph_World
+[2018.07.12-23.31.44:646][278]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffbcb7230, Size=16
+[2018.07.12-23.31.44:646][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffbcb7230, Size=16, Default__World_C Function /Engine/Transient.REINST_World_C_2126:ExecuteUbergraph_World
+[2018.07.12-23.31.44:647][278]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffbcb6df0, Size=16, Default__World_C Function /Game/ThirdPersonBP/Levels/World.World_C:ExecuteUbergraph_World
+[2018.07.12-23.31.44:756][278]LogAIModule: Creating AISystem for world World
+[2018.07.12-23.31.44:757][278]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.31.44:767][278]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-16.31.44
+[2018.07.12-23.31.44:769][278]LogWorld: Bringing up level for play took: 0.010588
+[2018.07.12-23.31.44:770][278]LogLoad: Took 0.305189 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-23.32.08:488][119]LogBlueprintUserMessages: [ZOMBIE3_542] 50
+[2018.07.12-23.32.08:488][119]LogBlueprintUserMessages: [ZOMBIE3_542] 0
+[2018.07.12-23.32.09:468][154]LogScript: Warning: Attempted to access ZOMBIE3_542 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE3_542 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE3_542.CharacterMesh0.MonsterAnimBP_C_1
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.32.09:468][154]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE3_542 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE3_542 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE3_542 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE3_542 is pending kill
+[2018.07.12-23.32.09:683][160]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffbcb7230, Size=16
+[2018.07.12-23.32.10:239][179]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.12-23.32.10:239][179]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.12-23.32.11:236][215]LogScript: Warning: Attempted to access ZOMBIE5_676 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE5_676 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE5_676.CharacterMesh0.MonsterAnimBP_C_3
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.32.11:236][215]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE5_676 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE5_676 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE5_676 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE5_676 is pending kill
+[2018.07.12-23.32.11:513][225]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.12-23.32.12:052][244]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.12-23.32.12:267][252]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.12-23.32.12:625][265]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.12-23.32.12:734][269]LogBlueprintUserMessages: [ZOMBIE6_721] 95
+[2018.07.12-23.32.13:234][287]LogBlueprintUserMessages: [ZOMBIE6_721] -50
+[2018.07.12-23.32.13:263][288]LogScript: Warning: Attempted to access ZOMBIE6_721 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE6_721 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE6_721.CharacterMesh0.MonsterAnimBP_C_4
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.32.13:263][288]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE6_721 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE6_721 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE6_721 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE6_721 is pending kill
+[2018.07.12-23.32.13:616][301]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE_320 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE_320 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE_320 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE_320 is pending kill
+[2018.07.12-23.32.16:730][415]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.12-23.32.16:730][415]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.12-23.32.17:717][451]LogScript: Warning: Attempted to access ZOMBIE4_649 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE4_649 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE4_649.CharacterMesh0.MonsterAnimBP_C_2
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.32.17:717][451]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE4_649 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE4_649 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE4_649 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE4_649 is pending kill
+[2018.07.12-23.32.22:647][633]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.12-23.32.22:647][633]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.12-23.32.23:623][670]LogScript: Warning: Attempted to access ZOMBIE2_488 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE2_488 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE2_488.CharacterMesh0.MonsterAnimBP_C_0
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.32.23:624][670]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE2_488 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE2_488 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE2_488 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE2_488 is pending kill
+[2018.07.12-23.33.21:382][835]LogScript: Warning: Attempted to access ThirdPersonCharacter_167 via property My Character, but ThirdPersonCharacter_167 is pending kill
+	NewWidgetBlueprint_C /Engine/Transient.UnrealEdEngine_0:GameInstance_195.NewWidgetBlueprint_C_387
+	Function /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint_C:GetPercent_1:0027
+[2018.07.12-23.33.21:411][836]LogScript: Warning: Attempted to access ThirdPersonCharacter_167 via property My Character, but ThirdPersonCharacter_167 is pending kill
+	NewWidgetBlueprint_C /Engine/Transient.UnrealEdEngine_0:GameInstance_195.NewWidgetBlueprint_C_387
+	Function /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint_C:GetPercent_1:0027
+[2018.07.12-23.33.21:432][837]LogScript: Warning: Attempted to access ThirdPersonCharacter_167 via property My Character, but ThirdPersonCharacter_167 is pending kill
+	NewWidgetBlueprint_C /Engine/Transient.UnrealEdEngine_0:GameInstance_195.NewWidgetBlueprint_C_387
+	Function /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint_C:GetPercent_1:0027
+[2018.07.12-23.33.21:461][838]LogScript: Warning: Attempted to access ThirdPersonCharacter_167 via property My Character, but ThirdPersonCharacter_167 is pending kill
+	NewWidgetBlueprint_C /Engine/Transient.UnrealEdEngine_0:GameInstance_195.NewWidgetBlueprint_C_387
+	Function /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint_C:GetPercent_1:0027
+[2018.07.12-23.33.21:482][839]LogScript: Warning: Attempted to access ThirdPersonCharacter_167 via property My Character, but ThirdPersonCharacter_167 is pending kill
+	NewWidgetBlueprint_C /Engine/Transient.UnrealEdEngine_0:GameInstance_195.NewWidgetBlueprint_C_387
+	Function /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint_C:GetPercent_1:0027
+[2018.07.12-23.33.21:514][840]LogScript: Warning: Attempted to access ThirdPersonCharacter_167 via property My Character, but ThirdPersonCharacter_167 is pending kill
+	NewWidgetBlueprint_C /Engine/Transient.UnrealEdEngine_0:GameInstance_195.NewWidgetBlueprint_C_387
+	Function /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint_C:GetPercent_1:0027
+[2018.07.12-23.33.21:535][841]LogScript: Warning: Attempted to access ThirdPersonCharacter_167 via property My Character, but ThirdPersonCharacter_167 is pending kill
+	NewWidgetBlueprint_C /Engine/Transient.UnrealEdEngine_0:GameInstance_195.NewWidgetBlueprint_C_387
+	Function /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint_C:GetPercent_1:0027
+[2018.07.12-23.33.21:560][842]LogScript: Warning: Attempted to access ThirdPersonCharacter_167 via property My Character, but ThirdPersonCharacter_167 is pending kill
+	NewWidgetBlueprint_C /Engine/Transient.UnrealEdEngine_0:GameInstance_195.NewWidgetBlueprint_C_387
+	Function /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint_C:GetPercent_1:0027
+[2018.07.12-23.33.21:588][843]LogScript: Warning: Attempted to access ThirdPersonCharacter_167 via property My Character, but ThirdPersonCharacter_167 is pending kill
+	NewWidgetBlueprint_C /Engine/Transient.UnrealEdEngine_0:GameInstance_195.NewWidgetBlueprint_C_387
+	Function /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint_C:GetPercent_1:0027
+[2018.07.12-23.33.21:615][844]LogScript: Warning: Attempted to access ThirdPersonCharacter_167 via property My Character, but ThirdPersonCharacter_167 is pending kill
+	NewWidgetBlueprint_C /Engine/Transient.UnrealEdEngine_0:GameInstance_195.NewWidgetBlueprint_C_387
+	Function /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint_C:GetPercent_1:0027
+[2018.07.12-23.33.21:647][845]LogScript: Warning: Attempted to access ThirdPersonCharacter_167 via property My Character, but ThirdPersonCharacter_167 is pending kill
+	NewWidgetBlueprint_C /Engine/Transient.UnrealEdEngine_0:GameInstance_195.NewWidgetBlueprint_C_387
+	Function /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint_C:GetPercent_1:0027
+[2018.07.12-23.33.21:668][846]LogScript: Warning: Attempted to access ThirdPersonCharacter_167 via property My Character, but ThirdPersonCharacter_167 is pending kill
+	NewWidgetBlueprint_C /Engine/Transient.UnrealEdEngine_0:GameInstance_195.NewWidgetBlueprint_C_387
+	Function /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint_C:GetPercent_1:0027
+[2018.07.12-23.33.21:694][847]LogScript: Warning: Attempted to access ThirdPersonCharacter_167 via property My Character, but ThirdPersonCharacter_167 is pending kill
+	NewWidgetBlueprint_C /Engine/Transient.UnrealEdEngine_0:GameInstance_195.NewWidgetBlueprint_C_387
+	Function /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint_C:GetPercent_1:0027
+[2018.07.12-23.33.21:723][848]LogScript: Warning: Attempted to access ThirdPersonCharacter_167 via property My Character, but ThirdPersonCharacter_167 is pending kill
+	NewWidgetBlueprint_C /Engine/Transient.UnrealEdEngine_0:GameInstance_195.NewWidgetBlueprint_C_387
+	Function /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint_C:GetPercent_1:0027
+[2018.07.12-23.33.21:749][849]LogScript: Warning: Attempted to access ThirdPersonCharacter_167 via property My Character, but ThirdPersonCharacter_167 is pending kill
+	NewWidgetBlueprint_C /Engine/Transient.UnrealEdEngine_0:GameInstance_195.NewWidgetBlueprint_C_387
+	Function /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint_C:GetPercent_1:0027
+[2018.07.12-23.33.21:781][850]LogScript: Warning: Attempted to access ThirdPersonCharacter_167 via property My Character, but ThirdPersonCharacter_167 is pending kill
+	NewWidgetBlueprint_C /Engine/Transient.UnrealEdEngine_0:GameInstance_195.NewWidgetBlueprint_C_387
+	Function /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint_C:GetPercent_1:0027
+[2018.07.12-23.33.21:801][851]LogScript: Warning: Attempted to access ThirdPersonCharacter_167 via property My Character, but ThirdPersonCharacter_167 is pending kill
+	NewWidgetBlueprint_C /Engine/Transient.UnrealEdEngine_0:GameInstance_195.NewWidgetBlueprint_C_387
+	Function /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint_C:GetPercent_1:0027
+[2018.07.12-23.33.25:350][988]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.33.25:396][988]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.33.25:425][988]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffbcb6df0, Size=16
+[2018.07.12-23.33.31:904][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.33.41:339][595]Cmd: SELECT NONE
+[2018.07.12-23.33.52:044][995]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-23.33.52:081][995]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.33.52:081][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-23.33.52:081][995]PIE: New page: PIE session: Main_Menue (Jul 12, 2018, 9:33:52 AM)
+[2018.07.12-23.33.52:082][995]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue
+[2018.07.12-23.33.52:082][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000843s)
+[2018.07.12-23.33.52:083][995]LogAIModule: Creating AISystem for world Main_Menue
+[2018.07.12-23.33.52:083][995]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2018.07.12-23.33.52:083][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue to /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue (0.001690s)
+[2018.07.12-23.33.52:111][995]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-23.33.52:177][995]LogInit: FAudioDevice initialized.
+[2018.07.12-23.33.52:211][995]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.33.52:213][995]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue.Main_Menue up for play (max tick rate 60) at 2018.07.12-16.33.52
+[2018.07.12-23.33.52:213][995]LogWorld: Bringing up level for play took: 0.000342
+[2018.07.12-23.33.52:216][995]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Main_Menue 0.075
+[2018.07.12-23.33.52:216][995]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.33.53:034][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.33.53:141][ 30]LogNet: Browse: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-23.33.53:141][ 30]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/World
+[2018.07.12-23.33.53:322][ 30]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffd1cb1f0, Size=16, Default__World_C Function /Game/ThirdPersonBP/Levels/World.World_C:ExecuteUbergraph_World
+[2018.07.12-23.33.53:325][ 30]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffd1cb1f0, Size=16
+[2018.07.12-23.33.53:325][ 30]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffd1cb1f0, Size=16, Default__World_C Function /Engine/Transient.REINST_World_C_2128:ExecuteUbergraph_World
+[2018.07.12-23.33.53:326][ 30]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffd1cba80, Size=16, Default__World_C Function /Game/ThirdPersonBP/Levels/World.World_C:ExecuteUbergraph_World
+[2018.07.12-23.33.53:428][ 30]LogAIModule: Creating AISystem for world World
+[2018.07.12-23.33.53:429][ 30]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.33.53:440][ 30]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-16.33.53
+[2018.07.12-23.33.53:442][ 30]LogWorld: Bringing up level for play took: 0.011588
+[2018.07.12-23.33.53:443][ 30]LogLoad: Took 0.302229 seconds to LoadMap(/Game/ThirdPersonBP/Levels/World)
+[2018.07.12-23.33.54:396][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.33.54:443][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue' with GeneratedClass '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/Main_Menue.Main_Menue:PersistentLevel.Main_Menue'
+[2018.07.12-23.33.54:472][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffd1cba80, Size=16
+[2018.07.12-23.33.54:472][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffd1cb1f0, Size=16
+[2018.07.12-23.33.59:160][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.34.19:967][ 41]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a066014df0, Size=16, Default__World_C Function /Game/ThirdPersonBP/Levels/World.World_C:ExecuteUbergraph_World
+[2018.07.12-23.34.19:969][ 41]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a066014df0, Size=16
+[2018.07.12-23.34.19:969][ 41]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a066014df0, Size=16, Default__World_C Function /Engine/Transient.REINST_World_C_2130:ExecuteUbergraph_World
+[2018.07.12-23.34.19:970][ 41]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a066015b30, Size=16, Default__World_C Function /Game/ThirdPersonBP/Levels/World.World_C:ExecuteUbergraph_World
+[2018.07.12-23.34.20:002][ 41]LogAIModule: Creating AISystem for world World
+[2018.07.12-23.34.20:054][ 41]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a066014df0, Size=16
+[2018.07.12-23.34.20:056][ 41]Cmd: MAP LOAD FILE="../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Levels/World.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.12-23.34.20:056][ 41]LightingResults: New page: Lighting Build
+[2018.07.12-23.34.20:057][ 41]LoadErrors: New page: Loading map: World.umap
+[2018.07.12-23.34.20:058][ 41]MapCheck: New page: Map Check
+[2018.07.12-23.34.20:058][ 41]LightingResults: New page: Lighting Build
+[2018.07.12-23.34.20:083][ 41]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0b883e7a0, Size=24
+[2018.07.12-23.34.20:097][ 41]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.12-23.34.20:160][ 41]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.12-23.34.20:230][ 41]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.306ms to complete.
+[2018.07.12-23.34.20:234][ 41]LogFileHelpers: Loading map 'World' took 0.179
+[2018.07.12-23.34.25:552][192]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.07.12-23.34.29:196][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.36.52:201][637]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.07.12-23.36.52:402][637]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1b62820c0, Size=32
+[2018.07.12-23.36.52:402][637]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a0528e9b80, Size=32, Default__NewWidgetBlueprint_C Function /Engine/Transient.REINST_NewWidgetBlueprint_C_56:ExecuteUbergraph_NewWidgetBlueprint
+[2018.07.12-23.36.52:403][637]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f98c48100, Size=1216
+[2018.07.12-23.36.52:403][637]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a27295d600, Size=1216, ThirdPersonCharacter_C_6418 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_2137:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.12-23.36.52:404][637]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a275e1ec00, Size=976
+[2018.07.12-23.36.52:404][637]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a229fbbc00, Size=976, Default__ZOMBIE_C Function /Engine/Transient.REINST_ZOMBIE_C_2138:ExecuteUbergraph_ZOMBIE
+[2018.07.12-23.36.52:430][637]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1b24c5a00, Size=32, Default__NewWidgetBlueprint_C Function /Game/ThirdPersonBP/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint_C:ExecuteUbergraph_NewWidgetBlueprint
+[2018.07.12-23.36.52:434][637]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a181ecdd00, Size=1216, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.12-23.36.52:438][637]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a244abe800, Size=976, Default__ZOMBIE_C Function /Game/ThirdPersonBP/Blueprints/ZOMBIE.ZOMBIE_C:ExecuteUbergraph_ZOMBIE
+[2018.07.12-23.36.54:925][667]LogSavePackage: Save=79.21ms
+[2018.07.12-23.36.54:925][667]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/ThirdPersonCharacter38E97B004139F1C159F6628F13315369.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.07.12-23.36.54:930][667]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.07.12-23.37.00:129][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.12-23.37.00:253][825]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.12-23.37.00:398][825]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/ThirdPersonBP/Levels/World.World_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World'
+[2018.07.12-23.37.00:399][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.12-23.37.00:401][825]PIE: New page: PIE session: World (Jul 12, 2018, 9:37:00 AM)
+[2018.07.12-23.37.00:401][825]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_World
+[2018.07.12-23.37.00:426][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024498s)
+[2018.07.12-23.37.00:427][825]LogAIModule: Creating AISystem for world World
+[2018.07.12-23.37.00:428][825]LogPlayLevel: PIE: World Init took: (0.001683s)
+[2018.07.12-23.37.00:428][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/World.World to /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World (0.026508s)
+[2018.07.12-23.37.00:451][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a27295d600, Size=1216
+[2018.07.12-23.37.00:451][825]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a0528e9b80, Size=32
+[2018.07.12-23.37.00:480][825]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.12-23.37.00:546][825]LogInit: FAudioDevice initialized.
+[2018.07.12-23.37.00:580][825]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.12-23.37.00:586][825]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-16.37.00
+[2018.07.12-23.37.00:588][825]LogWorld: Bringing up level for play took: 0.007085
+[2018.07.12-23.37.00:591][825]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_World 0.451
+[2018.07.12-23.37.00:592][825]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/ThirdPersonBP/Levels/World.World_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World'
+[2018.07.12-23.37.05:799][ 23]LogBlueprintUserMessages: [ZOMBIE_320] 50
+[2018.07.12-23.37.05:999][ 31]LogBlueprintUserMessages: [ZOMBIE_320] 0
+[2018.07.12-23.37.06:521][ 52]LogBlueprintUserMessages: [ZOMBIE_320] -50
+[2018.07.12-23.37.07:002][ 71]LogScript: Warning: Attempted to access ZOMBIE_320 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE_320 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE_320.CharacterMesh0.MonsterAnimBP_C_1
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.37.07:002][ 71]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE_320 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE_320 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE_320 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE_320 is pending kill
+[2018.07.12-23.37.17:846][466]LogBlueprintUserMessages: [ZOMBIE4_649] 50
+[2018.07.12-23.37.17:846][466]LogBlueprintUserMessages: [ZOMBIE4_649] 0
+[2018.07.12-23.37.18:045][474]LogBlueprintUserMessages: [ZOMBIE4_649] -50
+[2018.07.12-23.37.18:818][505]LogScript: Warning: Attempted to access ZOMBIE4_649 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE4_649 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE4_649.CharacterMesh0.MonsterAnimBP_C_3
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.37.18:818][505]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE4_649 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE4_649 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE4_649 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE4_649 is pending kill
+[2018.07.12-23.37.21:462][610]LogBlueprintUserMessages: [ZOMBIE6_721] 50
+[2018.07.12-23.37.21:462][610]LogBlueprintUserMessages: [ZOMBIE6_721] 0
+[2018.07.12-23.37.21:901][628]LogBlueprintUserMessages: [ZOMBIE3_542] 50
+[2018.07.12-23.37.22:084][635]LogBlueprintUserMessages: [ZOMBIE3_542] 0
+[2018.07.12-23.37.22:434][649]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE6_721 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE6_721 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE6_721 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE6_721 is pending kill
+[2018.07.12-23.37.22:684][659]LogBlueprintUserMessages: [ZOMBIE3_542] -50
+[2018.07.12-23.37.22:884][667]LogBlueprintUserMessages: [ZOMBIE3_542] -100
+[2018.07.12-23.37.23:083][675]LogScript: Warning: Attempted to access ZOMBIE3_542 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE3_542 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE3_542.CharacterMesh0.MonsterAnimBP_C_2
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.37.23:083][675]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE3_542 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE3_542 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE3_542 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE3_542 is pending kill
+[2018.07.12-23.37.23:558][694]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.12-23.37.23:803][704]LogBlueprintUserMessages: [ZOMBIE2_488] 50
+[2018.07.12-23.37.23:851][706]LogBlueprintUserMessages: [ZOMBIE5_676] 95
+[2018.07.12-23.37.24:371][727]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.12-23.37.24:754][743]LogBlueprintUserMessages: [ZOMBIE2_488] 0
+[2018.07.12-23.37.25:352][768]LogScript: Warning: Attempted to access ZOMBIE5_676 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE5_676 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE5_676.CharacterMesh0.MonsterAnimBP_C_4
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.37.25:352][768]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE5_676 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE5_676 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE5_676 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE5_676 is pending kill
+[2018.07.12-23.37.25:732][783]LogScript: Warning: Attempted to access ZOMBIE2_488 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE2_488 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE2_488.CharacterMesh0.MonsterAnimBP_C_0
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.12-23.37.25:732][783]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE2_488 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE2_488 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE2_488 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE2_488 is pending kill
+[2018.07.12-23.39.39:930][429]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/ThirdPersonBP/Levels/World.World_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World'
+[2018.07.12-23.39.40:095][429]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/ThirdPersonBP/Levels/World.World_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World'
+[2018.07.12-23.45.28:061][494]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.12-23.46.59:503][393]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.12-23.46.59:638][393]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a066015b30, Size=16
+[2018.07.12-23.46.59:638][393]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffb8f9ce0, Size=16, Default__World_C Function /Engine/Transient.REINST_World_C_2144:ExecuteUbergraph_World
+[2018.07.12-23.46.59:639][393]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019ffb8f8c50, Size=16, Default__World_C Function /Game/ThirdPersonBP/Levels/World.World_C:ExecuteUbergraph_World
+[2018.07.12-23.46.59:944][393]LogSavePackage: Save=362.94ms
+[2018.07.12-23.46.59:944][393]LogSavePackage: Moving '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/World_Auto6B6DC0B1A4B30E3303835F6865A8D2929.tmp' to '../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Levels/World_Auto6.umap'
+[2018.07.12-23.46.59:949][393]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/iD Student/Desktop/Corey P/IDtech-Game/IDtechGame/Saved/Autosaves/Game/ThirdPersonBP/Levels/World_Auto6.umap
+[2018.07.12-23.46.59:954][393]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Levels/World' took 0.430
+[2018.07.12-23.46.59:955][393]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.430
+[2018.07.13-03.18.53:179][538]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.13-03.18.53:317][538]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/ThirdPersonBP/Levels/World.World_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World'
+[2018.07.13-03.18.53:318][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.13-03.18.53:318][538]PIE: New page: PIE session: World (Jul 12, 2018, 1:18:53 PM)
+[2018.07.13-03.18.53:320][538]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_World
+[2018.07.13-03.18.53:378][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057537s)
+[2018.07.13-03.18.53:383][538]LogAIModule: Creating AISystem for world World
+[2018.07.13-03.18.53:384][538]LogPlayLevel: PIE: World Init took: (0.005980s)
+[2018.07.13-03.18.53:384][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/World.World to /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World (0.064039s)
+[2018.07.13-03.18.53:468][538]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffb8f9ce0, Size=16
+[2018.07.13-03.18.53:472][538]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.13-03.18.53:541][538]LogInit: FAudioDevice initialized.
+[2018.07.13-03.18.53:582][538]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.13-03.18.53:601][538]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-20.18.53
+[2018.07.13-03.18.53:607][538]LogWorld: Bringing up level for play took: 0.022651
+[2018.07.13-03.18.53:619][538]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_World -0.522
+[2018.07.13-03.18.53:622][538]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/ThirdPersonBP/Levels/World.World_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World'
+[2018.07.13-03.19.08:326][120]LogBlueprintUserMessages: [ZOMBIE5_676] 50
+[2018.07.13-03.19.08:326][120]LogBlueprintUserMessages: [ZOMBIE5_676] 0
+[2018.07.13-03.19.09:309][160]LogScript: Warning: Attempted to access ZOMBIE5_676 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE5_676 is pending kill
+	MonsterAnimBP_C /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World:PersistentLevel.ZOMBIE5_676.CharacterMesh0.MonsterAnimBP_C_4
+	Function /Game/ThirdPersonBP/Blueprints/source/MonsterAnimBP.MonsterAnimBP_C:ExecuteUbergraph_MonsterAnimBP:028E
+[2018.07.13-03.19.09:309][160]PIE: Error: Blueprint Runtime Error: Attempted to access ZOMBIE5_676 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE5_676 is pending kill from function: 'ExecuteUbergraph_MonsterAnimBP' from node: Set isDead in graph: EventGraph in object: MonsterAnimBP with description: Attempted to access ZOMBIE5_676 via property K2Node_DynamicCast_AsZOMBIE, but ZOMBIE5_676 is pending kill
+[2018.07.13-03.19.30:806][ 46]LogBlueprintUserMessages: [ZOMBIE4_649] 95
+[2018.07.13-03.19.43:002][454]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/ThirdPersonBP/Levels/World.World_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World'
+[2018.07.13-03.19.43:412][454]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/ThirdPersonBP/Levels/World.World_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World'
+[2018.07.13-03.19.53:683][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.13-03.20.06:013][262]LogSlate: Window 'ThirdPersonCharacter1' being destroyed
+[2018.07.13-03.20.06:022][262]LogSlate: Window 'ThirdPersonCharacter1' being destroyed
+[2018.07.13-03.20.06:520][262]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.13-03.20.06:776][262]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.13-03.20.10:947][455]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a246d95600, Size=864
+[2018.07.13-03.20.10:947][455]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a274eb2500, Size=672
+[2018.07.13-03.20.21:607][455]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.13-03.20.21:637][455]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019ffe91bd00, Size=672
+[2018.07.13-03.20.21:637][455]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1f49dee00, Size=672, Default__ThirdPersonCharacter1_C Function /Engine/Transient.REINST_ThirdPersonCharacter1_C_2146:ExecuteUbergraph_ThirdPersonCharacter1
+[2018.07.13-03.20.22:203][455]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1f49dee00, Size=672
+[2018.07.13-03.20.22:772][455]SourceControl: rm 'IDtechGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter1.uasset'
+[2018.07.13-03.20.24:038][524]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.13-03.20.24:069][524]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/ThirdPersonBP/Levels/World.World_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World'
+[2018.07.13-03.20.24:069][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.13-03.20.24:069][524]PIE: New page: PIE session: World (Jul 12, 2018, 1:20:24 PM)
+[2018.07.13-03.20.24:070][524]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_World
+[2018.07.13-03.20.24:090][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019991s)
+[2018.07.13-03.20.24:091][524]LogAIModule: Creating AISystem for world World
+[2018.07.13-03.20.24:092][524]LogPlayLevel: PIE: World Init took: (0.001935s)
+[2018.07.13-03.20.24:092][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/World.World to /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World (0.022245s)
+[2018.07.13-03.20.24:118][524]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.13-03.20.24:186][524]LogInit: FAudioDevice initialized.
+[2018.07.13-03.20.24:220][524]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.13-03.20.24:227][524]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2018.07.12-20.20.24
+[2018.07.13-03.20.24:229][524]LogWorld: Bringing up level for play took: 0.007396
+[2018.07.13-03.20.24:231][524]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_World 0.091
+[2018.07.13-03.20.24:232][524]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/ThirdPersonBP/Levels/World.World_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World'
+[2018.07.13-03.20.32:780][ 27]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/ThirdPersonBP/Levels/World.World_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World'
+[2018.07.13-03.20.32:818][ 27]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World' with GeneratedClass '/Game/ThirdPersonBP/Levels/World.World_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Levels/World.World:PersistentLevel.World'
+[2018.07.13-03.20.45:512][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2018.07.13-03.20.45:558][726]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.07.13-03.20.45:577][726]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.07.13-03.23.43:885][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.13-03.24.44:882][377]LogSlate: Window 'ZOMBIE' being destroyed
+[2018.07.13-03.24.44:887][377]LogSlate: Window 'ZOMBIE' being destroyed
