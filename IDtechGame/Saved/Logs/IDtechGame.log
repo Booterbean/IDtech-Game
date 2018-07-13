@@ -393,3 +393,5 @@ LogInit: Object subsystem initialized
 [2018.07.13-16.02.00:921][ 83]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
 [2018.07.13-16.02.02:051][ 83]LogSlate: Took 0.006372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2018.07.13-16.02.03:789][ 84]LogSlate: Took 0.009323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.13-16.05.12:072][783]LogRenderer: Reallocating scene render targets to support 1140x460 Format 10 NumSamples 1 (Frame:2698943).
+[2018.07.13-16.05.54:946][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
